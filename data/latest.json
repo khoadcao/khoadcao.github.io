@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T14:42:14",
-  "date": "2026-09-14",
-  "session_status": "intraday",
+  "generated_at": "2026-09-15T07:08:40",
+  "date": "2026-09-15",
+  "session_status": "closed",
   "market": {
     "last_date": "2026-09-14",
     "sessions": 743,
@@ -42,7 +42,18 @@
       "dist_ma20_pct": 6.681986918861571,
       "vol_ratio": 0.667058293365951,
       "pct_from_52w_high": 0.9109433962264151,
-      "atr14_pct": 4.388093265475205
+      "atr14_pct": 4.388093265475205,
+      "boi_canh": "Giá trên MA20 6.7%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.24), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 220.21428571428572,
+        "khoang_cach_pct": 8.77618653095041,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VHM",
@@ -56,7 +67,18 @@
       "dist_ma20_pct": -0.46505171097381837,
       "vol_ratio": 1.2910026576313582,
       "pct_from_52w_high": 0.8593000958772772,
-      "atr14_pct": 3.636182506475396
+      "atr14_pct": 3.636182506475396,
+      "boi_canh": "Giá dưới MA20 0.5%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách -0.5%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 66.48571428571428,
+        "khoang_cach_pct": 7.272365012950792,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "SHB",
@@ -70,7 +92,18 @@
       "dist_ma20_pct": -3.5124841303427745,
       "vol_ratio": 1.1142368565766942,
       "pct_from_52w_high": 0.6270627062706271,
-      "atr14_pct": 2.286967418546364
+      "atr14_pct": 2.286967418546364,
+      "boi_canh": "Giá dưới MA20 3.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.83), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 10.87857142857143,
+        "khoang_cach_pct": 4.573934837092728,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "TCB",
@@ -84,7 +117,18 @@
       "dist_ma20_pct": -0.5464480874316835,
       "vol_ratio": 0.7270480134433196,
       "pct_from_52w_high": 0.7741857073407876,
-      "atr14_pct": 3.0612244897959178
+      "atr14_pct": 3.0612244897959178,
+      "boi_canh": "Giá dưới MA20 0.5%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.02), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 29.900000000000002,
+        "khoang_cach_pct": 6.1224489795918355,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VPB",
@@ -98,7 +142,18 @@
       "dist_ma20_pct": 2.884160756501175,
       "vol_ratio": 1.4806579998208607,
       "pct_from_52w_high": 0.7988252569750367,
-      "atr14_pct": 2.547268907563025
+      "atr14_pct": 2.547268907563025,
+      "boi_canh": "Giá trên MA20 2.9%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.05), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 25.814285714285713,
+        "khoang_cach_pct": 5.09453781512605,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "HPG",
@@ -112,7 +167,18 @@
       "dist_ma20_pct": -3.3302497687326515,
       "vol_ratio": 1.1727236171934763,
       "pct_from_52w_high": 0.7586206896551724,
-      "atr14_pct": 2.118933697881064
+      "atr14_pct": 2.118933697881064,
+      "boi_canh": "Giá dưới MA20 3.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 20.014285714285712,
+        "khoang_cach_pct": 4.237867395762128,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "SSI",
@@ -126,7 +192,18 @@
       "dist_ma20_pct": -1.3629406477004946,
       "vol_ratio": 1.1762106855368255,
       "pct_from_52w_high": 0.6438312718046305,
-      "atr14_pct": 2.7093596059113283
+      "atr14_pct": 2.7093596059113283,
+      "boi_canh": "Giá dưới MA20 1.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 19.200000000000003,
+        "khoang_cach_pct": 5.418719211822657,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "FPT",
@@ -140,7 +217,18 @@
       "dist_ma20_pct": 1.4218673390768322,
       "vol_ratio": 0.8551506450182632,
       "pct_from_52w_high": 0.6752471553814587,
-      "atr14_pct": 2.0323599052880796
+      "atr14_pct": 2.0323599052880796,
+      "boi_canh": "Giá trên MA20 1.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.99), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 69.45714285714287,
+        "khoang_cach_pct": 4.064719810576159,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "MSN",
@@ -154,7 +242,18 @@
       "dist_ma20_pct": -2.5674786043449527,
       "vol_ratio": 0.9853718471810089,
       "pct_from_52w_high": 0.7085106382978723,
-      "atr14_pct": 1.9841269841269844
+      "atr14_pct": 1.9841269841269844,
+      "boi_canh": "Giá dưới MA20 2.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 63.95714285714285,
+        "khoang_cach_pct": 3.968253968253969,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "BSR",
@@ -168,7 +267,18 @@
       "dist_ma20_pct": 6.125488735803386,
       "vol_ratio": 1.5996790563947916,
       "pct_from_52w_high": 0.7277834525025537,
-      "atr14_pct": 2.907268170426063
+      "atr14_pct": 2.907268170426063,
+      "boi_canh": "Giá trên MA20 6.1%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "break_kem_volume",
+        "nen_mua": true,
+        "dien_giai": "Volume 1.6× trung bình 20 phiên, dấu hiệu break. Xác nhận bằng giá đóng cửa vượt cạnh trên nền giá."
+      },
+      "stoploss": {
+        "gia": 26.842857142857145,
+        "khoang_cach_pct": 5.814536340852126,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "STB",
@@ -182,7 +292,18 @@
       "dist_ma20_pct": 1.5687317202871753,
       "vol_ratio": 0.6965205618175414,
       "pct_from_52w_high": 0.9670886075949368,
-      "atr14_pct": 2.3092744951383737
+      "atr14_pct": 2.3092744951383737,
+      "boi_canh": "Giá trên MA20 1.6%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 1.0%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách 1.6%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 72.87142857142857,
+        "khoang_cach_pct": 4.618548990276747,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "HDB",
@@ -196,7 +317,18 @@
       "dist_ma20_pct": -1.3254786450662803,
       "vol_ratio": 0.9950698459741326,
       "pct_from_52w_high": 0.8933333333333333,
-      "atr14_pct": 2.158848614072494
+      "atr14_pct": 2.158848614072494,
+      "boi_canh": "Giá dưới MA20 1.3%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.07), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách -1.3%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 25.642857142857142,
+        "khoang_cach_pct": 4.317697228144988,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VCB",
@@ -210,7 +342,18 @@
       "dist_ma20_pct": -0.48481755549882877,
       "vol_ratio": 1.0674168503361428,
       "pct_from_52w_high": 0.7485604606525911,
-      "atr14_pct": 1.770451770451768
+      "atr14_pct": 1.770451770451768,
+      "boi_canh": "Giá dưới MA20 0.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 56.42857142857143,
+        "khoang_cach_pct": 3.540903540903536,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "MBB",
@@ -224,7 +367,18 @@
       "dist_ma20_pct": -3.17031211599903,
       "vol_ratio": 1.4716358031360517,
       "pct_from_52w_high": 0.8336859923825646,
-      "atr14_pct": 1.9579405366207367
+      "atr14_pct": 1.9579405366207367,
+      "boi_canh": "Giá dưới MA20 3.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.99), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 18.92857142857143,
+        "khoang_cach_pct": 3.9158810732414735,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "CTG",
@@ -238,7 +392,18 @@
       "dist_ma20_pct": -4.586862713760576,
       "vol_ratio": 1.2376813977745367,
       "pct_from_52w_high": 0.6967787114845938,
-      "atr14_pct": 1.8305814788226862
+      "atr14_pct": 1.8305814788226862,
+      "boi_canh": "Giá dưới MA20 4.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.91), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 28.757142857142856,
+        "khoang_cach_pct": 3.6611629576453724,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VNM",
@@ -252,7 +417,18 @@
       "dist_ma20_pct": -4.254460321304576,
       "vol_ratio": 1.2126476665266126,
       "pct_from_52w_high": 0.811217510259918,
-      "atr14_pct": 1.8188388340159
+      "atr14_pct": 1.8188388340159,
+      "boi_canh": "Giá dưới MA20 4.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 57.14285714285714,
+        "khoang_cach_pct": 3.6376776680318,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "MWG",
@@ -266,7 +442,18 @@
       "dist_ma20_pct": -4.631780297854904,
       "vol_ratio": 1.2614698951074086,
       "pct_from_52w_high": 0.7509413663259816,
-      "atr14_pct": 2.507163323782235
+      "atr14_pct": 2.507163323782235,
+      "boi_canh": "Giá dưới MA20 4.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 66.3,
+        "khoang_cach_pct": 5.01432664756447,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "ACB",
@@ -280,7 +467,18 @@
       "dist_ma20_pct": -0.7762402969962889,
       "vol_ratio": 0.8083264119885446,
       "pct_from_52w_high": 0.9245283018867925,
-      "atr14_pct": 1.5549076773566584
+      "atr14_pct": 1.5549076773566584,
+      "boi_canh": "Giá dưới MA20 0.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 21.364285714285714,
+        "khoang_cach_pct": 3.1098153547133167,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VJC",
@@ -294,7 +492,18 @@
       "dist_ma20_pct": -1.3920648293015758,
       "vol_ratio": 0.7715467355147827,
       "pct_from_52w_high": 0.7262305737753354,
-      "atr14_pct": 1.6331512263164025
+      "atr14_pct": 1.6331512263164025,
+      "boi_canh": "Giá dưới MA20 1.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.89), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 118.88571428571429,
+        "khoang_cach_pct": 3.266302452632805,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "LPB",
@@ -308,7 +517,18 @@
       "dist_ma20_pct": -7.173847240439912,
       "vol_ratio": 0.7530013256349317,
       "pct_from_52w_high": 0.7863247863247863,
-      "atr14_pct": 3.1599378881987565
+      "atr14_pct": 3.1599378881987565,
+      "boi_canh": "Giá dưới MA20 7.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 43.09285714285714,
+        "khoang_cach_pct": 6.319875776397513,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VRE",
@@ -322,7 +542,18 @@
       "dist_ma20_pct": 1.139041633935589,
       "vol_ratio": 1.0740842104700121,
       "pct_from_52w_high": 0.5899198167239404,
-      "atr14_pct": 3.63384188626907
+      "atr14_pct": 3.63384188626907,
+      "boi_canh": "Giá trên MA20 1.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 23.87857142857143,
+        "khoang_cach_pct": 7.26768377253814,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "GAS",
@@ -336,7 +567,18 @@
       "dist_ma20_pct": 3.1039461020211823,
       "vol_ratio": 0.9740671969861797,
       "pct_from_52w_high": 0.6517110266159696,
-      "atr14_pct": 3.7006167694615755
+      "atr14_pct": 3.7006167694615755,
+      "boi_canh": "Giá trên MA20 3.1%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 79.35714285714286,
+        "khoang_cach_pct": 7.401233538923151,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "BID",
@@ -350,7 +592,18 @@
       "dist_ma20_pct": -1.5232900862187648,
       "vol_ratio": 1.0972106130987453,
       "pct_from_52w_high": 0.682642734389918,
-      "atr14_pct": 1.7682317682317712
+      "atr14_pct": 1.7682317682317712,
+      "boi_canh": "Giá dưới MA20 1.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 34.48571428571428,
+        "khoang_cach_pct": 3.5364635364635424,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "TCX",
@@ -364,7 +617,18 @@
       "dist_ma20_pct": null,
       "vol_ratio": null,
       "pct_from_52w_high": null,
-      "atr14_pct": null
+      "atr14_pct": null,
+      "boi_canh": "chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được: thiếu khoảng cách tới MA20."
+      },
+      "stoploss": {
+        "gia": null,
+        "khoang_cach_pct": null,
+        "dien_giai": "Không tính được: thiếu ATR14 hoặc giá đóng cửa."
+      }
     },
     {
       "symbol": "GVR",
@@ -378,7 +642,18 @@
       "dist_ma20_pct": -5.825013756780139,
       "vol_ratio": 0.743359173126615,
       "pct_from_52w_high": 0.6440860215053763,
-      "atr14_pct": 3.2911996184116368
+      "atr14_pct": 3.2911996184116368,
+      "boi_canh": "Giá dưới MA20 5.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 27.978571428571428,
+        "khoang_cach_pct": 6.5823992368232735,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VIB",
@@ -392,7 +667,18 @@
       "dist_ma20_pct": -1.2226032503354856,
       "vol_ratio": 0.8973044584296964,
       "pct_from_52w_high": 0.7051623203831826,
-      "atr14_pct": 2.210242587601079
+      "atr14_pct": 2.210242587601079,
+      "boi_canh": "Giá dưới MA20 1.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 12.664285714285715,
+        "khoang_cach_pct": 4.420485175202158,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VPL",
@@ -406,7 +692,18 @@
       "dist_ma20_pct": 7.514524675987988,
       "vol_ratio": 1.6433007985803016,
       "pct_from_52w_high": 0.7585585585585586,
-      "atr14_pct": 3.1642348150661705
+      "atr14_pct": 3.1642348150661705,
+      "boi_canh": "Giá trên MA20 7.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 78.87142857142857,
+        "khoang_cach_pct": 6.328469630132341,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "MCH",
@@ -420,7 +717,18 @@
       "dist_ma20_pct": 1.1728637125236308,
       "vol_ratio": 0.7961605811012388,
       "pct_from_52w_high": 0.7693976034267744,
-      "atr14_pct": 1.409443269908389
+      "atr14_pct": 1.409443269908389,
+      "boi_canh": "Giá trên MA20 1.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.11), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 137.9,
+        "khoang_cach_pct": 2.818886539816778,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "SSB",
@@ -434,7 +742,18 @@
       "dist_ma20_pct": 17.948717948717952,
       "vol_ratio": 2.19301499605367,
       "pct_from_52w_high": 1.0,
-      "atr14_pct": 3.4344172451589343
+      "atr14_pct": 3.4344172451589343,
+      "boi_canh": "Giá trên MA20 17.9%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.35), cách đỉnh 52 tuần 1.0%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "qua_mo_rong",
+        "nen_mua": false,
+        "dien_giai": "Giá xa MA20 17.9%, quá mở rộng. Playbook §4.2: không mua đuổi, chờ giá về vùng MA20."
+      },
+      "stoploss": {
+        "gia": 18.20714285714286,
+        "khoang_cach_pct": 6.868834490317869,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "SAB",
@@ -448,7 +767,18 @@
       "dist_ma20_pct": -1.7185526821501096,
       "vol_ratio": 1.0389809463954505,
       "pct_from_52w_high": 0.8377012354923249,
-      "atr14_pct": 1.6919393455706297
+      "atr14_pct": 1.6919393455706297,
+      "boi_canh": "Giá dưới MA20 1.7%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), yếu hơn thị trường 63 phiên (RS 0.99), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách -1.7%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 43.23571428571429,
+        "khoang_cach_pct": 3.3838786911412595,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VIX",
@@ -462,21 +792,43 @@
       "dist_ma20_pct": -6.375390102541257,
       "vol_ratio": 1.881065162278169,
       "pct_from_52w_high": 0.38936959208899874,
-      "atr14_pct": 4.251700680272109
+      "atr14_pct": 4.251700680272109,
+      "boi_canh": "Giá dưới MA20 6.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.78), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.528571428571428,
+        "khoang_cach_pct": 8.503401360544219,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "GEX",
       "in_vn30": false,
-      "liquidity_20d": 243918984250.0,
-      "sessions": 744,
+      "liquidity_20d": 233356367000.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 22.3,
-      "rs_63": 0.7573779280089195,
+      "close": 23.55,
+      "rs_63": 0.7710797224947925,
       "ma_stack": false,
-      "dist_ma20_pct": -11.35844181655571,
-      "vol_ratio": 2.52017033008516,
-      "pct_from_52w_high": 0.4921650849702052,
-      "atr14_pct": 4.260089686098659
+      "dist_ma20_pct": -6.044284859365656,
+      "vol_ratio": 0.964701429179382,
+      "pct_from_52w_high": 0.5198675496688743,
+      "atr14_pct": 3.867151956323934,
+      "boi_canh": "Giá dưới MA20 6.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.77), cách đỉnh 52 tuần 0.5%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 21.728571428571428,
+        "khoang_cach_pct": 7.734303912647868,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "PNJ",
@@ -490,41 +842,74 @@
       "dist_ma20_pct": -7.277071091883524,
       "vol_ratio": 1.183788781021588,
       "pct_from_52w_high": 0.42399905515530883,
-      "atr14_pct": 5.690409868682852
+      "atr14_pct": 5.690409868682852,
+      "boi_canh": "Giá dưới MA20 7.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.58), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 31.81428571428571,
+        "khoang_cach_pct": 11.380819737365703,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VCI",
       "in_vn30": false,
-      "liquidity_20d": 208796648500.0,
-      "sessions": 744,
+      "liquidity_20d": 202040876000.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 19.6,
-      "rs_63": 0.8320968267362567,
+      "close": 20.05,
+      "rs_63": 0.8216092326594507,
       "ma_stack": false,
-      "dist_ma20_pct": -9.332716549092169,
-      "vol_ratio": 1.3547376623564653,
-      "pct_from_52w_high": 0.58982846825158,
-      "atr14_pct": 3.626093294460644
+      "dist_ma20_pct": -6.917363045496739,
+      "vol_ratio": 0.47078982071449604,
+      "pct_from_52w_high": 0.6030075187969925,
+      "atr14_pct": 3.2597078731742077,
+      "boi_canh": "Giá dưới MA20 6.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 18.742857142857144,
+        "khoang_cach_pct": 6.5194157463484155,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VND",
       "in_vn30": false,
-      "liquidity_20d": 161836846000.0,
-      "sessions": 744,
+      "liquidity_20d": 157474552750.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 14.6,
-      "rs_63": 0.8554340691617275,
+      "close": 14.95,
+      "rs_63": 0.846248133313404,
       "ma_stack": false,
-      "dist_ma20_pct": -9.737248840803714,
-      "vol_ratio": 1.7841844991818052,
-      "pct_from_52w_high": 0.5961616986525112,
-      "atr14_pct": 3.1800391389432443
+      "dist_ma20_pct": -7.114010562286444,
+      "vol_ratio": 1.0125505016062946,
+      "pct_from_52w_high": 0.6104532462229482,
+      "atr14_pct": 2.7711419015766814,
+      "boi_canh": "Giá dưới MA20 7.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 14.121428571428572,
+        "khoang_cach_pct": 5.542283803153363,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VSC",
       "in_vn30": false,
       "liquidity_20d": 155674359000.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 12.7,
       "rs_63": 0.6877993957787943,
@@ -532,7 +917,18 @@
       "dist_ma20_pct": -11.002102312543805,
       "vol_ratio": 1.097109051782472,
       "pct_from_52w_high": 0.3831070889894419,
-      "atr14_pct": 4.133858267716536
+      "atr14_pct": 4.133858267716536,
+      "boi_canh": "Giá dưới MA20 11.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.69), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.649999999999999,
+        "khoang_cach_pct": 8.267716535433072,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "PLX",
@@ -546,27 +942,49 @@
       "dist_ma20_pct": -3.2656421514818956,
       "vol_ratio": 0.9848760428843707,
       "pct_from_52w_high": 0.5186111519788142,
-      "atr14_pct": 2.8875379939209713
+      "atr14_pct": 2.8875379939209713,
+      "boi_canh": "Giá dưới MA20 3.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.91), cách đỉnh 52 tuần 0.5%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 33.214285714285715,
+        "khoang_cach_pct": 5.775075987841943,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "NVL",
       "in_vn30": false,
-      "liquidity_20d": 149630015500.0,
+      "liquidity_20d": 143092596000.0,
       "sessions": 300,
       "insufficient_history": false,
       "close": 11.95,
-      "rs_63": 0.9209888032816291,
+      "rs_63": 0.9036116560499002,
       "ma_stack": false,
-      "dist_ma20_pct": -8.358895705521485,
-      "vol_ratio": 1.946010656498151,
+      "dist_ma20_pct": -7.846539425486809,
+      "vol_ratio": 0.6707859705754995,
       "pct_from_52w_high": 0.6106285130301481,
-      "atr14_pct": 3.3472803347280333
+      "atr14_pct": 3.167961745367603,
+      "boi_canh": "Giá dưới MA20 7.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.192857142857141,
+        "khoang_cach_pct": 6.335923490735206,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "CII",
       "in_vn30": false,
       "liquidity_20d": 142985934250.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 12.95,
       "rs_63": 0.7478251843413949,
@@ -574,21 +992,43 @@
       "dist_ma20_pct": -9.488030753101517,
       "vol_ratio": 1.1156982982214827,
       "pct_from_52w_high": 0.41307814992025516,
-      "atr14_pct": 4.026475455046883
+      "atr14_pct": 4.026475455046883,
+      "boi_canh": "Giá dưới MA20 9.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.75), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.907142857142857,
+        "khoang_cach_pct": 8.052950910093767,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VPI",
       "in_vn30": false,
-      "liquidity_20d": 140852708100.0,
-      "sessions": 300,
+      "liquidity_20d": 142882626800.0,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 60.3,
-      "rs_63": 1.0794233355622656,
+      "rs_63": 1.0788450730610715,
       "ma_stack": true,
-      "dist_ma20_pct": 1.9924901052061905,
+      "dist_ma20_pct": 0.3645079143156593,
       "vol_ratio": 1.1313137235604156,
-      "pct_from_52w_high": 0.9563838223632039,
-      "atr14_pct": 3.1935560293769254
+      "pct_from_52w_high": 0.8688760806916426,
+      "atr14_pct": 4.598436389481168,
+      "boi_canh": "Giá trên MA20 0.4%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách 0.4%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 54.75428571428571,
+        "khoang_cach_pct": 9.196872778962335,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "DXG",
@@ -602,49 +1042,93 @@
       "dist_ma20_pct": -6.010928961748629,
       "vol_ratio": 0.6420030053546106,
       "pct_from_52w_high": 0.5002326663564449,
-      "atr14_pct": 3.8205980066445195
+      "atr14_pct": 3.8205980066445195,
+      "boi_canh": "Giá dưới MA20 6.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.5%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 9.928571428571429,
+        "khoang_cach_pct": 7.641196013289039,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "PVT",
       "in_vn30": false,
       "liquidity_20d": 107236592500.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 22.7,
       "rs_63": 1.157425642673177,
       "ma_stack": false,
-      "dist_ma20_pct": 9.980620155038755,
+      "dist_ma20_pct": 9.980620155038778,
       "vol_ratio": 1.5772836202011375,
-      "pct_from_52w_high": 0.762768817204301,
-      "atr14_pct": 3.13089993706734
+      "pct_from_52w_high": 0.7635385132862428,
+      "atr14_pct": 3.13089993706734,
+      "boi_canh": "Giá trên MA20 10.0%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.16), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 21.27857142857143,
+        "khoang_cach_pct": 6.26179987413468,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "HCM",
       "in_vn30": false,
-      "liquidity_20d": 105012753000.0,
-      "sessions": 744,
+      "liquidity_20d": 99268917500.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 24.75,
-      "rs_63": 1.065177599447383,
+      "close": 25.15,
+      "rs_63": 1.06365975168425,
       "ma_stack": true,
-      "dist_ma20_pct": -4.320092780516093,
-      "vol_ratio": 1.0614108323888896,
-      "pct_from_52w_high": 0.9049360146252284,
-      "atr14_pct": 2.871572871572871
+      "dist_ma20_pct": -2.6702786377708843,
+      "vol_ratio": 0.4475631758356587,
+      "pct_from_52w_high": 0.919561243144424,
+      "atr14_pct": 2.5276909968758874,
+      "boi_canh": "Giá dưới MA20 2.7%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.06), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 23.878571428571426,
+        "khoang_cach_pct": 5.055381993751775,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "DCM",
       "in_vn30": false,
       "liquidity_20d": 96568575750.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 32.45,
       "rs_63": 0.9001124254909375,
       "ma_stack": false,
-      "dist_ma20_pct": 2.8607655123226827,
+      "dist_ma20_pct": 2.860765512322705,
       "vol_ratio": 0.8575903455552625,
       "pct_from_52w_high": 0.6488702259548091,
-      "atr14_pct": 2.630420427030597
+      "atr14_pct": 2.630420427030597,
+      "boi_canh": "Giá trên MA20 2.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 30.742857142857144,
+        "khoang_cach_pct": 5.260840854061194,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "KDH",
@@ -658,21 +1142,43 @@
       "dist_ma20_pct": -10.515816471929318,
       "vol_ratio": 1.0477242173996544,
       "pct_from_52w_high": 0.4307270233196159,
-      "atr14_pct": 3.525932666060056
+      "atr14_pct": 3.525932666060056,
+      "boi_canh": "Giá dưới MA20 10.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.68), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 14.592857142857142,
+        "khoang_cach_pct": 7.051865332120112,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "GEE",
       "in_vn30": false,
       "liquidity_20d": 90956114000.0,
-      "sessions": 300,
+      "sessions": 724,
       "insufficient_history": false,
       "close": 57.7,
       "rs_63": 0.6236283880981526,
       "ma_stack": false,
-      "dist_ma20_pct": -10.798484965602517,
+      "dist_ma20_pct": -10.79848496560254,
       "vol_ratio": 1.9921270511385112,
-      "pct_from_52w_high": 0.4188747731397459,
-      "atr14_pct": 3.899480069324089
+      "pct_from_52w_high": 0.41893559863501056,
+      "atr14_pct": 3.899480069324089,
+      "boi_canh": "Giá dưới MA20 10.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.62), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 53.2,
+        "khoang_cach_pct": 7.798960138648178,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "GMD",
@@ -686,55 +1192,99 @@
       "dist_ma20_pct": -3.748145280949622,
       "vol_ratio": 0.4452981976639249,
       "pct_from_52w_high": 0.8577670461078533,
-      "atr14_pct": 1.9532746074301042
-    },
-    {
-      "symbol": "DGW",
-      "in_vn30": false,
-      "liquidity_20d": 89321475250.0,
-      "sessions": 300,
-      "insufficient_history": false,
-      "close": 46.0,
-      "rs_63": 1.1847808550245007,
-      "ma_stack": false,
-      "dist_ma20_pct": 8.197106903445839,
-      "vol_ratio": 1.4870497171777315,
-      "pct_from_52w_high": 0.8137272244825756,
-      "atr14_pct": 3.6568322981366483
-    },
-    {
-      "symbol": "POW",
-      "in_vn30": false,
-      "liquidity_20d": 86415788000.0,
-      "sessions": 300,
-      "insufficient_history": false,
-      "close": 12.4,
-      "rs_63": 0.9202751903858585,
-      "ma_stack": false,
-      "dist_ma20_pct": -5.4697922622450985,
-      "vol_ratio": 1.8688073193124217,
-      "pct_from_52w_high": 0.7359050445103857,
-      "atr14_pct": 2.304147465437786
+      "atr14_pct": 1.9532746074301042,
+      "boi_canh": "Giá dưới MA20 3.7%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), yếu hơn thị trường 63 phiên (RS 0.98), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 71.68571428571428,
+        "khoang_cach_pct": 3.9065492148602083,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "TPB",
       "in_vn30": false,
       "liquidity_20d": 86346103750.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 14.0,
       "rs_63": 0.8579067326769618,
       "ma_stack": false,
       "dist_ma20_pct": -3.3316071120317536,
       "vol_ratio": 1.1074813551723182,
-      "pct_from_52w_high": 0.7287870900572618,
-      "atr14_pct": 1.7857142857142878
+      "pct_from_52w_high": 0.7295466388744137,
+      "atr14_pct": 1.7857142857142878,
+      "boi_canh": "Giá dưới MA20 3.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 13.5,
+        "khoang_cach_pct": 3.5714285714285756,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
+    },
+    {
+      "symbol": "POW",
+      "in_vn30": false,
+      "liquidity_20d": 83802441000.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 12.4,
+      "rs_63": 0.8937924510941792,
+      "ma_stack": false,
+      "dist_ma20_pct": -5.071770334928227,
+      "vol_ratio": 0.5349559869976084,
+      "pct_from_52w_high": 0.7359050445103857,
+      "atr14_pct": 2.2465437788018416,
+      "boi_canh": "Giá dưới MA20 5.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.89), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.842857142857143,
+        "khoang_cach_pct": 4.493087557603683,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
+    },
+    {
+      "symbol": "DGW",
+      "in_vn30": false,
+      "liquidity_20d": 82903622250.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 45.65,
+      "rs_63": 1.1377439274495365,
+      "ma_stack": false,
+      "dist_ma20_pct": 7.05909943714822,
+      "vol_ratio": 0.6055551526579157,
+      "pct_from_52w_high": 0.8075358216875994,
+      "atr14_pct": 3.755280863714601,
+      "boi_canh": "Giá trên MA20 7.1%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.14), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 42.22142857142857,
+        "khoang_cach_pct": 7.510561727429202,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "PVD",
       "in_vn30": false,
       "liquidity_20d": 78740528500.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 18.95,
       "rs_63": 1.0565521414744208,
@@ -742,7 +1292,18 @@
       "dist_ma20_pct": 1.0397227406025111,
       "vol_ratio": 1.4048163012537496,
       "pct_from_52w_high": 0.6951577402787967,
-      "atr14_pct": 3.24161326799849
+      "atr14_pct": 3.24161326799849,
+      "boi_canh": "Giá trên MA20 1.0%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.06), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 17.72142857142857,
+        "khoang_cach_pct": 6.48322653599698,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "EIB",
@@ -756,77 +1317,118 @@
       "dist_ma20_pct": -6.08950843727073,
       "vol_ratio": 2.012548039588801,
       "pct_from_52w_high": 0.5755395683453237,
-      "atr14_pct": 2.410714285714285
+      "atr14_pct": 2.410714285714285,
+      "boi_canh": "Giá dưới MA20 6.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.77), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 15.22857142857143,
+        "khoang_cach_pct": 4.82142857142857,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "TCH",
       "in_vn30": false,
-      "liquidity_20d": 72372450900.0,
-      "sessions": 300,
+      "liquidity_20d": 72757219350.0,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 11.45,
-      "rs_63": 0.8429021447340314,
+      "rs_63": 0.8441426188248835,
       "ma_stack": false,
-      "dist_ma20_pct": -1.682981281126561,
+      "dist_ma20_pct": -2.115836717247299,
       "vol_ratio": 0.7607383059254411,
-      "pct_from_52w_high": 0.5026338893766461,
-      "atr14_pct": 4.098565190268248
+      "pct_from_52w_high": 0.5037395512538495,
+      "atr14_pct": 5.246412975670619,
+      "boi_canh": "Giá dưới MA20 2.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.5%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 10.248571428571427,
+        "khoang_cach_pct": 10.492825951341239,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "DPM",
       "in_vn30": false,
-      "liquidity_20d": 68173197500.0,
+      "liquidity_20d": 70007358500.0,
       "sessions": 300,
       "insufficient_history": false,
-      "close": 22.05,
-      "rs_63": 0.9749413393577941,
+      "close": 23.1,
+      "rs_63": 1.0453558663411355,
       "ma_stack": false,
-      "dist_ma20_pct": -0.6868595878842476,
-      "vol_ratio": 1.1394404072041273,
-      "pct_from_52w_high": 0.657816229116945,
-      "atr14_pct": 2.6724975704567533
+      "dist_ma20_pct": 3.761931499157778,
+      "vol_ratio": 1.2303249468980588,
+      "pct_from_52w_high": 0.6891408114558473,
+      "atr14_pct": 2.6901669758812607,
+      "boi_canh": "Giá trên MA20 3.8%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.05), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 21.857142857142858,
+        "khoang_cach_pct": 5.3803339517625215,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "BAF",
       "in_vn30": false,
-      "liquidity_20d": 67547409250.0,
-      "sessions": 744,
+      "liquidity_20d": 66834134750.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 31.85,
-      "rs_63": 1.092465364783822,
+      "close": 32.05,
+      "rs_63": 1.0985732400433748,
       "ma_stack": true,
-      "dist_ma20_pct": -0.9562310502993054,
-      "vol_ratio": 0.6707119277959052,
-      "pct_from_52w_high": 0.9651515151515152,
-      "atr14_pct": 1.4689392240412682
+      "dist_ma20_pct": -0.4349176762969864,
+      "vol_ratio": 0.5544363351227456,
+      "pct_from_52w_high": 0.9712121212121211,
+      "atr14_pct": 1.4040561622464924,
+      "boi_canh": "Giá dưới MA20 0.4%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.10), cách đỉnh 52 tuần 1.0%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách -0.4%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 31.149999999999995,
+        "khoang_cach_pct": 2.808112324492985,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "MSB",
       "in_vn30": false,
-      "liquidity_20d": 66746095750.0,
-      "sessions": 300,
+      "liquidity_20d": 66677676900.0,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 12.8,
-      "rs_63": 1.0243194946065417,
+      "rs_63": 1.0259584057979119,
       "ma_stack": false,
-      "dist_ma20_pct": -2.6097542418017206,
+      "dist_ma20_pct": -2.531886541024164,
       "vol_ratio": 0.4766005352399198,
-      "pct_from_52w_high": 0.9322651128914785,
-      "atr14_pct": 2.5167410714285694
-    },
-    {
-      "symbol": "DIG",
-      "in_vn30": false,
-      "liquidity_20d": 64138238500.0,
-      "sessions": 300,
-      "insufficient_history": false,
-      "close": 10.0,
-      "rs_63": 0.8447828884165459,
-      "ma_stack": false,
-      "dist_ma20_pct": -3.044405662206695,
-      "vol_ratio": 0.6176720407057168,
-      "pct_from_52w_high": 0.42319085907744397,
-      "atr14_pct": 2.978571428571427
+      "pct_from_52w_high": 0.9336250911743253,
+      "atr14_pct": 2.5223214285714284,
+      "boi_canh": "Giá dưới MA20 2.5%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 12.154285714285715,
+        "khoang_cach_pct": 5.044642857142857,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "PDR",
@@ -840,49 +1442,118 @@
       "dist_ma20_pct": -4.977375565610864,
       "vol_ratio": 0.9097098514344956,
       "pct_from_52w_high": 0.4277777777777778,
-      "atr14_pct": 2.813852813852813
+      "atr14_pct": 2.813852813852813,
+      "boi_canh": "Giá dưới MA20 5.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.78), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 10.9,
+        "khoang_cach_pct": 5.627705627705626,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
+    },
+    {
+      "symbol": "DIG",
+      "in_vn30": false,
+      "liquidity_20d": 61834638600.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 9.99,
+      "rs_63": 0.8177374127094456,
+      "ma_stack": false,
+      "dist_ma20_pct": -3.1225756400310445,
+      "vol_ratio": 0.2873167305708362,
+      "pct_from_52w_high": 0.42276766821836653,
+      "atr14_pct": 2.6240526240526227,
+      "boi_canh": "Giá dưới MA20 3.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.4%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 9.465714285714286,
+        "khoang_cach_pct": 5.2481052481052455,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "FRT",
       "in_vn30": false,
       "liquidity_20d": 59951030500.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 133.0,
       "rs_63": 1.156320403098309,
       "ma_stack": false,
-      "dist_ma20_pct": -6.7517352590619195,
+      "dist_ma20_pct": -6.751735259061908,
       "vol_ratio": 1.977554271583803,
-      "pct_from_52w_high": 0.7715064678925693,
-      "atr14_pct": 3.5177228786251344
+      "pct_from_52w_high": 0.7715512240399118,
+      "atr14_pct": 3.5177228786251344,
+      "boi_canh": "Giá dưới MA20 6.8%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.16), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 123.64285714285714,
+        "khoang_cach_pct": 7.035445757250269,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "NLG",
       "in_vn30": false,
       "liquidity_20d": 56396982250.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 23.75,
       "rs_63": 0.9368276381682306,
       "ma_stack": false,
-      "dist_ma20_pct": -1.8899101518124684,
+      "dist_ma20_pct": -1.8899101518124573,
       "vol_ratio": 1.250349001533459,
       "pct_from_52w_high": 0.6029449098756029,
-      "atr14_pct": 3.0225563909774427
+      "atr14_pct": 3.0225563909774427,
+      "boi_canh": "Giá dưới MA20 1.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 22.314285714285713,
+        "khoang_cach_pct": 6.045112781954885,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "BCM",
       "in_vn30": false,
-      "liquidity_20d": 40012480500.0,
-      "sessions": 744,
+      "liquidity_20d": 36655634250.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 39.0,
-      "rs_63": 0.7428628844262151,
+      "close": 39.75,
+      "rs_63": 0.7444116280386062,
       "ma_stack": false,
-      "dist_ma20_pct": -7.3634204275534465,
-      "vol_ratio": 0.4074623701505194,
-      "pct_from_52w_high": 0.47404886349823755,
-      "atr14_pct": 4.139194139194143
+      "dist_ma20_pct": -4.932735426008971,
+      "vol_ratio": 0.4377117890910342,
+      "pct_from_52w_high": 0.48310646572678656,
+      "atr14_pct": 3.755615453728666,
+      "boi_canh": "Giá dưới MA20 4.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.74), cách đỉnh 52 tuần 0.5%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 36.76428571428571,
+        "khoang_cach_pct": 7.511230907457332,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "CTS",
@@ -896,21 +1567,43 @@
       "dist_ma20_pct": -4.645476772616131,
       "vol_ratio": 0.8557985400090663,
       "pct_from_52w_high": 0.5879934210526316,
-      "atr14_pct": 4.062604062604061
+      "atr14_pct": 4.062604062604061,
+      "boi_canh": "Giá dưới MA20 4.6%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.00), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 19.707142857142856,
+        "khoang_cach_pct": 8.125208125208122,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VCG",
       "in_vn30": false,
       "liquidity_20d": 34322708250.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 14.4,
-      "rs_63": 0.8282169966436932,
+      "rs_63": 0.8286927100248787,
       "ma_stack": false,
-      "dist_ma20_pct": -8.177905308464839,
+      "dist_ma20_pct": -8.177905308464851,
       "vol_ratio": 1.6895950397209842,
-      "pct_from_52w_high": 0.5566293003478933,
-      "atr14_pct": 2.306547619047618
+      "pct_from_52w_high": 0.5568445475638051,
+      "atr14_pct": 2.306547619047618,
+      "boi_canh": "Giá dưới MA20 8.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.83), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 13.735714285714286,
+        "khoang_cach_pct": 4.613095238095236,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "VTP",
@@ -924,7 +1617,18 @@
       "dist_ma20_pct": -8.237845994247184,
       "vol_ratio": 0.5943622192227571,
       "pct_from_52w_high": 0.5902693520990051,
-      "atr14_pct": 2.5987373366612827
+      "atr14_pct": 2.5987373366612827,
+      "boi_canh": "Giá dưới MA20 8.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 46.121428571428574,
+        "khoang_cach_pct": 5.197474673322565,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "KBC",
@@ -938,13 +1642,24 @@
       "dist_ma20_pct": -2.3671364096896075,
       "vol_ratio": 0.8222861108357291,
       "pct_from_52w_high": 0.6575682382133996,
-      "atr14_pct": 1.590296495956871
+      "atr14_pct": 1.590296495956871,
+      "boi_canh": "Giá dưới MA20 2.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 25.65714285714286,
+        "khoang_cach_pct": 3.180592991913742,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "BVH",
       "in_vn30": false,
       "liquidity_20d": 32413072500.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 68.0,
       "rs_63": 1.0385678412350243,
@@ -952,13 +1667,24 @@
       "dist_ma20_pct": 4.631481766425605,
       "vol_ratio": 2.829932246730628,
       "pct_from_52w_high": 0.768361581920904,
-      "atr14_pct": 2.930672268907566
+      "atr14_pct": 2.930672268907566,
+      "boi_canh": "Giá trên MA20 4.6%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 0.8%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 64.0142857142857,
+        "khoang_cach_pct": 5.861344537815132,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "PC1",
       "in_vn30": false,
       "liquidity_20d": 30336375250.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 20.25,
       "rs_63": 1.0377866107240907,
@@ -966,77 +1692,143 @@
       "dist_ma20_pct": -0.917431192660545,
       "vol_ratio": 1.8261169174227634,
       "pct_from_52w_high": 0.6288819875776397,
-      "atr14_pct": 2.6278659611992956
-    },
-    {
-      "symbol": "SBT",
-      "in_vn30": false,
-      "liquidity_20d": 28615754000.0,
-      "sessions": 744,
-      "insufficient_history": false,
-      "close": 22.9,
-      "rs_63": 1.0646773262023357,
-      "ma_stack": true,
-      "dist_ma20_pct": -1.388739369146308,
-      "vol_ratio": 0.915077285560498,
-      "pct_from_52w_high": 0.879416282642089,
-      "atr14_pct": 1.8870867124142228
+      "atr14_pct": 2.6278659611992956,
+      "boi_canh": "Giá dưới MA20 0.9%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 19.185714285714287,
+        "khoang_cach_pct": 5.255731922398591,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "DBC",
       "in_vn30": false,
       "liquidity_20d": 28465306750.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 15.85,
       "rs_63": 0.8583953089050308,
       "ma_stack": false,
       "dist_ma20_pct": -4.675988573146905,
       "vol_ratio": 0.8672280100851529,
-      "pct_from_52w_high": 0.6042699199390011,
-      "atr14_pct": 2.9968454258675084
+      "pct_from_52w_high": 0.6049618320610687,
+      "atr14_pct": 2.9968454258675084,
+      "boi_canh": "Giá dưới MA20 4.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 14.9,
+        "khoang_cach_pct": 5.993690851735017,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
+    },
+    {
+      "symbol": "SBT",
+      "in_vn30": false,
+      "liquidity_20d": 28025459000.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 23.0,
+      "rs_63": 1.0594936841483467,
+      "ma_stack": true,
+      "dist_ma20_pct": -0.9581225104963065,
+      "vol_ratio": 0.8398055030037506,
+      "pct_from_52w_high": 0.883935434281322,
+      "atr14_pct": 1.8633540372670798,
+      "boi_canh": "Giá dưới MA20 1.0%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.06), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách -1.0%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 22.142857142857142,
+        "khoang_cach_pct": 3.7267080745341596,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "OCB",
       "in_vn30": false,
       "liquidity_20d": 27871658750.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 10.2,
-      "rs_63": 0.9453753522435372,
+      "rs_63": 0.943629506717695,
       "ma_stack": true,
       "dist_ma20_pct": -4.717421765530139,
       "vol_ratio": 0.6871461667101367,
-      "pct_from_52w_high": 0.8542713567839195,
-      "atr14_pct": 1.890756302521008
+      "pct_from_52w_high": 0.8528428093645484,
+      "atr14_pct": 1.890756302521008,
+      "boi_canh": "Giá dưới MA20 4.7%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 0.9%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 9.814285714285713,
+        "khoang_cach_pct": 3.781512605042016,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "HHV",
       "in_vn30": false,
       "liquidity_20d": 26515182400.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 9.3,
-      "rs_63": 0.859574382163913,
+      "rs_63": 0.857991372252009,
       "ma_stack": false,
       "dist_ma20_pct": -6.706124291518279,
       "vol_ratio": 1.3064859792344856,
       "pct_from_52w_high": 0.5765654060756356,
-      "atr14_pct": 1.8817204301075277
+      "atr14_pct": 1.8817204301075277,
+      "boi_canh": "Giá dưới MA20 6.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 8.950000000000001,
+        "khoang_cach_pct": 3.7634408602150553,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "HSG",
       "in_vn30": false,
       "liquidity_20d": 24003392000.0,
-      "sessions": 300,
+      "sessions": 744,
       "insufficient_history": false,
       "close": 10.1,
       "rs_63": 0.8648988296740544,
       "ma_stack": false,
       "dist_ma20_pct": -5.119774542038513,
       "vol_ratio": 1.2138567677472858,
-      "pct_from_52w_high": 0.6203931203931203,
-      "atr14_pct": 2.0862800565770847
+      "pct_from_52w_high": 0.6192519926425506,
+      "atr14_pct": 2.0862800565770847,
+      "boi_canh": "Giá dưới MA20 5.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.6%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 9.678571428571429,
+        "khoang_cach_pct": 4.172560113154169,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     },
     {
       "symbol": "HAG",
@@ -1050,21 +1842,18 @@
       "dist_ma20_pct": -2.187444424684337,
       "vol_ratio": 1.576528285347059,
       "pct_from_52w_high": 0.7142857142857143,
-      "atr14_pct": 1.844155844155843
-    },
-    {
-      "symbol": "HDG",
-      "in_vn30": false,
-      "liquidity_20d": 20234703250.0,
-      "sessions": 300,
-      "insufficient_history": false,
-      "close": 15.6,
-      "rs_63": 0.738999294956386,
-      "ma_stack": false,
-      "dist_ma20_pct": -4.732824427480919,
-      "vol_ratio": 0.9672055464993239,
-      "pct_from_52w_high": 0.47985235312211627,
-      "atr14_pct": 2.9761904761904723
+      "atr14_pct": 1.844155844155843,
+      "boi_canh": "Giá dưới MA20 2.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 0.7%, chế độ thị trường SIDEWAY.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 13.242857142857144,
+        "khoang_cach_pct": 3.688311688311686,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
     }
   ]
 }
