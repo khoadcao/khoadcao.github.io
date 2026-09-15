@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:33:00",
+  "generated_at": "2026-09-15T13:52:12",
   "date": "2026-09-15",
   "session_status": "intraday",
   "market": {
@@ -53,7 +53,21 @@
         "gia": 220.82857142857142,
         "khoang_cach_pct": 8.55959775214434,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.17,
+        "hot_money": 12.05,
+        "retail": 11.6,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.17,
+      "dt_hot": 12.05,
+      "dt_retail": 11.6
     },
     {
       "symbol": "VHM",
@@ -78,7 +92,21 @@
         "gia": 66.37142857142857,
         "khoang_cach_pct": 7.042817126850746,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 4.57,
+        "hot_money": 9.21,
+        "retail": 10.13,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 4.57,
+      "dt_hot": 9.21,
+      "dt_retail": 10.13
     },
     {
       "symbol": "SHB",
@@ -103,7 +131,21 @@
         "gia": 11.064285714285715,
         "khoang_cach_pct": 4.2053184910327746,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 8.15,
+        "hot_money": 8.23,
+        "retail": 8.18,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 8.15,
+      "dt_hot": 8.23,
+      "dt_retail": 8.18
     },
     {
       "symbol": "TCB",
@@ -128,7 +170,21 @@
         "gia": 30.30714285714286,
         "khoang_cach_pct": 5.878438331854479,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 11.63,
+        "hot_money": 10.64,
+        "retail": 10.29,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 11.63,
+      "dt_hot": 10.64,
+      "dt_retail": 10.29
     },
     {
       "symbol": "VPB",
@@ -153,7 +209,21 @@
         "gia": 26.107142857142854,
         "khoang_cach_pct": 4.718456725755996,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 12.08,
+        "hot_money": 11.86,
+        "retail": 10.78,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 12.08,
+      "dt_hot": 11.86,
+      "dt_retail": 10.78
     },
     {
       "symbol": "HPG",
@@ -178,7 +248,21 @@
         "gia": 20.235714285714288,
         "khoang_cach_pct": 3.8683406854428206,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 5.74,
+        "hot_money": 8.14,
+        "retail": 8.72,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 5.74,
+      "dt_hot": 8.14,
+      "dt_retail": 8.72
     },
     {
       "symbol": "SSI",
@@ -203,7 +287,21 @@
         "gia": 19.400000000000002,
         "khoang_cach_pct": 4.668304668304665,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 4.88,
+        "hot_money": 9.54,
+        "retail": 9.64,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 4.88,
+      "dt_hot": 9.54,
+      "dt_retail": 9.64
     },
     {
       "symbol": "FPT",
@@ -228,7 +326,21 @@
         "gia": 70.4857142857143,
         "khoang_cach_pct": 3.7080405932864893,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 11.64,
+        "hot_money": 11.51,
+        "retail": 10.33,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 11.64,
+      "dt_hot": 11.51,
+      "dt_retail": 10.33
     },
     {
       "symbol": "BSR",
@@ -253,7 +365,21 @@
         "gia": 28.55,
         "khoang_cach_pct": 6.239737274220028,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 19.12,
+        "hot_money": 14.9,
+        "retail": 11.75,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 19.12,
+      "dt_hot": 14.9,
+      "dt_retail": 11.75
     },
     {
       "symbol": "MSN",
@@ -278,7 +404,21 @@
         "gia": 64.94285714285715,
         "khoang_cach_pct": 3.6456125476896992,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 9.44,
+        "hot_money": 9.03,
+        "retail": 9.13,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 9.44,
+      "dt_hot": 9.03,
+      "dt_retail": 9.13
     },
     {
       "symbol": "VCB",
@@ -303,7 +443,21 @@
         "gia": 57.94285714285714,
         "khoang_cach_pct": 3.428571428571423,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 15.95,
+        "hot_money": 11.58,
+        "retail": 10.29,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 15.95,
+      "dt_hot": 11.58,
+      "dt_retail": 10.29
     },
     {
       "symbol": "STB",
@@ -328,7 +482,21 @@
         "gia": 72.48571428571428,
         "khoang_cach_pct": 4.624060150375947,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.53,
+        "hot_money": 10.75,
+        "retail": 10.96,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.53,
+      "dt_hot": 10.75,
+      "dt_retail": 10.96
     },
     {
       "symbol": "HDB",
@@ -353,7 +521,21 @@
         "gia": 26.0,
         "khoang_cach_pct": 4.059040590405903,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 10.36,
+        "hot_money": 10.19,
+        "retail": 10.43,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 10.36,
+      "dt_hot": 10.19,
+      "dt_retail": 10.43
     },
     {
       "symbol": "MBB",
@@ -378,7 +560,21 @@
         "gia": 19.271428571428572,
         "khoang_cach_pct": 3.6428571428571357,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 10.66,
+        "hot_money": 9.27,
+        "retail": 9.81,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 10.66,
+      "dt_hot": 9.27,
+      "dt_retail": 9.81
     },
     {
       "symbol": "CTG",
@@ -403,7 +599,21 @@
         "gia": 29.492857142857144,
         "khoang_cach_pct": 3.4603694178162265,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 11.98,
+        "hot_money": 8.57,
+        "retail": 8.86,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 11.98,
+      "dt_hot": 8.57,
+      "dt_retail": 8.86
     },
     {
       "symbol": "VNM",
@@ -428,7 +638,21 @@
         "gia": 57.51428571428571,
         "khoang_cach_pct": 3.6611629576453724,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.49,
+        "hot_money": 8.26,
+        "retail": 9.93,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.49,
+      "dt_hot": 8.26,
+      "dt_retail": 9.93
     },
     {
       "symbol": "MWG",
@@ -453,7 +677,21 @@
         "gia": 67.97142857142858,
         "khoang_cach_pct": 4.534510433386839,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 9.5,
+        "hot_money": 8.94,
+        "retail": 9.27,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 9.5,
+      "dt_hot": 8.94,
+      "dt_retail": 9.27
     },
     {
       "symbol": "ACB",
@@ -478,7 +716,21 @@
         "gia": 21.492857142857144,
         "khoang_cach_pct": 2.74725274725275,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.93,
+        "hot_money": 9.14,
+        "retail": 10.02,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.93,
+      "dt_hot": 9.14,
+      "dt_retail": 10.02
     },
     {
       "symbol": "GAS",
@@ -503,7 +755,21 @@
         "gia": 84.42857142857143,
         "khoang_cach_pct": 7.627383557361672,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 17.39,
+        "hot_money": 14.33,
+        "retail": 11.68,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 17.39,
+      "dt_hot": 14.33,
+      "dt_retail": 11.68
     },
     {
       "symbol": "VJC",
@@ -528,7 +794,21 @@
         "gia": 120.57142857142857,
         "khoang_cach_pct": 3.077629765732661,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 10.16,
+        "hot_money": 9.1,
+        "retail": 9.15,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 10.16,
+      "dt_hot": 9.1,
+      "dt_retail": 9.15
     },
     {
       "symbol": "LPB",
@@ -553,7 +833,21 @@
         "gia": 44.60714285714286,
         "khoang_cach_pct": 6.090225563909772,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 10.55,
+        "hot_money": 7.8,
+        "retail": 9.23,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 10.55,
+      "dt_hot": 7.8,
+      "dt_retail": 9.23
     },
     {
       "symbol": "VRE",
@@ -578,7 +872,21 @@
         "gia": 23.714285714285715,
         "khoang_cach_pct": 6.820095425203481,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 4.78,
+        "hot_money": 9.63,
+        "retail": 9.56,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 4.78,
+      "dt_hot": 9.63,
+      "dt_retail": 9.56
     },
     {
       "symbol": "BID",
@@ -603,7 +911,21 @@
         "gia": 35.207142857142856,
         "khoang_cach_pct": 3.2770800627943517,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 13.34,
+        "hot_money": 10.41,
+        "retail": 9.68,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 13.34,
+      "dt_hot": 10.41,
+      "dt_retail": 9.68
     },
     {
       "symbol": "TCX",
@@ -628,7 +950,21 @@
         "gia": null,
         "khoang_cach_pct": null,
         "dien_giai": "Không tính được: thiếu ATR14 hoặc giá đóng cửa."
-      }
+      },
+      "dong_tien": {
+        "banker": 5.91,
+        "hot_money": 8.0,
+        "retail": 8.96,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 5.91,
+      "dt_hot": 8.0,
+      "dt_retail": 8.96
     },
     {
       "symbol": "GVR",
@@ -653,7 +989,21 @@
         "gia": 28.400000000000002,
         "khoang_cach_pct": 6.270627062706267,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.25,
+        "hot_money": 8.56,
+        "retail": 9.44,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.25,
+      "dt_hot": 8.56,
+      "dt_retail": 9.44
     },
     {
       "symbol": "VIB",
@@ -678,7 +1028,21 @@
         "gia": 12.922857142857143,
         "khoang_cach_pct": 4.275132275132276,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 11.21,
+        "hot_money": 9.95,
+        "retail": 9.3,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 11.21,
+      "dt_hot": 9.95,
+      "dt_retail": 9.3
     },
     {
       "symbol": "VPL",
@@ -703,7 +1067,21 @@
         "gia": 78.65714285714286,
         "khoang_cach_pct": 6.024918928144736,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 11.48,
+        "hot_money": 12.28,
+        "retail": 10.43,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 11.48,
+      "dt_hot": 12.28,
+      "dt_retail": 10.43
     },
     {
       "symbol": "MCH",
@@ -728,7 +1106,21 @@
         "gia": 139.25714285714284,
         "khoang_cach_pct": 2.617382617382622,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 16.67,
+        "hot_money": 13.39,
+        "retail": 11.24,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 16.67,
+      "dt_hot": 13.39,
+      "dt_retail": 11.24
     },
     {
       "symbol": "SSB",
@@ -753,7 +1145,21 @@
         "gia": 19.207142857142856,
         "khoang_cach_pct": 6.987201660325148,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 19.11,
+        "hot_money": 16.68,
+        "retail": 14.79,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 19.11,
+      "dt_hot": 16.68,
+      "dt_retail": 14.79
     },
     {
       "symbol": "SAB",
@@ -778,7 +1184,21 @@
         "gia": 42.99285714285714,
         "khoang_cach_pct": 3.495270161936828,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 9.39,
+        "hot_money": 9.05,
+        "retail": 9.9,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 9.39,
+      "dt_hot": 9.05,
+      "dt_retail": 9.9
     },
     {
       "symbol": "VIX",
@@ -803,7 +1223,21 @@
         "gia": 11.842857142857143,
         "khoang_cach_pct": 8.194905869324476,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.81,
+        "hot_money": 8.47,
+        "retail": 8.81,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.81,
+      "dt_hot": 8.47,
+      "dt_retail": 8.81
     },
     {
       "symbol": "GEX",
@@ -828,32 +1262,60 @@
         "gia": 21.142857142857142,
         "khoang_cach_pct": 8.074534161490691,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.59,
+        "hot_money": 7.51,
+        "retail": 8.7,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.59,
+      "dt_hot": 7.51,
+      "dt_retail": 8.7
     },
     {
       "symbol": "PNJ",
       "in_vn30": false,
-      "liquidity_20d": 211068876750.0,
-      "sessions": 745,
+      "liquidity_20d": 215924074500.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 37.05,
-      "rs_63": 0.5702440312698077,
+      "close": 37.2,
+      "rs_63": 0.5725527115583495,
       "ma_stack": false,
-      "dist_ma20_pct": -4.522613065326619,
-      "vol_ratio": 0.15434371597908106,
-      "pct_from_52w_high": 0.437581197590646,
-      "atr14_pct": 5.3499132446500886,
-      "boi_canh": "Giá dưới MA20 4.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.57), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -4.154589371980666,
+      "vol_ratio": 0.6275127397505825,
+      "pct_from_52w_high": 0.4395604395604396,
+      "atr14_pct": 5.376344086021506,
+      "boi_canh": "Giá dưới MA20 4.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.57), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 33.08571428571428,
-        "khoang_cach_pct": 10.699826489300177,
+        "gia": 33.2,
+        "khoang_cach_pct": 10.752688172043012,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 9.19,
+        "hot_money": 8.76,
+        "retail": 8.04,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 9.19,
+      "dt_hot": 8.76,
+      "dt_retail": 8.04
     },
     {
       "symbol": "VCI",
@@ -878,7 +1340,60 @@
         "gia": 18.492857142857144,
         "khoang_cach_pct": 6.601731601731603,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 3.89,
+        "hot_money": 6.51,
+        "retail": 8.15,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 3.89,
+      "dt_hot": 6.51,
+      "dt_retail": 8.15
+    },
+    {
+      "symbol": "PLX",
+      "in_vn30": false,
+      "liquidity_20d": 172031818250.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 37.35,
+      "rs_63": 1.0052728132915774,
+      "ma_stack": false,
+      "dist_ma20_pct": 2.251728150023946,
+      "vol_ratio": 2.3964373135775734,
+      "pct_from_52w_high": 0.5495879929370219,
+      "atr14_pct": 2.95467584624211,
+      "boi_canh": "Giá trên MA20 2.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 35.142857142857146,
+        "khoang_cach_pct": 5.90935169248422,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 17.36,
+        "hot_money": 11.99,
+        "retail": 10.3,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 17.36,
+      "dt_hot": 11.99,
+      "dt_retail": 10.3
     },
     {
       "symbol": "VND",
@@ -903,32 +1418,21 @@
         "gia": 13.871428571428572,
         "khoang_cach_pct": 5.636540330417875,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
-    },
-    {
-      "symbol": "PLX",
-      "in_vn30": false,
-      "liquidity_20d": 152788751750.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 35.55,
-      "rs_63": 0.9568259307233083,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.435677530017155,
-      "vol_ratio": 0.2362689886782791,
-      "pct_from_52w_high": 0.5230248639105487,
-      "atr14_pct": 2.762708458910989,
-      "boi_canh": "Giá dưới MA20 2.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
-      "stoploss": {
-        "gia": 33.58571428571428,
-        "khoang_cach_pct": 5.525416917821978,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      "dong_tien": {
+        "banker": 2.55,
+        "hot_money": 5.51,
+        "retail": 8.23,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 2.55,
+      "dt_hot": 5.51,
+      "dt_retail": 8.23
     },
     {
       "symbol": "VSC",
@@ -953,20 +1457,34 @@
         "gia": 12.142857142857142,
         "khoang_cach_pct": 7.658881042911463,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 9.22,
+        "hot_money": 7.29,
+        "retail": 7.66,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 9.22,
+      "dt_hot": 7.29,
+      "dt_retail": 7.66
     },
     {
       "symbol": "NVL",
       "in_vn30": false,
       "liquidity_20d": 144251084500.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 12.0,
       "rs_63": 0.9060481132390192,
       "ma_stack": false,
       "dist_ma20_pct": -7.478797224363909,
       "vol_ratio": 0.8348460107089963,
-      "pct_from_52w_high": 0.6131834440470108,
+      "pct_from_52w_high": 0.6144393241167434,
       "atr14_pct": 3.1547619047619055,
       "boi_canh": "Giá dưới MA20 7.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.91), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -978,7 +1496,60 @@
         "gia": 11.242857142857142,
         "khoang_cach_pct": 6.309523809523811,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 2.5,
+        "hot_money": 5.66,
+        "retail": 8.62,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 2.5,
+      "dt_hot": 5.66,
+      "dt_retail": 8.62
+    },
+    {
+      "symbol": "CII",
+      "in_vn30": false,
+      "liquidity_20d": 141412949250.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 12.95,
+      "rs_63": 0.7403168125257152,
+      "ma_stack": false,
+      "dist_ma20_pct": -9.186535764375881,
+      "vol_ratio": 0.6725788254133861,
+      "pct_from_52w_high": 0.41307814992025516,
+      "atr14_pct": 3.8058466629895205,
+      "boi_canh": "Giá dưới MA20 9.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.74), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.964285714285714,
+        "khoang_cach_pct": 7.611693325979041,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 0.73,
+        "hot_money": 6.28,
+        "retail": 8.04,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 0.73,
+      "dt_hot": 6.28,
+      "dt_retail": 8.04
     },
     {
       "symbol": "VPI",
@@ -1003,45 +1574,34 @@
         "gia": 55.43,
         "khoang_cach_pct": 9.131147540983608,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
-    },
-    {
-      "symbol": "CII",
-      "in_vn30": false,
-      "liquidity_20d": 137737256250.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 13.0,
-      "rs_63": 0.7431751785972431,
-      "ma_stack": false,
-      "dist_ma20_pct": -8.851884312007009,
-      "vol_ratio": 0.1012026598094917,
-      "pct_from_52w_high": 0.4146730462519936,
-      "atr14_pct": 3.7362637362637368,
-      "boi_canh": "Giá dưới MA20 8.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.74), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
-      "stoploss": {
-        "gia": 12.028571428571428,
-        "khoang_cach_pct": 7.4725274725274735,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      "dong_tien": {
+        "banker": 11.09,
+        "hot_money": 10.51,
+        "retail": 10.78,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 11.09,
+      "dt_hot": 10.51,
+      "dt_retail": 10.78
     },
     {
       "symbol": "DXG",
       "in_vn30": false,
-      "liquidity_20d": 132216083750.0,
-      "sessions": 745,
+      "liquidity_20d": 131991718750.0,
+      "sessions": 300,
       "insufficient_history": false,
       "close": 10.75,
       "rs_63": 0.8241074593198134,
       "ma_stack": false,
       "dist_ma20_pct": -5.969822873387276,
-      "vol_ratio": 0.46434170729126895,
-      "pct_from_52w_high": 0.5002326663564449,
+      "vol_ratio": 0.46513189829132107,
+      "pct_from_52w_high": 0.49930329772410587,
       "atr14_pct": 3.488372093023257,
       "boi_canh": "Giá dưới MA20 6.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1053,7 +1613,21 @@
         "gia": 10.0,
         "khoang_cach_pct": 6.976744186046514,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 0.48,
+        "hot_money": 7.33,
+        "retail": 8.63,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 0.48,
+      "dt_hot": 7.33,
+      "dt_retail": 8.63
     },
     {
       "symbol": "PVT",
@@ -1078,13 +1652,27 @@
         "gia": 21.2,
         "khoang_cach_pct": 6.19469026548673,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 16.57,
+        "hot_money": 14.71,
+        "retail": 11.92,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 16.57,
+      "dt_hot": 14.71,
+      "dt_retail": 11.92
     },
     {
       "symbol": "DCM",
       "in_vn30": false,
       "liquidity_20d": 101531608750.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 33.8,
       "rs_63": 0.9614577943182985,
@@ -1103,7 +1691,21 @@
         "gia": 31.949999999999996,
         "khoang_cach_pct": 5.473372781065093,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 17.92,
+        "hot_money": 13.34,
+        "retail": 10.26,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 17.92,
+      "dt_hot": 13.34,
+      "dt_retail": 10.26
     },
     {
       "symbol": "HCM",
@@ -1128,20 +1730,34 @@
         "gia": 23.864285714285714,
         "khoang_cach_pct": 5.112184038625391,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 6.52,
+        "hot_money": 8.5,
+        "retail": 10.26,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 6.52,
+      "dt_hot": 8.5,
+      "dt_retail": 10.26
     },
     {
       "symbol": "TPB",
       "in_vn30": false,
       "liquidity_20d": 93568725750.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 14.15,
       "rs_63": 0.860550636428068,
       "ma_stack": false,
-      "dist_ma20_pct": -2.1945740452739004,
+      "dist_ma20_pct": -2.194574045273867,
       "vol_ratio": 2.6037061613058468,
-      "pct_from_52w_high": 0.7365955231650182,
+      "pct_from_52w_high": 0.737363210005211,
       "atr14_pct": 1.7667844522968206,
       "boi_canh": "Giá dưới MA20 2.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.7%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1153,7 +1769,21 @@
         "gia": 13.65,
         "khoang_cach_pct": 3.533568904593641,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 7.6,
+        "hot_money": 7.96,
+        "retail": 8.53,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 7.6,
+      "dt_hot": 7.96,
+      "dt_retail": 8.53
     },
     {
       "symbol": "PVD",
@@ -1178,32 +1808,60 @@
         "gia": 18.32857142857143,
         "khoang_cach_pct": 6.7248273355143535,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 17.83,
+        "hot_money": 12.31,
+        "retail": 10.58,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 17.83,
+      "dt_hot": 12.31,
+      "dt_retail": 10.58
     },
     {
       "symbol": "KDH",
       "in_vn30": false,
-      "liquidity_20d": 86461143000.0,
-      "sessions": 745,
+      "liquidity_20d": 89295299000.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 15.8,
-      "rs_63": 0.6798608333569487,
+      "close": 15.6,
+      "rs_63": 0.6712550000233163,
       "ma_stack": false,
-      "dist_ma20_pct": -9.442613554950551,
-      "vol_ratio": 0.07244475629722281,
-      "pct_from_52w_high": 0.4334705075445816,
-      "atr14_pct": 3.187160940325499,
-      "boi_canh": "Giá dưới MA20 9.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.68), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -10.537634408602138,
+      "vol_ratio": 0.7833873170999587,
+      "pct_from_52w_high": 0.42798353909465014,
+      "atr14_pct": 3.2509157509157527,
+      "boi_canh": "Giá dưới MA20 10.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.67), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 14.792857142857143,
-        "khoang_cach_pct": 6.374321880650998,
+        "gia": 14.585714285714285,
+        "khoang_cach_pct": 6.501831501831505,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 0.27,
+        "hot_money": 4.86,
+        "retail": 6.62,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 0.27,
+      "dt_hot": 4.86,
+      "dt_retail": 6.62
     },
     {
       "symbol": "GMD",
@@ -1228,13 +1886,27 @@
         "gia": 73.42857142857143,
         "khoang_cach_pct": 4.014939309056959,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 14.51,
+        "hot_money": 9.78,
+        "retail": 10.16,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 14.51,
+      "dt_hot": 9.78,
+      "dt_retail": 10.16
     },
     {
       "symbol": "DGW",
       "in_vn30": false,
       "liquidity_20d": 83991235750.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 46.3,
       "rs_63": 1.152234382813655,
@@ -1253,7 +1925,21 @@
         "gia": 42.87142857142857,
         "khoang_cach_pct": 7.405121875964213,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 17.76,
+        "hot_money": 13.99,
+        "retail": 11.8,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 17.76,
+      "dt_hot": 13.99,
+      "dt_retail": 11.8
     },
     {
       "symbol": "GEE",
@@ -1278,7 +1964,21 @@
         "gia": 55.3,
         "khoang_cach_pct": 7.525083612040133,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 8.3,
+        "hot_money": 7.46,
+        "retail": 7.92,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 8.3,
+      "dt_hot": 7.46,
+      "dt_retail": 7.92
     },
     {
       "symbol": "POW",
@@ -1303,7 +2003,60 @@
         "gia": 11.857142857142858,
         "khoang_cach_pct": 4.3778801843317945,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 1.9,
+        "hot_money": 5.39,
+        "retail": 8.29,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 1.9,
+      "dt_hot": 5.39,
+      "dt_retail": 8.29
+    },
+    {
+      "symbol": "EIB",
+      "in_vn30": false,
+      "liquidity_20d": 74323151500.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 16.1,
+      "rs_63": 0.7615552157474933,
+      "ma_stack": false,
+      "dist_ma20_pct": -5.112715485486962,
+      "vol_ratio": 1.5862364671749023,
+      "pct_from_52w_high": 0.5791366906474821,
+      "atr14_pct": 2.307009760425909,
+      "boi_canh": "Giá dưới MA20 5.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.76), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 15.35714285714286,
+        "khoang_cach_pct": 4.614019520851818,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 3.61,
+        "hot_money": 5.27,
+        "retail": 7.09,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 3.61,
+      "dt_hot": 5.27,
+      "dt_retail": 7.09
     },
     {
       "symbol": "DPM",
@@ -1328,7 +2081,21 @@
         "gia": 21.792857142857144,
         "khoang_cach_pct": 5.453982026650137,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 14.1,
+        "hot_money": 11.67,
+        "retail": 10.33,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 14.1,
+      "dt_hot": 11.67,
+      "dt_retail": 10.33
     },
     {
       "symbol": "TCH",
@@ -1353,32 +2120,21 @@
         "gia": 10.491428571428571,
         "khoang_cach_pct": 9.556650246305416,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
-    },
-    {
-      "symbol": "EIB",
-      "in_vn30": false,
-      "liquidity_20d": 69791118250.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 16.35,
-      "rs_63": 0.7733806072963674,
-      "ma_stack": false,
-      "dist_ma20_pct": -3.7102473498233146,
-      "vol_ratio": 0.3216298570520464,
-      "pct_from_52w_high": 0.5881294964028777,
-      "atr14_pct": 2.2717343818261244,
-      "boi_canh": "Giá dưới MA20 3.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.77), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
-      "stoploss": {
-        "gia": 15.60714285714286,
-        "khoang_cach_pct": 4.543468763652249,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      "dong_tien": {
+        "banker": 7.9,
+        "hot_money": 9.96,
+        "retail": 9.39,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 7.9,
+      "dt_hot": 9.96,
+      "dt_retail": 9.39
     },
     {
       "symbol": "BAF",
@@ -1403,32 +2159,60 @@
         "gia": 31.185714285714287,
         "khoang_cach_pct": 2.848242100578555,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 10.76,
+        "hot_money": 11.28,
+        "retail": 11.82,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 10.76,
+      "dt_hot": 11.28,
+      "dt_retail": 11.82
     },
     {
       "symbol": "DIG",
       "in_vn30": false,
-      "liquidity_20d": 62125993600.0,
-      "sessions": 300,
+      "liquidity_20d": 62231851100.0,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 10.0,
-      "rs_63": 0.8173432394074758,
+      "rs_63": 0.816009889914152,
       "ma_stack": false,
-      "dist_ma20_pct": -3.0303030303030276,
+      "dist_ma20_pct": -3.1711450012103626,
       "vol_ratio": 0.3830674489647481,
-      "pct_from_52w_high": 0.42319085907744397,
-      "atr14_pct": 2.62142857142857,
-      "boi_canh": "Giá dưới MA20 3.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "pct_from_52w_high": 0.4222972972972973,
+      "atr14_pct": 2.6285714285714286,
+      "boi_canh": "Giá dưới MA20 3.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 9.475714285714286,
-        "khoang_cach_pct": 5.24285714285714,
+        "gia": 9.474285714285713,
+        "khoang_cach_pct": 5.257142857142858,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 0.75,
+        "hot_money": 7.95,
+        "retail": 8.4,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 0.75,
+      "dt_hot": 7.95,
+      "dt_retail": 8.4
     },
     {
       "symbol": "MSB",
@@ -1453,7 +2237,21 @@
         "gia": 12.14857142857143,
         "khoang_cach_pct": 5.089285714285713,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 2.92,
+        "hot_money": 7.65,
+        "retail": 10.04,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 2.92,
+      "dt_hot": 7.65,
+      "dt_retail": 10.04
     },
     {
       "symbol": "PDR",
@@ -1478,7 +2276,21 @@
         "gia": 11.007142857142856,
         "khoang_cach_pct": 5.110837438423644,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 3.25,
+        "hot_money": 6.85,
+        "retail": 7.54,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 3.25,
+      "dt_hot": 6.85,
+      "dt_retail": 7.54
     },
     {
       "symbol": "FRT",
@@ -1503,7 +2315,21 @@
         "gia": 127.0,
         "khoang_cach_pct": 6.61764705882353,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 8.6,
+        "hot_money": 9.4,
+        "retail": 10.39,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 8.6,
+      "dt_hot": 9.4,
+      "dt_retail": 10.39
     },
     {
       "symbol": "NLG",
@@ -1528,7 +2354,21 @@
         "gia": 22.47142857142857,
         "khoang_cach_pct": 5.780173704702006,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 4.16,
+        "hot_money": 9.45,
+        "retail": 9.53,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 4.16,
+      "dt_hot": 9.45,
+      "dt_retail": 9.53
     },
     {
       "symbol": "BCM",
@@ -1553,7 +2393,60 @@
         "gia": 37.01428571428571,
         "khoang_cach_pct": 7.464285714285725,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 9.43,
+        "hot_money": 8.72,
+        "retail": 8.59,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 9.43,
+      "dt_hot": 8.72,
+      "dt_retail": 8.59
+    },
+    {
+      "symbol": "BVH",
+      "in_vn30": false,
+      "liquidity_20d": 35416068000.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 70.2,
+      "rs_63": 1.0771480732736116,
+      "ma_stack": false,
+      "dist_ma20_pct": 7.627443464929096,
+      "vol_ratio": 2.2854912746938245,
+      "pct_from_52w_high": 0.7932203389830509,
+      "atr14_pct": 2.9812779812779846,
+      "boi_canh": "Giá trên MA20 7.6%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 66.0142857142857,
+        "khoang_cach_pct": 5.962555962555969,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 18.54,
+        "hot_money": 13.55,
+        "retail": 11.09,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 18.54,
+      "dt_hot": 13.55,
+      "dt_retail": 11.09
     },
     {
       "symbol": "KBC",
@@ -1578,20 +2471,34 @@
         "gia": 25.271428571428572,
         "khoang_cach_pct": 3.174603174603171,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 0.87,
+        "hot_money": 5.3,
+        "retail": 7.68,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 0.87,
+      "dt_hot": 5.3,
+      "dt_retail": 7.68
     },
     {
       "symbol": "CTS",
       "in_vn30": false,
       "liquidity_20d": 34098533000.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 21.7,
       "rs_63": 0.9459385757409187,
       "ma_stack": false,
       "dist_ma20_pct": -3.3192247716640755,
       "vol_ratio": 0.5979004869252773,
-      "pct_from_52w_high": 0.5941949616648411,
+      "pct_from_52w_high": 0.5948464912280702,
       "atr14_pct": 3.6372613561553644,
       "boi_canh": "Giá dưới MA20 3.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1603,7 +2510,21 @@
         "gia": 20.12142857142857,
         "khoang_cach_pct": 7.274522712310729,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 7.94,
+        "hot_money": 8.26,
+        "retail": 9.26,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 7.94,
+      "dt_hot": 8.26,
+      "dt_retail": 9.26
     },
     {
       "symbol": "VCG",
@@ -1628,7 +2549,21 @@
         "gia": 13.821428571428571,
         "khoang_cach_pct": 4.679802955665022,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 2.68,
+        "hot_money": 4.98,
+        "retail": 7.47,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 2.68,
+      "dt_hot": 4.98,
+      "dt_retail": 7.47
     },
     {
       "symbol": "VTP",
@@ -1653,32 +2588,21 @@
         "gia": 46.864285714285714,
         "khoang_cach_pct": 4.94059692842654,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
-    },
-    {
-      "symbol": "BVH",
-      "in_vn30": false,
-      "liquidity_20d": 31567205000.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 67.3,
-      "rs_63": 1.032650503295072,
-      "ma_stack": false,
-      "dist_ma20_pct": 3.4111862323294107,
-      "vol_ratio": 0.28745734670664874,
-      "pct_from_52w_high": 0.7604519774011299,
-      "atr14_pct": 2.9293143706219515,
-      "boi_canh": "Giá trên MA20 3.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
-      "stoploss": {
-        "gia": 63.35714285714285,
-        "khoang_cach_pct": 5.858628741243903,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      "dong_tien": {
+        "banker": 7.01,
+        "hot_money": 7.59,
+        "retail": 8.8,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 7.01,
+      "dt_hot": 7.59,
+      "dt_retail": 8.8
     },
     {
       "symbol": "PC1",
@@ -1703,20 +2627,34 @@
         "gia": 19.057142857142857,
         "khoang_cach_pct": 4.951905949412185,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 4.18,
+        "hot_money": 8.3,
+        "retail": 9.21,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 4.18,
+      "dt_hot": 8.3,
+      "dt_retail": 9.21
     },
     {
       "symbol": "DBC",
       "in_vn30": false,
       "liquidity_20d": 28133616500.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 16.0,
       "rs_63": 0.8491697613027058,
       "ma_stack": false,
       "dist_ma20_pct": -3.614457831325313,
       "vol_ratio": 0.5126709579659121,
-      "pct_from_52w_high": 0.6099885627144491,
+      "pct_from_52w_high": 0.6106870229007634,
       "atr14_pct": 2.7901785714285716,
       "boi_canh": "Giá dưới MA20 3.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1728,7 +2666,21 @@
         "gia": 15.107142857142858,
         "khoang_cach_pct": 5.580357142857143,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 5.66,
+        "hot_money": 7.65,
+        "retail": 8.13,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 5.66,
+      "dt_hot": 7.65,
+      "dt_retail": 8.13
     },
     {
       "symbol": "SBT",
@@ -1753,20 +2705,34 @@
         "gia": 22.150000000000002,
         "khoang_cach_pct": 3.695652173913041,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 12.2,
+        "hot_money": 11.32,
+        "retail": 11.51,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 12.2,
+      "dt_hot": 11.32,
+      "dt_retail": 11.51
     },
     {
       "symbol": "OCB",
       "in_vn30": false,
       "liquidity_20d": 26584163750.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 10.3,
-      "rs_63": 0.9419021652520959,
+      "rs_63": 0.9401833656804679,
       "ma_stack": true,
       "dist_ma20_pct": -3.467666354264287,
       "vol_ratio": 0.36622249320101724,
-      "pct_from_52w_high": 0.8626465661641542,
+      "pct_from_52w_high": 0.8612040133779264,
       "atr14_pct": 1.837725381414702,
       "boi_canh": "Giá dưới MA20 3.5%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 0.9%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1778,7 +2744,21 @@
         "gia": 9.921428571428573,
         "khoang_cach_pct": 3.675450762829404,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 12.08,
+        "hot_money": 7.9,
+        "retail": 9.48,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 12.08,
+      "dt_hot": 7.9,
+      "dt_retail": 9.48
     },
     {
       "symbol": "HHV",
@@ -1803,20 +2783,34 @@
         "gia": 9.005714285714285,
         "khoang_cach_pct": 3.682200152788388,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 2.87,
+        "hot_money": 5.15,
+        "retail": 7.49,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 2.87,
+      "dt_hot": 5.15,
+      "dt_retail": 7.49
     },
     {
       "symbol": "HSG",
       "in_vn30": false,
       "liquidity_20d": 24599425000.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 10.15,
       "rs_63": 0.8426842712948313,
       "ma_stack": false,
-      "dist_ma20_pct": -4.403108076289142,
+      "dist_ma20_pct": -4.403108076289152,
       "vol_ratio": 1.5045504351603511,
-      "pct_from_52w_high": 0.6234643734643734,
+      "pct_from_52w_high": 0.6223175965665236,
       "atr14_pct": 2.005629838142152,
       "boi_canh": "Giá dưới MA20 4.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1828,7 +2822,21 @@
         "gia": 9.742857142857144,
         "khoang_cach_pct": 4.011259676284304,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 3.59,
+        "hot_money": 6.4,
+        "retail": 8.15,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 3.59,
+      "dt_hot": 6.4,
+      "dt_retail": 8.15
     },
     {
       "symbol": "HAG",
@@ -1853,7 +2861,21 @@
         "gia": 13.457142857142857,
         "khoang_cach_pct": 3.8775510204081605,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
+      },
+      "dong_tien": {
+        "banker": 13.36,
+        "hot_money": 9.54,
+        "retail": 8.62,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+      },
+      "dt_banker": 13.36,
+      "dt_hot": 9.54,
+      "dt_retail": 8.62
     }
   ]
 }
