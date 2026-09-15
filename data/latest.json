@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:06:52",
+  "generated_at": "2026-09-15T13:33:00",
   "date": "2026-09-15",
   "session_status": "intraday",
   "market": {
@@ -859,14 +859,14 @@
       "symbol": "VCI",
       "in_vn30": false,
       "liquidity_20d": 204470123500.0,
-      "sessions": 745,
+      "sessions": 300,
       "insufficient_history": false,
       "close": 19.8,
       "rs_63": 0.8101626534023746,
       "ma_stack": false,
       "dist_ma20_pct": -8.024619672511902,
       "vol_ratio": 0.728777504452143,
-      "pct_from_52w_high": 0.5958471260908819,
+      "pct_from_52w_high": 0.5954887218045113,
       "atr14_pct": 3.3008658008658016,
       "boi_canh": "Giá dưới MA20 8.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.81), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -877,31 +877,6 @@
       "stoploss": {
         "gia": 18.492857142857144,
         "khoang_cach_pct": 6.601731601731603,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
-    },
-    {
-      "symbol": "PLX",
-      "in_vn30": false,
-      "liquidity_20d": 172031818250.0,
-      "sessions": 300,
-      "insufficient_history": false,
-      "close": 37.35,
-      "rs_63": 1.0052728132915774,
-      "ma_stack": false,
-      "dist_ma20_pct": 2.251728150023946,
-      "vol_ratio": 2.3964373135775734,
-      "pct_from_52w_high": 0.5495879929370219,
-      "atr14_pct": 2.95467584624211,
-      "boi_canh": "Giá trên MA20 2.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 35.142857142857146,
-        "khoang_cach_pct": 5.90935169248422,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       }
     },
@@ -927,6 +902,31 @@
       "stoploss": {
         "gia": 13.871428571428572,
         "khoang_cach_pct": 5.636540330417875,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
+    },
+    {
+      "symbol": "PLX",
+      "in_vn30": false,
+      "liquidity_20d": 152788751750.0,
+      "sessions": 745,
+      "insufficient_history": false,
+      "close": 35.55,
+      "rs_63": 0.9568259307233083,
+      "ma_stack": false,
+      "dist_ma20_pct": -2.435677530017155,
+      "vol_ratio": 0.2362689886782791,
+      "pct_from_52w_high": 0.5230248639105487,
+      "atr14_pct": 2.762708458910989,
+      "boi_canh": "Giá dưới MA20 2.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 33.58571428571428,
+        "khoang_cach_pct": 5.525416917821978,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       }
     },
@@ -1134,14 +1134,14 @@
       "symbol": "TPB",
       "in_vn30": false,
       "liquidity_20d": 93568725750.0,
-      "sessions": 745,
+      "sessions": 300,
       "insufficient_history": false,
       "close": 14.15,
       "rs_63": 0.860550636428068,
       "ma_stack": false,
-      "dist_ma20_pct": -2.194574045273867,
+      "dist_ma20_pct": -2.1945740452739004,
       "vol_ratio": 2.6037061613058468,
-      "pct_from_52w_high": 0.737363210005211,
+      "pct_from_52w_high": 0.7365955231650182,
       "atr14_pct": 1.7667844522968206,
       "boi_canh": "Giá dưới MA20 2.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 0.7%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1309,7 +1309,7 @@
       "symbol": "DPM",
       "in_vn30": false,
       "liquidity_20d": 71585939000.0,
-      "sessions": 745,
+      "sessions": 300,
       "insufficient_history": false,
       "close": 23.05,
       "rs_63": 1.0415477995506321,
@@ -1384,10 +1384,10 @@
       "symbol": "BAF",
       "in_vn30": false,
       "liquidity_20d": 67459426250.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 32.1,
-      "rs_63": 1.0986569556488364,
+      "rs_63": 1.099409202794094,
       "ma_stack": true,
       "dist_ma20_pct": -0.28733400636794526,
       "vol_ratio": 0.7346905603640944,
@@ -1408,25 +1408,25 @@
     {
       "symbol": "DIG",
       "in_vn30": false,
-      "liquidity_20d": 62231851100.0,
-      "sessions": 745,
+      "liquidity_20d": 62125993600.0,
+      "sessions": 300,
       "insufficient_history": false,
       "close": 10.0,
-      "rs_63": 0.816009889914152,
+      "rs_63": 0.8173432394074758,
       "ma_stack": false,
-      "dist_ma20_pct": -3.1711450012103626,
+      "dist_ma20_pct": -3.0303030303030276,
       "vol_ratio": 0.3830674489647481,
-      "pct_from_52w_high": 0.4222972972972973,
-      "atr14_pct": 2.6285714285714286,
-      "boi_canh": "Giá dưới MA20 3.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "pct_from_52w_high": 0.42319085907744397,
+      "atr14_pct": 2.62142857142857,
+      "boi_canh": "Giá dưới MA20 3.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 9.474285714285713,
-        "khoang_cach_pct": 5.257142857142858,
+        "gia": 9.475714285714286,
+        "khoang_cach_pct": 5.24285714285714,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       }
     },
@@ -1459,7 +1459,7 @@
       "symbol": "PDR",
       "in_vn30": false,
       "liquidity_20d": 60511811750.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 11.6,
       "rs_63": 0.7685408112849739,
@@ -1534,14 +1534,14 @@
       "symbol": "BCM",
       "in_vn30": false,
       "liquidity_20d": 36774405500.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 40.0,
       "rs_63": 0.7479836448857946,
       "ma_stack": false,
       "dist_ma20_pct": -4.363419007770474,
       "vol_ratio": 0.5014373317636032,
-      "pct_from_52w_high": 0.48614487117160915,
+      "pct_from_52w_high": 0.4862039625622949,
       "atr14_pct": 3.7321428571428625,
       "boi_canh": "Giá dưới MA20 4.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.75), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1552,6 +1552,31 @@
       "stoploss": {
         "gia": 37.01428571428571,
         "khoang_cach_pct": 7.464285714285725,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      }
+    },
+    {
+      "symbol": "KBC",
+      "in_vn30": false,
+      "liquidity_20d": 34595478000.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 26.1,
+      "rs_63": 0.8436566741003872,
+      "ma_stack": false,
+      "dist_ma20_pct": -3.583302548947165,
+      "vol_ratio": 1.5353652424508206,
+      "pct_from_52w_high": 0.6476426799007445,
+      "atr14_pct": 1.5873015873015854,
+      "boi_canh": "Giá dưới MA20 3.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 25.271428571428572,
+        "khoang_cach_pct": 3.174603174603171,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       }
     },
@@ -1584,14 +1609,14 @@
       "symbol": "VCG",
       "in_vn30": false,
       "liquidity_20d": 33680702250.0,
-      "sessions": 745,
+      "sessions": 300,
       "insufficient_history": false,
       "close": 14.5,
-      "rs_63": 0.8265645477495088,
+      "rs_63": 0.8260938390093326,
       "ma_stack": false,
       "dist_ma20_pct": -7.155434608612143,
       "vol_ratio": 0.7758538860991302,
-      "pct_from_52w_high": 0.5607115235885538,
+      "pct_from_52w_high": 0.5604947816003092,
       "atr14_pct": 2.339901477832511,
       "boi_canh": "Giá dưới MA20 7.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.83), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1631,31 +1656,6 @@
       }
     },
     {
-      "symbol": "KBC",
-      "in_vn30": false,
-      "liquidity_20d": 32106590000.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 26.3,
-      "rs_63": 0.8501214762007734,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.8803545051698687,
-      "vol_ratio": 0.044855193892923036,
-      "pct_from_52w_high": 0.652605459057072,
-      "atr14_pct": 1.5480717001629527,
-      "boi_canh": "Giá dưới MA20 2.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 0.7%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 25.485714285714288,
-        "khoang_cach_pct": 3.0961434003259054,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      }
-    },
-    {
       "symbol": "BVH",
       "in_vn30": false,
       "liquidity_20d": 31567205000.0,
@@ -1684,12 +1684,12 @@
       "symbol": "PC1",
       "in_vn30": false,
       "liquidity_20d": 29994254500.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 20.05,
       "rs_63": 1.0079690405500878,
       "ma_stack": false,
-      "dist_ma20_pct": -1.7397696642979632,
+      "dist_ma20_pct": -1.739769664297952,
       "vol_ratio": 0.5858663080798083,
       "pct_from_52w_high": 0.6226708074534161,
       "atr14_pct": 2.4759529747060927,
@@ -1809,14 +1809,14 @@
       "symbol": "HSG",
       "in_vn30": false,
       "liquidity_20d": 24599425000.0,
-      "sessions": 745,
+      "sessions": 300,
       "insufficient_history": false,
       "close": 10.15,
       "rs_63": 0.8426842712948313,
       "ma_stack": false,
-      "dist_ma20_pct": -4.403108076289152,
+      "dist_ma20_pct": -4.403108076289142,
       "vol_ratio": 1.5045504351603511,
-      "pct_from_52w_high": 0.6223175965665236,
+      "pct_from_52w_high": 0.6234643734643734,
       "atr14_pct": 2.005629838142152,
       "boi_canh": "Giá dưới MA20 4.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
