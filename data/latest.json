@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T13:52:12",
-  "date": "2026-09-15",
-  "session_status": "intraday",
+  "generated_at": "2026-09-16T02:25:30",
+  "date": "2026-09-16",
+  "session_status": "closed",
   "market": {
     "last_date": "2026-09-15",
     "sessions": 744,
@@ -63,7 +63,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.17,
       "dt_hot": 12.05,
@@ -102,7 +102,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 4.57,
       "dt_hot": 9.21,
@@ -141,7 +141,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 8.15,
       "dt_hot": 8.23,
@@ -180,7 +180,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 11.63,
       "dt_hot": 10.64,
@@ -189,41 +189,41 @@
     {
       "symbol": "VPB",
       "in_vn30": true,
-      "liquidity_20d": 450369232500.0,
-      "sessions": 745,
+      "liquidity_20d": 458965253500.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 27.4,
-      "rs_63": 1.0442564047981775,
+      "close": 27.6,
+      "rs_63": 1.0478867647422812,
       "ma_stack": false,
-      "dist_ma20_pct": 3.240391861341352,
-      "vol_ratio": 0.23827786932862274,
-      "pct_from_52w_high": 0.8046989720998532,
-      "atr14_pct": 2.359228362877998,
-      "boi_canh": "Giá trên MA20 3.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": 3.4579701996064305,
+      "vol_ratio": 0.030698756040129244,
+      "pct_from_52w_high": 0.8108108108108109,
+      "atr14_pct": 2.2515527950310554,
+      "boi_canh": "Giá trên MA20 3.5%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.05), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 26.107142857142854,
-        "khoang_cach_pct": 4.718456725755996,
+        "gia": 26.357142857142858,
+        "khoang_cach_pct": 4.503105590062111,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 12.08,
-        "hot_money": 11.86,
-        "retail": 10.78,
+        "banker": 13.03,
+        "hot_money": 12.15,
+        "retail": 10.91,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 12.08,
-      "dt_hot": 11.86,
-      "dt_retail": 10.78
+      "dt_banker": 13.03,
+      "dt_hot": 12.15,
+      "dt_retail": 10.91
     },
     {
       "symbol": "HPG",
@@ -258,7 +258,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 5.74,
       "dt_hot": 8.14,
@@ -297,7 +297,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 4.88,
       "dt_hot": 9.54,
@@ -336,7 +336,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 11.64,
       "dt_hot": 11.51,
@@ -375,7 +375,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 19.12,
       "dt_hot": 14.9,
@@ -414,7 +414,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 9.44,
       "dt_hot": 9.03,
@@ -453,7 +453,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 15.95,
       "dt_hot": 11.58,
@@ -492,7 +492,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.53,
       "dt_hot": 10.75,
@@ -531,7 +531,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 10.36,
       "dt_hot": 10.19,
@@ -570,7 +570,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 10.66,
       "dt_hot": 9.27,
@@ -609,7 +609,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 11.98,
       "dt_hot": 8.57,
@@ -648,7 +648,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.49,
       "dt_hot": 8.26,
@@ -687,7 +687,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 9.5,
       "dt_hot": 8.94,
@@ -726,7 +726,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.93,
       "dt_hot": 9.14,
@@ -765,7 +765,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 17.39,
       "dt_hot": 14.33,
@@ -804,7 +804,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 10.16,
       "dt_hot": 9.1,
@@ -843,7 +843,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 10.55,
       "dt_hot": 7.8,
@@ -852,41 +852,41 @@
     {
       "symbol": "VRE",
       "in_vn30": true,
-      "liquidity_20d": 136068863250.0,
-      "sessions": 745,
+      "liquidity_20d": 129570788250.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 25.45,
-      "rs_63": 0.9235000283690387,
+      "close": 25.8,
+      "rs_63": 0.9328169723851304,
       "ma_stack": false,
-      "dist_ma20_pct": -0.20586217037544818,
-      "vol_ratio": 0.10287984261215488,
-      "pct_from_52w_high": 0.5830469644902635,
-      "atr14_pct": 3.4100477126017403,
-      "boi_canh": "Giá dưới MA20 0.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.92), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": 0.751732890754675,
+      "vol_ratio": 0.028719756998944947,
+      "pct_from_52w_high": 0.5910652920962199,
+      "atr14_pct": 3.419158361018825,
+      "boi_canh": "Giá trên MA20 0.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 23.714285714285715,
-        "khoang_cach_pct": 6.820095425203481,
+        "gia": 24.03571428571429,
+        "khoang_cach_pct": 6.83831672203765,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 4.78,
-        "hot_money": 9.63,
-        "retail": 9.56,
+        "banker": 8.51,
+        "hot_money": 10.35,
+        "retail": 9.73,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 4.78,
-      "dt_hot": 9.63,
-      "dt_retail": 9.56
+      "dt_banker": 8.51,
+      "dt_hot": 10.35,
+      "dt_retail": 9.73
     },
     {
       "symbol": "BID",
@@ -921,7 +921,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 13.34,
       "dt_hot": 10.41,
@@ -960,7 +960,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 5.91,
       "dt_hot": 8.0,
@@ -999,11 +999,50 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.25,
       "dt_hot": 8.56,
       "dt_retail": 9.44
+    },
+    {
+      "symbol": "VPL",
+      "in_vn30": true,
+      "liquidity_20d": 63747131000.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 85.2,
+      "rs_63": 0.9544958147028078,
+      "ma_stack": false,
+      "dist_ma20_pct": 7.467204843592334,
+      "vol_ratio": 0.034477532772599837,
+      "pct_from_52w_high": 0.7675675675675676,
+      "atr14_pct": 3.085177733065058,
+      "boi_canh": "Giá trên MA20 7.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 79.94285714285715,
+        "khoang_cach_pct": 6.170355466130116,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 13.37,
+        "hot_money": 12.91,
+        "retail": 10.71,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 13.37,
+      "dt_hot": 12.91,
+      "dt_retail": 10.71
     },
     {
       "symbol": "VIB",
@@ -1038,50 +1077,11 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 11.21,
       "dt_hot": 9.95,
       "dt_retail": 9.3
-    },
-    {
-      "symbol": "VPL",
-      "in_vn30": true,
-      "liquidity_20d": 61353299500.0,
-      "sessions": 336,
-      "insufficient_history": false,
-      "close": 83.7,
-      "rs_63": 0.9450997072845215,
-      "ma_stack": false,
-      "dist_ma20_pct": 6.420851875397315,
-      "vol_ratio": 0.13540344367412036,
-      "pct_from_52w_high": 0.7540540540540541,
-      "atr14_pct": 3.012459464072368,
-      "boi_canh": "Giá trên MA20 6.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 78.65714285714286,
-        "khoang_cach_pct": 6.024918928144736,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 11.48,
-        "hot_money": 12.28,
-        "retail": 10.43,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
-      },
-      "dt_banker": 11.48,
-      "dt_hot": 12.28,
-      "dt_retail": 10.43
     },
     {
       "symbol": "MCH",
@@ -1116,7 +1116,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 16.67,
       "dt_hot": 13.39,
@@ -1155,7 +1155,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 19.11,
       "dt_hot": 16.68,
@@ -1194,7 +1194,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 9.39,
       "dt_hot": 9.05,
@@ -1233,7 +1233,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.81,
       "dt_hot": 8.47,
@@ -1272,7 +1272,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.59,
       "dt_hot": 7.51,
@@ -1281,54 +1281,54 @@
     {
       "symbol": "PNJ",
       "in_vn30": false,
-      "liquidity_20d": 215924074500.0,
+      "liquidity_20d": 207754238750.0,
       "sessions": 300,
       "insufficient_history": false,
-      "close": 37.2,
-      "rs_63": 0.5725527115583495,
+      "close": 37.45,
+      "rs_63": 0.5493553267236276,
       "ma_stack": false,
-      "dist_ma20_pct": -4.154589371980666,
-      "vol_ratio": 0.6275127397505825,
-      "pct_from_52w_high": 0.4395604395604396,
-      "atr14_pct": 5.376344086021506,
-      "boi_canh": "Giá dưới MA20 4.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.57), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -3.6284096757591255,
+      "vol_ratio": 0.05479755137151233,
+      "pct_from_52w_high": 0.44251447477253936,
+      "atr14_pct": 4.882700743848941,
+      "boi_canh": "Giá dưới MA20 3.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.55), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 33.2,
-        "khoang_cach_pct": 10.752688172043012,
+        "gia": 33.792857142857144,
+        "khoang_cach_pct": 9.765401487697883,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 9.19,
-        "hot_money": 8.76,
-        "retail": 8.04,
+        "banker": 10.35,
+        "hot_money": 8.98,
+        "retail": 8.1,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 9.19,
-      "dt_hot": 8.76,
-      "dt_retail": 8.04
+      "dt_banker": 10.35,
+      "dt_hot": 8.98,
+      "dt_retail": 8.1
     },
     {
       "symbol": "VCI",
       "in_vn30": false,
       "liquidity_20d": 204470123500.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 19.8,
       "rs_63": 0.8101626534023746,
       "ma_stack": false,
       "dist_ma20_pct": -8.024619672511902,
       "vol_ratio": 0.728777504452143,
-      "pct_from_52w_high": 0.5954887218045113,
+      "pct_from_52w_high": 0.5958471260908819,
       "atr14_pct": 3.3008658008658016,
       "boi_canh": "Giá dưới MA20 8.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.81), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1350,7 +1350,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 3.89,
       "dt_hot": 6.51,
@@ -1359,119 +1359,80 @@
     {
       "symbol": "PLX",
       "in_vn30": false,
-      "liquidity_20d": 172031818250.0,
+      "liquidity_20d": 168027452500.0,
       "sessions": 300,
       "insufficient_history": false,
-      "close": 37.35,
-      "rs_63": 1.0052728132915774,
+      "close": 37.95,
+      "rs_63": 1.0189545717946533,
       "ma_stack": false,
-      "dist_ma20_pct": 2.251728150023946,
-      "vol_ratio": 2.3964373135775734,
-      "pct_from_52w_high": 0.5495879929370219,
-      "atr14_pct": 2.95467584624211,
-      "boi_canh": "Giá trên MA20 2.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": 3.4835367100688686,
+      "vol_ratio": 0.23720652580342558,
+      "pct_from_52w_high": 0.5584167157151266,
+      "atr14_pct": 2.8044419348767153,
+      "boi_canh": "Giá trên MA20 3.5%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.02), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 35.142857142857146,
-        "khoang_cach_pct": 5.90935169248422,
+        "gia": 35.82142857142858,
+        "khoang_cach_pct": 5.608883869753431,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 17.36,
-        "hot_money": 11.99,
-        "retail": 10.3,
+        "banker": 18.04,
+        "hot_money": 12.62,
+        "retail": 10.51,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 17.36,
-      "dt_hot": 11.99,
-      "dt_retail": 10.3
+      "dt_banker": 18.04,
+      "dt_hot": 12.62,
+      "dt_retail": 10.51
     },
     {
       "symbol": "VND",
       "in_vn30": false,
-      "liquidity_20d": 159493044500.0,
-      "sessions": 745,
+      "liquidity_20d": 150404202750.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 14.7,
-      "rs_63": 0.8308640360458096,
+      "close": 14.9,
+      "rs_63": 0.816787893863988,
       "ma_stack": false,
-      "dist_ma20_pct": -8.596300326441785,
-      "vol_ratio": 1.29111784569744,
-      "pct_from_52w_high": 0.6002449979583504,
-      "atr14_pct": 2.8182701652089377,
-      "boi_canh": "Giá dưới MA20 8.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.83), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -6.962222916016236,
+      "vol_ratio": 0.04155245784494619,
+      "pct_from_52w_high": 0.6084115965700286,
+      "atr14_pct": 2.68456375838926,
+      "boi_canh": "Giá dưới MA20 7.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 13.871428571428572,
-        "khoang_cach_pct": 5.636540330417875,
+        "gia": 14.100000000000001,
+        "khoang_cach_pct": 5.36912751677852,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 2.55,
-        "hot_money": 5.51,
-        "retail": 8.23,
+        "banker": 6.99,
+        "hot_money": 6.39,
+        "retail": 8.43,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 2.55,
-      "dt_hot": 5.51,
-      "dt_retail": 8.23
-    },
-    {
-      "symbol": "VSC",
-      "in_vn30": false,
-      "liquidity_20d": 151342681250.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 13.15,
-      "rs_63": 0.6942284878209481,
-      "ma_stack": false,
-      "dist_ma20_pct": -7.45953553835329,
-      "vol_ratio": 0.5816401691568417,
-      "pct_from_52w_high": 0.3966817496229261,
-      "atr14_pct": 3.8294405214557314,
-      "boi_canh": "Giá dưới MA20 7.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.69), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 12.142857142857142,
-        "khoang_cach_pct": 7.658881042911463,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 9.22,
-        "hot_money": 7.29,
-        "retail": 7.66,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
-      },
-      "dt_banker": 9.22,
-      "dt_hot": 7.29,
-      "dt_retail": 7.66
+      "dt_banker": 6.99,
+      "dt_hot": 6.39,
+      "dt_retail": 8.43
     },
     {
       "symbol": "NVL",
@@ -1506,102 +1467,102 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 2.5,
       "dt_hot": 5.66,
       "dt_retail": 8.62
     },
     {
-      "symbol": "CII",
+      "symbol": "VSC",
       "in_vn30": false,
-      "liquidity_20d": 141412949250.0,
+      "liquidity_20d": 139795976250.0,
       "sessions": 300,
       "insufficient_history": false,
-      "close": 12.95,
-      "rs_63": 0.7403168125257152,
+      "close": 13.2,
+      "rs_63": 0.6968681398658947,
       "ma_stack": false,
-      "dist_ma20_pct": -9.186535764375881,
-      "vol_ratio": 0.6725788254133861,
-      "pct_from_52w_high": 0.41307814992025516,
-      "atr14_pct": 3.8058466629895205,
-      "boi_canh": "Giá dưới MA20 9.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.74), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -6.647807637906656,
+      "vol_ratio": 0.03729636211898667,
+      "pct_from_52w_high": 0.39819004524886875,
+      "atr14_pct": 3.625541125541126,
+      "boi_canh": "Giá dưới MA20 6.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.70), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 11.964285714285714,
-        "khoang_cach_pct": 7.611693325979041,
+        "gia": 12.242857142857142,
+        "khoang_cach_pct": 7.251082251082252,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 0.73,
-        "hot_money": 6.28,
-        "retail": 8.04,
+        "banker": 9.93,
+        "hot_money": 7.46,
+        "retail": 7.7,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 0.73,
-      "dt_hot": 6.28,
-      "dt_retail": 8.04
+      "dt_banker": 9.93,
+      "dt_hot": 7.46,
+      "dt_retail": 7.7
     },
     {
-      "symbol": "VPI",
+      "symbol": "CII",
       "in_vn30": false,
-      "liquidity_20d": 140954535100.0,
+      "liquidity_20d": 137737256250.0,
       "sessions": 745,
       "insufficient_history": false,
-      "close": 61.0,
-      "rs_63": 1.0791532383221887,
-      "ma_stack": true,
-      "dist_ma20_pct": 1.0402173192870956,
-      "vol_ratio": 1.1361381905250556,
-      "pct_from_52w_high": 0.8788359026076935,
-      "atr14_pct": 4.565573770491804,
-      "boi_canh": "Giá trên MA20 1.0%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 0.9%, chế độ thị trường UPTREND.",
+      "close": 13.0,
+      "rs_63": 0.7431751785972431,
+      "ma_stack": false,
+      "dist_ma20_pct": -8.851884312007009,
+      "vol_ratio": 0.1012026598094917,
+      "pct_from_52w_high": 0.4146730462519936,
+      "atr14_pct": 3.7362637362637368,
+      "boi_canh": "Giá dưới MA20 8.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.74), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
-        "setup": "pullback_ma20",
-        "nen_mua": true,
-        "dien_giai": "Pullback về MA20 (cách 1.0%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 55.43,
-        "khoang_cach_pct": 9.131147540983608,
+        "gia": 12.028571428571428,
+        "khoang_cach_pct": 7.4725274725274735,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 11.09,
-        "hot_money": 10.51,
-        "retail": 10.78,
+        "banker": 1.98,
+        "hot_money": 6.47,
+        "retail": 8.09,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 11.09,
-      "dt_hot": 10.51,
-      "dt_retail": 10.78
+      "dt_banker": 1.98,
+      "dt_hot": 6.47,
+      "dt_retail": 8.09
     },
     {
       "symbol": "DXG",
       "in_vn30": false,
-      "liquidity_20d": 131991718750.0,
-      "sessions": 300,
+      "liquidity_20d": 132216083750.0,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 10.75,
       "rs_63": 0.8241074593198134,
       "ma_stack": false,
       "dist_ma20_pct": -5.969822873387276,
-      "vol_ratio": 0.46513189829132107,
-      "pct_from_52w_high": 0.49930329772410587,
+      "vol_ratio": 0.46434170729126895,
+      "pct_from_52w_high": 0.5002326663564449,
       "atr14_pct": 3.488372093023257,
       "boi_canh": "Giá dưới MA20 6.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.82), cách đỉnh 52 tuần 0.5%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -1623,11 +1584,50 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 0.48,
       "dt_hot": 7.33,
       "dt_retail": 8.63
+    },
+    {
+      "symbol": "VPI",
+      "in_vn30": false,
+      "liquidity_20d": 131593200550.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 61.1,
+      "rs_63": 1.08514394531552,
+      "ma_stack": true,
+      "dist_ma20_pct": 2.332202822091034,
+      "vol_ratio": 0.07668638623907922,
+      "pct_from_52w_high": 0.9690721649484537,
+      "atr14_pct": 3.0664016834229604,
+      "boi_canh": "Giá trên MA20 2.3%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 1.0%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách 2.3%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 57.35285714285715,
+        "khoang_cach_pct": 6.132803366845921,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 12.83,
+        "hot_money": 11.48,
+        "retail": 11.19,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 12.83,
+      "dt_hot": 11.48,
+      "dt_retail": 11.19
     },
     {
       "symbol": "PVT",
@@ -1662,7 +1662,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 16.57,
       "dt_hot": 14.71,
@@ -1701,7 +1701,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 17.92,
       "dt_hot": 13.34,
@@ -1740,7 +1740,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 6.52,
       "dt_hot": 8.5,
@@ -1779,7 +1779,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 7.6,
       "dt_hot": 7.96,
@@ -1818,7 +1818,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 17.83,
       "dt_hot": 12.31,
@@ -1827,41 +1827,41 @@
     {
       "symbol": "KDH",
       "in_vn30": false,
-      "liquidity_20d": 89295299000.0,
-      "sessions": 300,
+      "liquidity_20d": 86461143000.0,
+      "sessions": 745,
       "insufficient_history": false,
-      "close": 15.6,
-      "rs_63": 0.6712550000233163,
+      "close": 15.8,
+      "rs_63": 0.6798608333569487,
       "ma_stack": false,
-      "dist_ma20_pct": -10.537634408602138,
-      "vol_ratio": 0.7833873170999587,
-      "pct_from_52w_high": 0.42798353909465014,
-      "atr14_pct": 3.2509157509157527,
-      "boi_canh": "Giá dưới MA20 10.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.67), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -9.442613554950551,
+      "vol_ratio": 0.07244475629722281,
+      "pct_from_52w_high": 0.4334705075445816,
+      "atr14_pct": 3.187160940325499,
+      "boi_canh": "Giá dưới MA20 9.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.68), cách đỉnh 52 tuần 0.4%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 14.585714285714285,
-        "khoang_cach_pct": 6.501831501831505,
+        "gia": 14.792857142857143,
+        "khoang_cach_pct": 6.374321880650998,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 0.27,
-        "hot_money": 4.86,
-        "retail": 6.62,
+        "banker": 2.41,
+        "hot_money": 5.39,
+        "retail": 6.78,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 0.27,
-      "dt_hot": 4.86,
-      "dt_retail": 6.62
+      "dt_banker": 2.41,
+      "dt_hot": 5.39,
+      "dt_retail": 6.78
     },
     {
       "symbol": "GMD",
@@ -1896,7 +1896,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 14.51,
       "dt_hot": 9.78,
@@ -1935,7 +1935,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 17.76,
       "dt_hot": 13.99,
@@ -1974,7 +1974,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 8.3,
       "dt_hot": 7.46,
@@ -1983,86 +1983,47 @@
     {
       "symbol": "POW",
       "in_vn30": false,
-      "liquidity_20d": 81939279000.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 12.4,
-      "rs_63": 0.8924682554266838,
-      "ma_stack": false,
-      "dist_ma20_pct": -5.071770334928227,
-      "vol_ratio": 0.0689583198898069,
-      "pct_from_52w_high": 0.7359050445103857,
-      "atr14_pct": 2.1889400921658972,
-      "boi_canh": "Giá dưới MA20 5.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.89), cách đỉnh 52 tuần 0.7%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 11.857142857142858,
-        "khoang_cach_pct": 4.3778801843317945,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 1.9,
-        "hot_money": 5.39,
-        "retail": 8.29,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
-      },
-      "dt_banker": 1.9,
-      "dt_hot": 5.39,
-      "dt_retail": 8.29
-    },
-    {
-      "symbol": "EIB",
-      "in_vn30": false,
-      "liquidity_20d": 74323151500.0,
+      "liquidity_20d": 78906832000.0,
       "sessions": 300,
       "insufficient_history": false,
-      "close": 16.1,
-      "rs_63": 0.7615552157474933,
+      "close": 12.5,
+      "rs_63": 0.8837704284759278,
       "ma_stack": false,
-      "dist_ma20_pct": -5.112715485486962,
-      "vol_ratio": 1.5862364671749023,
-      "pct_from_52w_high": 0.5791366906474821,
-      "atr14_pct": 2.307009760425909,
-      "boi_canh": "Giá dưới MA20 5.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.76), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -4.049126847054307,
+      "vol_ratio": 0.05014553590875789,
+      "pct_from_52w_high": 0.7418397626112759,
+      "atr14_pct": 2.171428571428571,
+      "boi_canh": "Giá dưới MA20 4.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.88), cách đỉnh 52 tuần 0.7%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 15.35714285714286,
-        "khoang_cach_pct": 4.614019520851818,
+        "gia": 11.957142857142857,
+        "khoang_cach_pct": 4.342857142857142,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 3.61,
-        "hot_money": 5.27,
-        "retail": 7.09,
+        "banker": 6.98,
+        "hot_money": 6.28,
+        "retail": 8.47,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 3.61,
-      "dt_hot": 5.27,
-      "dt_retail": 7.09
+      "dt_banker": 6.98,
+      "dt_hot": 6.28,
+      "dt_retail": 8.47
     },
     {
       "symbol": "DPM",
       "in_vn30": false,
       "liquidity_20d": 71585939000.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 23.05,
       "rs_63": 1.0415477995506321,
@@ -2091,7 +2052,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 14.1,
       "dt_hot": 11.67,
@@ -2130,11 +2091,50 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 7.9,
       "dt_hot": 9.96,
       "dt_retail": 9.39
+    },
+    {
+      "symbol": "EIB",
+      "in_vn30": false,
+      "liquidity_20d": 69791118250.0,
+      "sessions": 745,
+      "insufficient_history": false,
+      "close": 16.35,
+      "rs_63": 0.7733806072963674,
+      "ma_stack": false,
+      "dist_ma20_pct": -3.7102473498233146,
+      "vol_ratio": 0.3216298570520464,
+      "pct_from_52w_high": 0.5881294964028777,
+      "atr14_pct": 2.2717343818261244,
+      "boi_canh": "Giá dưới MA20 3.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.77), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 15.60714285714286,
+        "khoang_cach_pct": 4.543468763652249,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 7.78,
+        "hot_money": 6.66,
+        "retail": 7.42,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 7.78,
+      "dt_hot": 6.66,
+      "dt_retail": 7.42
     },
     {
       "symbol": "BAF",
@@ -2169,7 +2169,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 10.76,
       "dt_hot": 11.28,
@@ -2208,50 +2208,11 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 0.75,
       "dt_hot": 7.95,
       "dt_retail": 8.4
-    },
-    {
-      "symbol": "MSB",
-      "in_vn30": false,
-      "liquidity_20d": 60756080200.0,
-      "sessions": 745,
-      "insufficient_history": false,
-      "close": 12.8,
-      "rs_63": 0.9980888542825258,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.2863468071300463,
-      "vol_ratio": 0.1821297112063607,
-      "pct_from_52w_high": 0.9336250911743253,
-      "atr14_pct": 2.5446428571428563,
-      "boi_canh": "Giá dưới MA20 2.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 1.00), cách đỉnh 52 tuần 0.9%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 12.14857142857143,
-        "khoang_cach_pct": 5.089285714285713,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 2.92,
-        "hot_money": 7.65,
-        "retail": 10.04,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
-      },
-      "dt_banker": 2.92,
-      "dt_hot": 7.65,
-      "dt_retail": 10.04
     },
     {
       "symbol": "PDR",
@@ -2286,7 +2247,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 3.25,
       "dt_hot": 6.85,
@@ -2325,34 +2286,73 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 8.6,
       "dt_hot": 9.4,
       "dt_retail": 10.39
     },
     {
-      "symbol": "NLG",
+      "symbol": "MSB",
       "in_vn30": false,
-      "liquidity_20d": 56279293750.0,
-      "sessions": 745,
+      "liquidity_20d": 55657845550.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 23.85,
-      "rs_63": 0.9089604107458589,
+      "close": 12.85,
+      "rs_63": 1.0202778894203604,
       "ma_stack": false,
-      "dist_ma20_pct": -1.7507723995880409,
-      "vol_ratio": 0.5972350707405275,
-      "pct_from_52w_high": 0.6054836252856055,
-      "atr14_pct": 2.890086852351003,
-      "boi_canh": "Giá dưới MA20 1.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.91), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -1.7396291340088021,
+      "vol_ratio": 0.011492209200596747,
+      "pct_from_52w_high": 0.9359067734887108,
+      "atr14_pct": 2.4624791550861573,
+      "boi_canh": "Giá dưới MA20 1.7%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.02), cách đỉnh 52 tuần 0.9%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 22.47142857142857,
-        "khoang_cach_pct": 5.780173704702006,
+        "gia": 12.217142857142857,
+        "khoang_cach_pct": 4.924958310172315,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 7.71,
+        "hot_money": 8.04,
+        "retail": 10.12,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 7.71,
+      "dt_hot": 8.04,
+      "dt_retail": 10.12
+    },
+    {
+      "symbol": "NLG",
+      "in_vn30": false,
+      "liquidity_20d": 51900407500.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 23.85,
+      "rs_63": 0.8521503850742428,
+      "ma_stack": false,
+      "dist_ma20_pct": -1.9627993012023448,
+      "vol_ratio": 0.0027743620730597686,
+      "pct_from_52w_high": 0.6054836252856055,
+      "atr14_pct": 2.740341419586702,
+      "boi_canh": "Giá dưới MA20 2.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 22.542857142857144,
+        "khoang_cach_pct": 5.480682839173404,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
@@ -2364,7 +2364,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 4.16,
       "dt_hot": 9.45,
@@ -2403,89 +2403,11 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 9.43,
       "dt_hot": 8.72,
       "dt_retail": 8.59
-    },
-    {
-      "symbol": "BVH",
-      "in_vn30": false,
-      "liquidity_20d": 35416068000.0,
-      "sessions": 300,
-      "insufficient_history": false,
-      "close": 70.2,
-      "rs_63": 1.0771480732736116,
-      "ma_stack": false,
-      "dist_ma20_pct": 7.627443464929096,
-      "vol_ratio": 2.2854912746938245,
-      "pct_from_52w_high": 0.7932203389830509,
-      "atr14_pct": 2.9812779812779846,
-      "boi_canh": "Giá trên MA20 7.6%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 66.0142857142857,
-        "khoang_cach_pct": 5.962555962555969,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 18.54,
-        "hot_money": 13.55,
-        "retail": 11.09,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
-      },
-      "dt_banker": 18.54,
-      "dt_hot": 13.55,
-      "dt_retail": 11.09
-    },
-    {
-      "symbol": "KBC",
-      "in_vn30": false,
-      "liquidity_20d": 34595478000.0,
-      "sessions": 300,
-      "insufficient_history": false,
-      "close": 26.1,
-      "rs_63": 0.8436566741003872,
-      "ma_stack": false,
-      "dist_ma20_pct": -3.583302548947165,
-      "vol_ratio": 1.5353652424508206,
-      "pct_from_52w_high": 0.6476426799007445,
-      "atr14_pct": 1.5873015873015854,
-      "boi_canh": "Giá dưới MA20 3.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 25.271428571428572,
-        "khoang_cach_pct": 3.174603174603171,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 0.87,
-        "hot_money": 5.3,
-        "retail": 7.68,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
-      },
-      "dt_banker": 0.87,
-      "dt_hot": 5.3,
-      "dt_retail": 7.68
     },
     {
       "symbol": "CTS",
@@ -2520,7 +2442,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 7.94,
       "dt_hot": 8.26,
@@ -2530,14 +2452,14 @@
       "symbol": "VCG",
       "in_vn30": false,
       "liquidity_20d": 33680702250.0,
-      "sessions": 300,
+      "sessions": 745,
       "insufficient_history": false,
       "close": 14.5,
-      "rs_63": 0.8260938390093326,
+      "rs_63": 0.8265645477495088,
       "ma_stack": false,
       "dist_ma20_pct": -7.155434608612143,
       "vol_ratio": 0.7758538860991302,
-      "pct_from_52w_high": 0.5604947816003092,
+      "pct_from_52w_high": 0.5607115235885538,
       "atr14_pct": 2.339901477832511,
       "boi_canh": "Giá dưới MA20 7.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.83), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
@@ -2552,57 +2474,135 @@
       },
       "dong_tien": {
         "banker": 2.68,
-        "hot_money": 4.98,
+        "hot_money": 4.99,
         "retail": 7.47,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 2.68,
-      "dt_hot": 4.98,
+      "dt_hot": 4.99,
       "dt_retail": 7.47
     },
     {
-      "symbol": "VTP",
+      "symbol": "KBC",
       "in_vn30": false,
-      "liquidity_20d": 32583641250.0,
-      "sessions": 737,
+      "liquidity_20d": 31850580750.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 49.3,
-      "rs_63": 0.8850010149688354,
+      "close": 26.1,
+      "rs_63": 0.8436566741003872,
       "ma_stack": false,
-      "dist_ma20_pct": -6.588982047273928,
-      "vol_ratio": 0.11869387487071725,
-      "pct_from_52w_high": 0.5981557874302353,
-      "atr14_pct": 2.47029846421327,
-      "boi_canh": "Giá dưới MA20 6.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.89), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -3.431689945425964,
+      "vol_ratio": 0.022380121686593202,
+      "pct_from_52w_high": 0.6476426799007445,
+      "atr14_pct": 1.6283524904214548,
+      "boi_canh": "Giá dưới MA20 3.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 46.864285714285714,
-        "khoang_cach_pct": 4.94059692842654,
+        "gia": 25.250000000000004,
+        "khoang_cach_pct": 3.2567049808429096,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 7.01,
-        "hot_money": 7.59,
-        "retail": 8.8,
+        "banker": 0.87,
+        "hot_money": 5.3,
+        "retail": 7.7,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 7.01,
-      "dt_hot": 7.59,
-      "dt_retail": 8.8
+      "dt_banker": 0.87,
+      "dt_hot": 5.3,
+      "dt_retail": 7.7
+    },
+    {
+      "symbol": "BVH",
+      "in_vn30": false,
+      "liquidity_20d": 31567205000.0,
+      "sessions": 745,
+      "insufficient_history": false,
+      "close": 67.3,
+      "rs_63": 1.032650503295072,
+      "ma_stack": false,
+      "dist_ma20_pct": 3.4111862323294107,
+      "vol_ratio": 0.28745734670664874,
+      "pct_from_52w_high": 0.7604519774011299,
+      "atr14_pct": 2.9293143706219515,
+      "boi_canh": "Giá trên MA20 3.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 0.8%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 63.35714285714285,
+        "khoang_cach_pct": 5.858628741243903,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 14.9,
+        "hot_money": 11.99,
+        "retail": 10.52,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 14.9,
+      "dt_hot": 11.99,
+      "dt_retail": 10.52
+    },
+    {
+      "symbol": "VTP",
+      "in_vn30": false,
+      "liquidity_20d": 31189419250.0,
+      "sessions": 300,
+      "insufficient_history": false,
+      "close": 50.0,
+      "rs_63": 0.8978891806091819,
+      "ma_stack": false,
+      "dist_ma20_pct": -4.965550011879305,
+      "vol_ratio": 0.15533050499521006,
+      "pct_from_52w_high": 0.6067961165048543,
+      "atr14_pct": 2.3499999999999983,
+      "boi_canh": "Giá dưới MA20 5.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 47.65,
+        "khoang_cach_pct": 4.699999999999997,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 10.7,
+        "hot_money": 8.39,
+        "retail": 9.04,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 10.7,
+      "dt_hot": 8.39,
+      "dt_retail": 9.04
     },
     {
       "symbol": "PC1",
@@ -2637,7 +2637,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 4.18,
       "dt_hot": 8.3,
@@ -2676,7 +2676,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 5.66,
       "dt_hot": 7.65,
@@ -2715,7 +2715,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 12.2,
       "dt_hot": 11.32,
@@ -2754,7 +2754,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 12.08,
       "dt_hot": 7.9,
@@ -2793,7 +2793,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 2.87,
       "dt_hot": 5.15,
@@ -2802,41 +2802,41 @@
     {
       "symbol": "HSG",
       "in_vn30": false,
-      "liquidity_20d": 24599425000.0,
-      "sessions": 745,
+      "liquidity_20d": 23682382000.0,
+      "sessions": 300,
       "insufficient_history": false,
-      "close": 10.15,
-      "rs_63": 0.8426842712948313,
+      "close": 10.1,
+      "rs_63": 0.8282232838402442,
       "ma_stack": false,
-      "dist_ma20_pct": -4.403108076289152,
-      "vol_ratio": 1.5045504351603511,
-      "pct_from_52w_high": 0.6223175965665236,
-      "atr14_pct": 2.005629838142152,
-      "boi_canh": "Giá dưới MA20 4.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
+      "dist_ma20_pct": -4.672015101462968,
+      "vol_ratio": 0.08495753245965977,
+      "pct_from_52w_high": 0.6203931203931203,
+      "atr14_pct": 1.8741159830268732,
+      "boi_canh": "Giá dưới MA20 4.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.83), cách đỉnh 52 tuần 0.6%, chế độ thị trường UPTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 9.742857142857144,
-        "khoang_cach_pct": 4.011259676284304,
+        "gia": 9.721428571428572,
+        "khoang_cach_pct": 3.7482319660537464,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 3.59,
-        "hot_money": 6.4,
-        "retail": 8.15,
+        "banker": 2.87,
+        "hot_money": 6.17,
+        "retail": 8.07,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 3.59,
-      "dt_hot": 6.4,
-      "dt_retail": 8.15
+      "dt_banker": 2.87,
+      "dt_hot": 6.17,
+      "dt_retail": 8.07
     },
     {
       "symbol": "HAG",
@@ -2871,7 +2871,7 @@
           "hot_money": 13,
           "retail": 40
         },
-        "canh_bao": "RSI đa chu kỳ tính từ giá, KHÔNG phải số của money24h và KHÔNG phải dữ liệu dòng tiền thật — money24h không công bố công thức. Dùng để tham khảo xu hướng momentum, không đọc thành 'có tổ chức đứng sau'."
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
       "dt_banker": 13.36,
       "dt_hot": 9.54,
