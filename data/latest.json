@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T09:15:43",
+  "generated_at": "2026-10-02T15:46:31",
   "date": "2026-10-02",
-  "session_status": "intraday",
+  "session_status": "closed",
   "market": {
     "last_date": "2026-10-02",
     "sessions": 745,
@@ -1866,16 +1866,16 @@
     {
       "symbol": "DGW",
       "in_vn30": false,
-      "liquidity_20d": 92605839000.0,
+      "liquidity_20d": 90574949800.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 45.6,
-      "rs_63": 1.218300942817434,
+      "close": 44.6,
+      "rs_63": 1.2182520203080849,
       "ma_stack": false,
-      "dist_ma20_pct": 1.6779084675845768,
+      "dist_ma20_pct": 1.6790725774276982,
       "vol_ratio": 0.7958940358835674,
-      "pct_from_52w_high": 0.8066513355740315,
-      "atr14_pct": 3.782894736842107,
+      "pct_from_52w_high": 0.8066558147947188,
+      "atr14_pct": 3.782831518257527,
       "boi_canh": "Giá trên MA20 1.7%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.22), cách đỉnh 52 tuần 0.8%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
@@ -1883,12 +1883,12 @@
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 42.15,
-        "khoang_cach_pct": 7.565789473684214,
+        "gia": 41.22571428571429,
+        "khoang_cach_pct": 7.565663036515054,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 11.98,
+        "banker": 11.97,
         "hot_money": 11.56,
         "retail": 11.19,
         "chu_ky": {
@@ -1898,7 +1898,7 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 11.98,
+      "dt_banker": 11.97,
       "dt_hot": 11.56,
       "dt_retail": 11.19
     },
