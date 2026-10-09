@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:15:34",
+  "generated_at": "2026-10-09T08:59:23",
   "date": "2026-10-09",
   "session_status": "intraday",
   "market": {
@@ -473,36 +473,36 @@
     {
       "symbol": "HDB",
       "in_vn30": true,
-      "liquidity_20d": 303267050400.0,
+      "liquidity_20d": 293101809500.0,
       "sessions": 746,
       "insufficient_history": false,
       "close": 22.4,
-      "rs_63": 1.0880688816703663,
+      "rs_63": 1.131591636937181,
       "ma_stack": true,
-      "dist_ma20_pct": 1.1286681715575675,
+      "dist_ma20_pct": 4.959820068879872,
       "vol_ratio": 2.8080473804747736,
-      "pct_from_52w_high": 0.9333333333333332,
-      "atr14_pct": 2.53188775510204,
-      "dinh_52t": 24.0,
-      "day_52t": 17.92,
-      "pct_so_dinh_52t": -6.666666666666677,
-      "pct_so_day_52t": 24.99999999999998,
+      "pct_from_52w_high": 0.9705372616984402,
+      "atr14_pct": 2.4489795918367347,
+      "dinh_52t": 23.08,
+      "day_52t": 17.23,
+      "pct_so_dinh_52t": -2.9462738301559765,
+      "pct_so_day_52t": 30.005803830528134,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 1.1%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 6.7%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 5.0%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.13), cách đỉnh 52 tuần 2.9%, chế độ thị trường DOWNTREND.",
       "trigger": {
-        "setup": "pullback_ma20",
+        "setup": "break_kem_volume",
         "nen_mua": true,
-        "dien_giai": "Pullback về MA20 (cách 1.1%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+        "dien_giai": "Volume 2.8× trung bình 20 phiên, dấu hiệu break. Xác nhận bằng giá đóng cửa vượt cạnh trên nền giá."
       },
       "stoploss": {
-        "gia": 21.265714285714285,
-        "khoang_cach_pct": 5.06377551020408,
+        "gia": 21.302857142857142,
+        "khoang_cach_pct": 4.8979591836734695,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 9.22,
-        "hot_money": 11.36,
-        "retail": 10.96,
+        "banker": 17.71,
+        "hot_money": 13.94,
+        "retail": 11.87,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -510,9 +510,9 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 9.22,
-      "dt_hot": 11.36,
-      "dt_retail": 10.96
+      "dt_banker": 17.71,
+      "dt_hot": 13.94,
+      "dt_retail": 11.87
     },
     {
       "symbol": "VCB",
