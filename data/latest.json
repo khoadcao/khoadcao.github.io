@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-15T02:15:35",
+  "generated_at": "2026-10-15T03:15:31",
   "date": "2026-10-15",
   "session_status": "intraday",
   "market": {
     "last_date": "2026-10-15",
     "sessions": 745,
-    "close": 1701.59,
-    "ma20": 1759.7369999999999,
-    "ma50": 1777.7951999999998,
-    "ma200": 1797.6034,
+    "close": 1698.27,
+    "ma20": 1759.571,
+    "ma50": 1777.7287999999999,
+    "ma200": 1797.5868,
     "above_ma20": false,
     "above_ma50": false,
     "above_ma200": false,
-    "ma50_slope_10": 0.2731375898035626,
-    "ma200_slope_20": 0.3216806149033191,
+    "ma50_slope_10": 0.26939242481720527,
+    "ma200_slope_20": 0.3207541925911439,
     "distribution_days_25": 9,
-    "vol_ratio": 0.0,
-    "atr14_pct": 1.105226792084379,
-    "drawdown": -11.74051059680281,
+    "vol_ratio": 0.2053236126918342,
+    "atr14_pct": 1.1411192398314594,
+    "drawdown": -11.912715125989404,
     "regime": "DOWNTREND",
     "regime_score": 1,
     "regime_components": {
@@ -33,35 +33,35 @@
     {
       "symbol": "VIC",
       "in_vn30": true,
-      "liquidity_20d": 715558762500.0,
+      "liquidity_20d": 720824860000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 219.0,
-      "rs_63": 1.0569791013842489,
+      "close": 219.1,
+      "rs_63": 1.0595290045638475,
       "ma_stack": true,
-      "dist_ma20_pct": -4.3187626974244715,
-      "vol_ratio": 0.001759273723275343,
-      "pct_from_52w_high": 0.8264150943396227,
-      "atr14_pct": 2.628832354859751,
+      "dist_ma20_pct": -4.277163703088826,
+      "vol_ratio": 0.1475666666161128,
+      "pct_from_52w_high": 0.8267924528301887,
+      "atr14_pct": 2.709134772119709,
       "dinh_52t": 265.0,
       "day_52t": 93.0,
-      "pct_so_dinh_52t": -17.35849056603773,
-      "pct_so_day_52t": 135.48387096774195,
+      "pct_so_dinh_52t": -17.320754716981135,
+      "pct_so_day_52t": 135.59139784946237,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 4.3%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.06), cách đỉnh 52 tuần 17.4%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 4.3%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.06), cách đỉnh 52 tuần 17.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 207.4857142857143,
-        "khoang_cach_pct": 5.257664709719502,
+        "gia": 207.22857142857143,
+        "khoang_cach_pct": 5.418269544239418,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 6.04,
-        "hot_money": 7.93,
+        "banker": 6.22,
+        "hot_money": 7.96,
         "retail": 9.85,
         "chu_ky": {
           "banker": 3,
@@ -70,43 +70,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 6.04,
-      "dt_hot": 7.93,
+      "dt_banker": 6.22,
+      "dt_hot": 7.96,
       "dt_retail": 9.85
     },
     {
       "symbol": "VHM",
       "in_vn30": true,
-      "liquidity_20d": 576693359000.0,
+      "liquidity_20d": 583879725000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 60.1,
-      "rs_63": 0.9256516483026429,
+      "close": 59.7,
+      "rs_63": 0.921288446131513,
       "ma_stack": false,
-      "dist_ma20_pct": -10.412163672952236,
-      "vol_ratio": 0.02181939779133118,
-      "pct_from_52w_high": 0.7202780441035475,
-      "atr14_pct": 3.4941763727121424,
+      "dist_ma20_pct": -10.981883247595615,
+      "vol_ratio": 0.2912123521724616,
+      "pct_from_52w_high": 0.715484180249281,
+      "atr14_pct": 3.6850921273031787,
       "dinh_52t": 83.44,
       "day_52t": 41.84,
-      "pct_so_dinh_52t": -27.972195589645253,
-      "pct_so_day_52t": 43.64244741873804,
+      "pct_so_dinh_52t": -28.451581975071903,
+      "pct_so_day_52t": 42.686424474187376,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 10.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 28.0%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 11.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.92), cách đỉnh 52 tuần 28.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 55.900000000000006,
-        "khoang_cach_pct": 6.988352745424285,
+        "gia": 55.300000000000004,
+        "khoang_cach_pct": 7.370184254606357,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 1.56,
-        "hot_money": 5.17,
-        "retail": 8.23,
+        "banker": 1.43,
+        "hot_money": 5.04,
+        "retail": 8.17,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -114,174 +114,42 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 1.56,
-      "dt_hot": 5.17,
-      "dt_retail": 8.23
+      "dt_banker": 1.43,
+      "dt_hot": 5.04,
+      "dt_retail": 8.17
     },
     {
       "symbol": "TCB",
       "in_vn30": true,
-      "liquidity_20d": 571870137500.0,
+      "liquidity_20d": 577511237250.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 32.85,
-      "rs_63": 1.0922117380970573,
+      "close": 32.65,
+      "rs_63": 1.0876842456202627,
       "ma_stack": false,
-      "dist_ma20_pct": 0.8209928642676445,
-      "vol_ratio": 0.0072269023924081115,
-      "pct_from_52w_high": 0.798492950899368,
-      "atr14_pct": 1.9895629484670576,
+      "dist_ma20_pct": 0.23793076982117078,
+      "vol_ratio": 0.1979012744449284,
+      "pct_from_52w_high": 0.7936315021876519,
+      "atr14_pct": 2.0673813169984676,
       "dinh_52t": 41.14,
       "day_52t": 27.77,
-      "pct_so_dinh_52t": -20.1507049100632,
-      "pct_so_day_52t": 18.29312207418077,
+      "pct_so_dinh_52t": -20.63684978123481,
+      "pct_so_day_52t": 17.572920417716965,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.8%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 20.2%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 0.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 20.6%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 31.542857142857144,
-        "khoang_cach_pct": 3.9791258969341152,
+        "gia": 31.3,
+        "khoang_cach_pct": 4.134762633996935,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 12.09,
-        "hot_money": 10.94,
-        "retail": 10.49,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 12.09,
-      "dt_hot": 10.94,
-      "dt_retail": 10.49
-    },
-    {
-      "symbol": "VPB",
-      "in_vn30": true,
-      "liquidity_20d": 464305914950.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 24.25,
-      "rs_63": 1.2407261046367586,
-      "ma_stack": true,
-      "dist_ma20_pct": 4.645392366280454,
-      "vol_ratio": 0.011942649579161592,
-      "pct_from_52w_high": 0.8974833456698742,
-      "atr14_pct": 2.1796759941089845,
-      "dinh_52t": 27.02,
-      "day_52t": 18.63,
-      "pct_so_dinh_52t": -10.25166543301258,
-      "pct_so_day_52t": 30.16639828234031,
-      "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 4.6%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.24), cách đỉnh 52 tuần 10.3%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 23.192857142857143,
-        "khoang_cach_pct": 4.359351988217969,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 13.37,
-        "hot_money": 14.13,
-        "retail": 12.26,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 13.37,
-      "dt_hot": 14.13,
-      "dt_retail": 12.26
-    },
-    {
-      "symbol": "SHB",
-      "in_vn30": true,
-      "liquidity_20d": 438443181940.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 10.25,
-      "rs_63": 0.8519916526251777,
-      "ma_stack": false,
-      "dist_ma20_pct": -7.281772953414745,
-      "vol_ratio": 0.013319414603976364,
-      "pct_from_52w_high": 0.5638063806380638,
-      "atr14_pct": 3.2752613240418116,
-      "dinh_52t": 18.18,
-      "day_52t": 9.55,
-      "pct_so_dinh_52t": -43.61936193619363,
-      "pct_so_day_52t": 7.329842931937169,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 7.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 43.6%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 9.57857142857143,
-        "khoang_cach_pct": 6.550522648083623,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 6.55,
-        "hot_money": 5.83,
-        "retail": 7.05,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 6.55,
-      "dt_hot": 5.83,
-      "dt_retail": 7.05
-    },
-    {
-      "symbol": "MSN",
-      "in_vn30": true,
-      "liquidity_20d": 405265889000.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 71.4,
-      "rs_63": 1.0996926404127905,
-      "ma_stack": false,
-      "dist_ma20_pct": 0.5421389847215519,
-      "vol_ratio": 0.0050359927885953604,
-      "pct_from_52w_high": 0.7595744680851064,
-      "atr14_pct": 2.5110044017607036,
-      "dinh_52t": 94.0,
-      "day_52t": 61.7,
-      "pct_so_dinh_52t": -24.042553191489358,
-      "pct_so_day_52t": 15.721231766612643,
-      "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.5%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.10), cách đỉnh 52 tuần 24.0%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 67.81428571428572,
-        "khoang_cach_pct": 5.022008803521407,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 6.42,
-        "hot_money": 10.5,
+        "banker": 9.13,
+        "hot_money": 10.46,
         "retail": 10.36,
         "chu_ky": {
           "banker": 3,
@@ -290,43 +158,175 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 6.42,
-      "dt_hot": 10.5,
+      "dt_banker": 9.13,
+      "dt_hot": 10.46,
       "dt_retail": 10.36
+    },
+    {
+      "symbol": "VPB",
+      "in_vn30": true,
+      "liquidity_20d": 468077569950.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 24.35,
+      "rs_63": 1.2482780365797064,
+      "ma_stack": true,
+      "dist_ma20_pct": 5.054252863645203,
+      "vol_ratio": 0.15407945671500947,
+      "pct_from_52w_high": 0.9011843079200593,
+      "atr14_pct": 2.2000586682311525,
+      "dinh_52t": 27.02,
+      "day_52t": 18.63,
+      "pct_so_dinh_52t": -9.881569207994067,
+      "pct_so_day_52t": 30.70316693505102,
+      "breakout_52t": null,
+      "boi_canh": "Giá trên MA20 5.1%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.25), cách đỉnh 52 tuần 9.9%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 23.27857142857143,
+        "khoang_cach_pct": 4.400117336462305,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 17.28,
+        "hot_money": 14.59,
+        "retail": 12.38,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 17.28,
+      "dt_hot": 14.59,
+      "dt_retail": 12.38
+    },
+    {
+      "symbol": "SHB",
+      "in_vn30": true,
+      "liquidity_20d": 439950558190.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 10.3,
+      "rs_63": 0.8578214188276193,
+      "ma_stack": false,
+      "dist_ma20_pct": -6.850553922676916,
+      "vol_ratio": 0.08221846322408548,
+      "pct_from_52w_high": 0.5665566556655666,
+      "atr14_pct": 3.2593619972260743,
+      "dinh_52t": 18.18,
+      "day_52t": 9.55,
+      "pct_so_dinh_52t": -43.34433443344334,
+      "pct_so_day_52t": 7.853403141361248,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 6.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 43.3%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 9.62857142857143,
+        "khoang_cach_pct": 6.518723994452149,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 7.41,
+        "hot_money": 5.98,
+        "retail": 7.12,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 7.41,
+      "dt_hot": 5.98,
+      "dt_retail": 7.12
+    },
+    {
+      "symbol": "MSN",
+      "in_vn30": true,
+      "liquidity_20d": 408316881000.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 71.0,
+      "rs_63": 1.0956696763038094,
+      "ma_stack": false,
+      "dist_ma20_pct": 0.007042749489394318,
+      "vol_ratio": 0.15227882955990732,
+      "pct_from_52w_high": 0.7553191489361702,
+      "atr14_pct": 2.585513078470825,
+      "dinh_52t": 94.0,
+      "day_52t": 61.7,
+      "pct_so_dinh_52t": -24.468085106382976,
+      "pct_so_day_52t": 15.072933549432733,
+      "breakout_52t": null,
+      "boi_canh": "Giá trên MA20 0.0%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.10), cách đỉnh 52 tuần 24.5%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 67.32857142857142,
+        "khoang_cach_pct": 5.17102615694165,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 5.52,
+        "hot_money": 10.15,
+        "retail": 10.23,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 5.52,
+      "dt_hot": 10.15,
+      "dt_retail": 10.23
     },
     {
       "symbol": "SSI",
       "in_vn30": true,
-      "liquidity_20d": 383064256000.0,
+      "liquidity_20d": 386006138000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 18.8,
-      "rs_63": 0.9974536420977691,
+      "close": 19.0,
+      "rs_63": 1.0100355478862693,
       "ma_stack": false,
-      "dist_ma20_pct": -5.681675655336749,
-      "vol_ratio": 0.010888423288047858,
-      "pct_from_52w_high": 0.5962575325087218,
-      "atr14_pct": 2.6215805471124627,
+      "dist_ma20_pct": -4.726087501567,
+      "vol_ratio": 0.15756690905298684,
+      "pct_from_52w_high": 0.6026006977481764,
+      "atr14_pct": 2.6691729323308286,
       "dinh_52t": 31.53,
       "day_52t": 17.35,
-      "pct_so_dinh_52t": -40.37424674912782,
-      "pct_so_day_52t": 8.35734870317002,
+      "pct_so_dinh_52t": -39.73993022518236,
+      "pct_so_day_52t": 9.5100864553314,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 5.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 1.00), cách đỉnh 52 tuần 40.4%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 4.7%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 39.7%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 17.814285714285713,
-        "khoang_cach_pct": 5.243161094224925,
+        "gia": 17.985714285714284,
+        "khoang_cach_pct": 5.338345864661657,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 1.44,
-        "hot_money": 5.43,
-        "retail": 8.38,
+        "banker": 8.01,
+        "hot_money": 6.28,
+        "retail": 8.57,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -334,43 +334,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 1.44,
-      "dt_hot": 5.43,
-      "dt_retail": 8.38
+      "dt_banker": 8.01,
+      "dt_hot": 6.28,
+      "dt_retail": 8.57
     },
     {
       "symbol": "HPG",
       "in_vn30": true,
-      "liquidity_20d": 362153436500.0,
+      "liquidity_20d": 364844820750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 20.65,
-      "rs_63": 0.9655039551243249,
+      "close": 20.8,
+      "rs_63": 0.9744185048818589,
       "ma_stack": false,
-      "dist_ma20_pct": 0.42553191489360653,
-      "vol_ratio": 0.014780749953928548,
-      "pct_from_52w_high": 0.778657616892911,
-      "atr14_pct": 2.1099965409892754,
+      "dist_ma20_pct": 1.1181332036946934,
+      "vol_ratio": 0.15473513042212275,
+      "pct_from_52w_high": 0.7843137254901961,
+      "atr14_pct": 2.111950549450548,
       "dinh_52t": 26.52,
       "day_52t": 19.6,
-      "pct_so_dinh_52t": -22.1342383107089,
-      "pct_so_day_52t": 5.357142857142838,
+      "pct_so_dinh_52t": -21.568627450980394,
+      "pct_so_day_52t": 6.1224489795918435,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 22.1%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 1.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 21.6%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 19.77857142857143,
-        "khoang_cach_pct": 4.219993081978551,
+        "gia": 19.921428571428574,
+        "khoang_cach_pct": 4.223901098901096,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 11.5,
-        "hot_money": 9.75,
-        "retail": 9.01,
+        "banker": 14.38,
+        "hot_money": 10.26,
+        "retail": 9.15,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -378,43 +378,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 11.5,
-      "dt_hot": 9.75,
-      "dt_retail": 9.01
+      "dt_banker": 14.38,
+      "dt_hot": 10.26,
+      "dt_retail": 9.15
     },
     {
       "symbol": "FPT",
       "in_vn30": true,
-      "liquidity_20d": 344962644800.0,
+      "liquidity_20d": 349531972800.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 57.4,
-      "rs_63": 0.9898984193846952,
+      "close": 58.0,
+      "rs_63": 1.0022012007296728,
       "ma_stack": false,
-      "dist_ma20_pct": -7.155797101449279,
-      "vol_ratio": 0.011945793845378111,
-      "pct_from_52w_high": 0.5888991484559352,
-      "atr14_pct": 2.5510204081632635,
+      "dist_ma20_pct": -6.230801564975597,
+      "vol_ratio": 0.27842498261430143,
+      "pct_from_52w_high": 0.5950548886836976,
+      "atr14_pct": 2.610837438423644,
       "dinh_52t": 97.47,
       "day_52t": 55.8,
-      "pct_so_dinh_52t": -41.110085154406484,
-      "pct_so_day_52t": 2.8673835125448077,
+      "pct_so_dinh_52t": -40.49451113163024,
+      "pct_so_day_52t": 3.942652329749108,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 7.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.99), cách đỉnh 52 tuần 41.1%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 6.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.00), cách đỉnh 52 tuần 40.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 54.471428571428575,
-        "khoang_cach_pct": 5.102040816326527,
+        "gia": 54.971428571428575,
+        "khoang_cach_pct": 5.221674876847288,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 8.44,
-        "hot_money": 5.49,
-        "retail": 7.97,
+        "banker": 11.13,
+        "hot_money": 6.35,
+        "retail": 8.19,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -422,43 +422,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 8.44,
-      "dt_hot": 5.49,
-      "dt_retail": 7.97
+      "dt_banker": 11.13,
+      "dt_hot": 6.35,
+      "dt_retail": 8.19
     },
     {
       "symbol": "BSR",
       "in_vn30": true,
-      "liquidity_20d": 331951461250.0,
+      "liquidity_20d": 339691417250.0,
       "sessions": 738,
       "insufficient_history": false,
-      "close": 30.1,
-      "rs_63": 1.2120154693771623,
+      "close": 29.05,
+      "rs_63": 1.1720226124137223,
       "ma_stack": true,
-      "dist_ma20_pct": -2.9501853941640954,
-      "vol_ratio": 0.005150071377435537,
-      "pct_from_52w_high": 0.768641470888662,
-      "atr14_pct": 3.595158993830093,
+      "dist_ma20_pct": -6.176826806620905,
+      "vol_ratio": 0.4589437161042306,
+      "pct_from_52w_high": 0.7418283963227784,
+      "atr14_pct": 4.020162281780186,
       "dinh_52t": 39.16,
       "day_52t": 13.35,
-      "pct_so_dinh_52t": -23.135852911133803,
-      "pct_so_day_52t": 125.4681647940075,
+      "pct_so_dinh_52t": -25.81716036772216,
+      "pct_so_day_52t": 117.60299625468167,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 3.0%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.21), cách đỉnh 52 tuần 23.1%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 6.2%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.17), cách đỉnh 52 tuần 25.8%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 27.935714285714287,
-        "khoang_cach_pct": 7.190317987660186,
+        "gia": 26.71428571428571,
+        "khoang_cach_pct": 8.040324563560372,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 3.74,
-        "hot_money": 9.8,
-        "retail": 10.82,
+        "banker": 1.59,
+        "hot_money": 8.45,
+        "retail": 10.35,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -466,43 +466,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 3.74,
-      "dt_hot": 9.8,
-      "dt_retail": 10.82
+      "dt_banker": 1.59,
+      "dt_hot": 8.45,
+      "dt_retail": 10.35
     },
     {
       "symbol": "HDB",
       "in_vn30": true,
-      "liquidity_20d": 323933185000.0,
+      "liquidity_20d": 327170583750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 22.95,
-      "rs_63": 1.1857986749112477,
+      "close": 22.9,
+      "rs_63": 1.1855283392096083,
       "ma_stack": true,
-      "dist_ma20_pct": 5.485716912187155,
-      "vol_ratio": 0.03179941175920983,
-      "pct_from_52w_high": 0.9786780383795309,
-      "atr14_pct": 2.3467164643635225,
+      "dist_ma20_pct": 5.267996690263854,
+      "vol_ratio": 0.21405804633048642,
+      "pct_from_52w_high": 0.976545842217484,
+      "atr14_pct": 2.383031815346225,
       "dinh_52t": 23.45,
       "day_52t": 17.23,
-      "pct_so_dinh_52t": -2.1321961620469065,
-      "pct_so_day_52t": 33.197910621009854,
+      "pct_so_dinh_52t": -2.3454157782516027,
+      "pct_so_day_52t": 32.90771909460241,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 5.5%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.19), cách đỉnh 52 tuần 2.1%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 5.3%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.19), cách đỉnh 52 tuần 2.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 21.872857142857143,
-        "khoang_cach_pct": 4.693432928727045,
+        "gia": 21.808571428571426,
+        "khoang_cach_pct": 4.76606363069245,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 13.25,
-        "hot_money": 14.14,
-        "retail": 12.24,
+        "banker": 12.48,
+        "hot_money": 13.91,
+        "retail": 12.17,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -510,43 +510,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 13.25,
-      "dt_hot": 14.14,
-      "dt_retail": 12.24
+      "dt_banker": 12.48,
+      "dt_hot": 13.91,
+      "dt_retail": 12.17
     },
     {
       "symbol": "MWG",
       "in_vn30": true,
-      "liquidity_20d": 203372973300.0,
+      "liquidity_20d": 205487940800.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 73.0,
-      "rs_63": 1.032615095445624,
+      "close": 72.9,
+      "rs_63": 1.0332164797432002,
       "ma_stack": false,
-      "dist_ma20_pct": -0.15796924044833016,
-      "vol_ratio": 0.015236477205117704,
-      "pct_from_52w_high": 0.7958138013735964,
-      "atr14_pct": 2.019569471624263,
+      "dist_ma20_pct": -0.2879203397596508,
+      "vol_ratio": 0.2108499223849806,
+      "pct_from_52w_high": 0.7947236454813038,
+      "atr14_pct": 2.0615324319028,
       "dinh_52t": 91.73,
       "day_52t": 60.73,
-      "pct_so_dinh_52t": -20.418619862640362,
-      "pct_so_day_52t": 20.2041824468961,
+      "pct_so_dinh_52t": -20.52763545186962,
+      "pct_so_day_52t": 20.039519183270226,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 0.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 20.4%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 0.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 20.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 70.05142857142857,
-        "khoang_cach_pct": 4.039138943248526,
+        "gia": 69.89428571428573,
+        "khoang_cach_pct": 4.1230648638056,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 2.91,
-        "hot_money": 9.74,
-        "retail": 9.9,
+        "banker": 2.79,
+        "hot_money": 9.65,
+        "retail": 9.87,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -554,87 +554,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 2.91,
-      "dt_hot": 9.74,
-      "dt_retail": 9.9
-    },
-    {
-      "symbol": "STB",
-      "in_vn30": true,
-      "liquidity_20d": 200798148000.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 64.2,
-      "rs_63": 0.9633001434643355,
-      "ma_stack": false,
-      "dist_ma20_pct": -9.957924263674611,
-      "vol_ratio": 0.009237484561896223,
-      "pct_from_52w_high": 0.8126582278481013,
-      "atr14_pct": 3.1041388518024036,
-      "dinh_52t": 79.0,
-      "day_52t": 45.95,
-      "pct_so_dinh_52t": -18.734177215189874,
-      "pct_so_day_52t": 39.71708378672469,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 10.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 18.7%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 60.214285714285715,
-        "khoang_cach_pct": 6.208277703604807,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 0.68,
-        "hot_money": 3.97,
-        "retail": 7.88,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 0.68,
-      "dt_hot": 3.97,
-      "dt_retail": 7.88
+      "dt_banker": 2.79,
+      "dt_hot": 9.65,
+      "dt_retail": 9.87
     },
     {
       "symbol": "MBB",
       "in_vn30": true,
-      "liquidity_20d": 200480035250.0,
+      "liquidity_20d": 205258461750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 19.3,
-      "rs_63": 1.0132029101308917,
+      "close": 19.55,
+      "rs_63": 1.0283336988091951,
       "ma_stack": false,
-      "dist_ma20_pct": -1.0002564760194788,
-      "vol_ratio": 0.019842664431888837,
-      "pct_from_52w_high": 0.8167583580194668,
-      "atr14_pct": 1.5358993338267917,
+      "dist_ma20_pct": 0.2178649237472685,
+      "vol_ratio": 0.460093896713615,
+      "pct_from_52w_high": 0.827338129496403,
+      "atr14_pct": 1.6075995615637526,
       "dinh_52t": 23.63,
       "day_52t": 17.78,
-      "pct_so_dinh_52t": -18.324164198053317,
-      "pct_so_day_52t": 8.548931383577042,
+      "pct_so_dinh_52t": -17.266187050359704,
+      "pct_so_day_52t": 9.955005624296964,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 1.0%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 18.3%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 0.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 17.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 18.70714285714286,
-        "khoang_cach_pct": 3.0717986676535833,
+        "gia": 18.921428571428574,
+        "khoang_cach_pct": 3.215199123127505,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 12.9,
-        "hot_money": 8.84,
-        "retail": 9.22,
+        "banker": 16.58,
+        "hot_money": 10.02,
+        "retail": 9.56,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -642,43 +598,87 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 12.9,
-      "dt_hot": 8.84,
-      "dt_retail": 9.22
+      "dt_banker": 16.58,
+      "dt_hot": 10.02,
+      "dt_retail": 9.56
+    },
+    {
+      "symbol": "STB",
+      "in_vn30": true,
+      "liquidity_20d": 204530205000.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 63.0,
+      "rs_63": 0.9471425185208281,
+      "ma_stack": false,
+      "dist_ma20_pct": -11.566535654126886,
+      "vol_ratio": 0.41030673185917066,
+      "pct_from_52w_high": 0.7974683544303798,
+      "atr14_pct": 3.3560090702947862,
+      "dinh_52t": 79.0,
+      "day_52t": 45.95,
+      "pct_so_dinh_52t": -20.253164556962023,
+      "pct_so_day_52t": 37.10554951033731,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 11.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 20.3%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 58.77142857142857,
+        "khoang_cach_pct": 6.7120181405895725,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 0.43,
+        "hot_money": 3.58,
+        "retail": 7.63,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 0.43,
+      "dt_hot": 3.58,
+      "dt_retail": 7.63
     },
     {
       "symbol": "VCB",
       "in_vn30": true,
-      "liquidity_20d": 192409954000.0,
+      "liquidity_20d": 195161189000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 56.2,
-      "rs_63": 1.0025504925939253,
+      "close": 56.5,
+      "rs_63": 1.0098725644452526,
       "ma_stack": false,
-      "dist_ma20_pct": -2.396665508857243,
-      "vol_ratio": 0.009907732496804407,
-      "pct_from_52w_high": 0.7191298784388995,
-      "atr14_pct": 1.1311642094560233,
+      "dist_ma20_pct": -1.9012067019706702,
+      "vol_ratio": 0.2816586939654932,
+      "pct_from_52w_high": 0.7229686500319897,
+      "atr14_pct": 1.2262958280657388,
       "dinh_52t": 78.15,
       "day_52t": 52.6,
-      "pct_so_dinh_52t": -28.08701215611005,
-      "pct_so_day_52t": 6.844106463878319,
+      "pct_so_dinh_52t": -27.703134996801026,
+      "pct_so_day_52t": 7.414448669201512,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.00), cách đỉnh 52 tuần 28.1%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.9%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 27.7%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 54.92857142857143,
-        "khoang_cach_pct": 2.2623284189120465,
+        "gia": 55.114285714285714,
+        "khoang_cach_pct": 2.4525916561314776,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 1.81,
-        "hot_money": 6.39,
-        "retail": 8.71,
+        "banker": 8.97,
+        "hot_money": 7.21,
+        "retail": 8.88,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -686,43 +686,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 1.81,
-      "dt_hot": 6.39,
-      "dt_retail": 8.71
+      "dt_banker": 8.97,
+      "dt_hot": 7.21,
+      "dt_retail": 8.88
     },
     {
       "symbol": "CTG",
       "in_vn30": true,
-      "liquidity_20d": 190745973750.0,
+      "liquidity_20d": 192201768750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 29.4,
-      "rs_63": 0.9725645587984247,
+      "close": 29.6,
+      "rs_63": 0.9810948744424953,
       "ma_stack": false,
-      "dist_ma20_pct": -1.746177625532641,
-      "vol_ratio": 0.0031054756758201164,
-      "pct_from_52w_high": 0.6862745098039215,
-      "atr14_pct": 1.664237123420797,
+      "dist_ma20_pct": -1.1108327069239254,
+      "vol_ratio": 0.14516293275345196,
+      "pct_from_52w_high": 0.6909430438842203,
+      "atr14_pct": 1.689189189189189,
       "dinh_52t": 42.84,
       "day_52t": 28.4,
-      "pct_so_dinh_52t": -31.372549019607852,
-      "pct_so_day_52t": 3.5211267605633756,
+      "pct_so_dinh_52t": -30.905695611577965,
+      "pct_so_day_52t": 4.225352112676073,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 1.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 31.4%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.98), cách đỉnh 52 tuần 30.9%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 28.42142857142857,
-        "khoang_cach_pct": 3.328474246841594,
+        "gia": 28.6,
+        "khoang_cach_pct": 3.378378378378378,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 7.57,
-        "hot_money": 7.95,
-        "retail": 8.55,
+        "banker": 11.62,
+        "hot_money": 8.51,
+        "retail": 8.69,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -730,37 +730,37 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 7.57,
-      "dt_hot": 7.95,
-      "dt_retail": 8.55
+      "dt_banker": 11.62,
+      "dt_hot": 8.51,
+      "dt_retail": 8.69
     },
     {
       "symbol": "ACB",
       "in_vn30": true,
-      "liquidity_20d": 155433076500.0,
+      "liquidity_20d": 155931754500.0,
       "sessions": 746,
       "insufficient_history": false,
       "close": 20.4,
-      "rs_63": 0.924911559036113,
+      "rs_63": 0.9267196969505788,
       "ma_stack": false,
       "dist_ma20_pct": -3.0533444220031014,
-      "vol_ratio": 0.002516682603527316,
+      "vol_ratio": 0.06497384630223314,
       "pct_from_52w_high": 0.8553459119496855,
-      "atr14_pct": 1.5231092436974796,
+      "atr14_pct": 1.540616246498599,
       "dinh_52t": 23.85,
       "day_52t": 18.7,
       "pct_so_dinh_52t": -14.465408805031455,
       "pct_so_day_52t": 9.090909090909083,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 3.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.92), cách đỉnh 52 tuần 14.5%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 3.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 14.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 19.77857142857143,
-        "khoang_cach_pct": 3.046218487394959,
+        "gia": 19.77142857142857,
+        "khoang_cach_pct": 3.081232492997198,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
@@ -781,16 +781,16 @@
     {
       "symbol": "VJC",
       "in_vn30": true,
-      "liquidity_20d": 125427238000.0,
+      "liquidity_20d": 126588574000.0,
       "sessions": 746,
       "insufficient_history": false,
       "close": 127.2,
-      "rs_63": 1.027138846866446,
+      "rs_63": 1.0291468320346446,
       "ma_stack": false,
       "dist_ma20_pct": -2.7411400389952933,
-      "vol_ratio": 0.08774310713245853,
+      "vol_ratio": 0.2679668569905792,
       "pct_from_52w_high": 0.7516397801808191,
-      "atr14_pct": 1.6397124887690877,
+      "atr14_pct": 1.6677897574123943,
       "dinh_52t": 169.23,
       "day_52t": 100.0,
       "pct_so_dinh_52t": -24.836021981918087,
@@ -803,8 +803,8 @@
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 123.02857142857144,
-        "khoang_cach_pct": 3.2794249775381754,
+        "gia": 122.95714285714287,
+        "khoang_cach_pct": 3.3355795148247886,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
@@ -823,82 +823,38 @@
       "dt_retail": 9.56
     },
     {
-      "symbol": "VNM",
-      "in_vn30": true,
-      "liquidity_20d": 120223622500.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 57.6,
-      "rs_63": 1.0734163038091296,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.422497035405713,
-      "vol_ratio": 0.011923236625213702,
-      "pct_from_52w_high": 0.7879616963064296,
-      "atr14_pct": 1.612103174603173,
-      "dinh_52t": 73.1,
-      "day_52t": 53.25,
-      "pct_so_dinh_52t": -21.203830369357036,
-      "pct_so_day_52t": 8.169014084507054,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.07), cách đỉnh 52 tuần 21.2%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 55.74285714285715,
-        "khoang_cach_pct": 3.224206349206346,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 5.75,
-        "hot_money": 7.72,
-        "retail": 9.18,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 5.75,
-      "dt_hot": 7.72,
-      "dt_retail": 9.18
-    },
-    {
       "symbol": "BID",
       "in_vn30": true,
-      "liquidity_20d": 119225875000.0,
+      "liquidity_20d": 121219952250.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 33.25,
-      "rs_63": 0.9527660815249894,
+      "close": 33.2,
+      "rs_63": 0.9531931412587351,
       "ma_stack": false,
-      "dist_ma20_pct": -4.870896216293541,
-      "vol_ratio": 0.009079652162180017,
-      "pct_from_52w_high": 0.6349054802367768,
-      "atr14_pct": 1.901181525241676,
+      "dist_ma20_pct": -5.007153075822601,
+      "vol_ratio": 0.3467696256119278,
+      "pct_from_52w_high": 0.633950735153714,
+      "atr14_pct": 1.9901032702237536,
       "dinh_52t": 52.37,
       "day_52t": 32.15,
-      "pct_so_dinh_52t": -36.50945197632232,
-      "pct_so_day_52t": 3.4214618973561484,
+      "pct_so_dinh_52t": -36.6049264846286,
+      "pct_so_day_52t": 3.265940902021791,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 4.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 36.5%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 5.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 36.6%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 31.985714285714284,
-        "khoang_cach_pct": 3.802363050483352,
+        "gia": 31.87857142857143,
+        "khoang_cach_pct": 3.980206540447507,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 4.49,
-        "hot_money": 5.11,
-        "retail": 8.0,
+        "banker": 3.26,
+        "hot_money": 4.9,
+        "retail": 7.96,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -906,43 +862,87 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 4.49,
-      "dt_hot": 5.11,
-      "dt_retail": 8.0
+      "dt_banker": 3.26,
+      "dt_hot": 4.9,
+      "dt_retail": 7.96
+    },
+    {
+      "symbol": "VNM",
+      "in_vn30": true,
+      "liquidity_20d": 120746744000.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 57.5,
+      "rs_63": 1.073647545072401,
+      "ma_stack": false,
+      "dist_ma20_pct": -2.583650995340958,
+      "vol_ratio": 0.09636016525513175,
+      "pct_from_52w_high": 0.7865937072503421,
+      "atr14_pct": 1.6273291925465825,
+      "dinh_52t": 73.1,
+      "day_52t": 53.25,
+      "pct_so_dinh_52t": -21.340629274965796,
+      "pct_so_day_52t": 7.9812206572769995,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 2.6%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.07), cách đỉnh 52 tuần 21.3%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 55.62857142857143,
+        "khoang_cach_pct": 3.254658385093165,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 5.22,
+        "hot_money": 7.61,
+        "retail": 9.14,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 5.22,
+      "dt_hot": 7.61,
+      "dt_retail": 9.14
     },
     {
       "symbol": "MCH",
       "in_vn30": true,
-      "liquidity_20d": 89624947500.0,
+      "liquidity_20d": 92188597500.0,
       "sessions": 741,
       "insufficient_history": false,
-      "close": 141.2,
-      "rs_63": 1.0875310852876543,
+      "close": 139.2,
+      "rs_63": 1.0742228960784765,
       "ma_stack": false,
-      "dist_ma20_pct": 0.038967019731472874,
-      "vol_ratio": 0.21461617546264564,
-      "pct_from_52w_high": 0.765602125467657,
-      "atr14_pct": 1.831242411978954,
+      "dist_ma20_pct": -1.308093161756907,
+      "vol_ratio": 0.7436600411240576,
+      "pct_from_52w_high": 0.7547579027273219,
+      "atr14_pct": 1.8934729064039386,
       "dinh_52t": 184.43,
       "day_52t": 100.23,
-      "pct_so_dinh_52t": -23.439787453234295,
-      "pct_so_day_52t": 40.87598523396188,
+      "pct_so_dinh_52t": -24.52420972726781,
+      "pct_so_day_52t": 38.88057467824002,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.0%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 23.4%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.07), cách đỉnh 52 tuần 24.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 136.0285714285714,
-        "khoang_cach_pct": 3.662484823957908,
+        "gia": 133.92857142857142,
+        "khoang_cach_pct": 3.7869458128078772,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 7.76,
-        "hot_money": 10.06,
-        "retail": 10.52,
+        "banker": 2.34,
+        "hot_money": 8.31,
+        "retail": 10.04,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -950,43 +950,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 7.76,
-      "dt_hot": 10.06,
-      "dt_retail": 10.52
+      "dt_banker": 2.34,
+      "dt_hot": 8.31,
+      "dt_retail": 10.04
     },
     {
       "symbol": "GVR",
       "in_vn30": true,
-      "liquidity_20d": 89374751750.0,
+      "liquidity_20d": 89784209250.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 31.25,
-      "rs_63": 1.0873404528682076,
+      "close": 31.5,
+      "rs_63": 1.0981818570224882,
       "ma_stack": false,
-      "dist_ma20_pct": -4.148454873092556,
-      "vol_ratio": 0.007696843235075009,
-      "pct_from_52w_high": 0.6720430107526881,
-      "atr14_pct": 3.3485714285714305,
+      "dist_ma20_pct": -3.4186723900045846,
+      "vol_ratio": 0.09942344288977627,
+      "pct_from_52w_high": 0.6774193548387096,
+      "atr14_pct": 3.3560090702947876,
       "dinh_52t": 46.5,
       "day_52t": 24.16,
-      "pct_so_dinh_52t": -32.795698924731184,
-      "pct_so_day_52t": 29.346026490066237,
+      "pct_so_dinh_52t": -32.25806451612904,
+      "pct_so_day_52t": 30.38079470198676,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 4.1%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 32.8%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 3.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.10), cách đỉnh 52 tuần 32.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 29.157142857142855,
-        "khoang_cach_pct": 6.697142857142861,
+        "gia": 29.385714285714283,
+        "khoang_cach_pct": 6.712018140589575,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 1.89,
-        "hot_money": 8.03,
-        "retail": 9.63,
+        "banker": 3.57,
+        "hot_money": 8.45,
+        "retail": 9.74,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -994,43 +994,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 1.89,
-      "dt_hot": 8.03,
-      "dt_retail": 9.63
+      "dt_banker": 3.57,
+      "dt_hot": 8.45,
+      "dt_retail": 9.74
     },
     {
       "symbol": "GAS",
       "in_vn30": true,
-      "liquidity_20d": 87869293000.0,
+      "liquidity_20d": 89172872000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 78.3,
-      "rs_63": 1.08746387992399,
+      "close": 76.6,
+      "rs_63": 1.0659333129000492,
       "ma_stack": false,
-      "dist_ma20_pct": -3.921664866987351,
-      "vol_ratio": 0.0014971803104153845,
-      "pct_from_52w_high": 0.6127240003130134,
-      "atr14_pct": 3.2475825579273865,
+      "dist_ma20_pct": -5.909520826423953,
+      "vol_ratio": 0.28463061234674697,
+      "pct_from_52w_high": 0.5994209249550042,
+      "atr14_pct": 3.4781797836628137,
       "dinh_52t": 127.79,
       "day_52t": 54.42,
-      "pct_so_dinh_52t": -38.727599968698655,
-      "pct_so_day_52t": 43.88092613009922,
+      "pct_so_dinh_52t": -40.05790750449958,
+      "pct_so_day_52t": 40.75707460492464,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 3.9%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 38.7%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 5.9%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.07), cách đỉnh 52 tuần 40.1%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 73.21428571428571,
-        "khoang_cach_pct": 6.495165115854773,
+        "gia": 71.27142857142856,
+        "khoang_cach_pct": 6.956359567325627,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 5.69,
-        "hot_money": 8.51,
-        "retail": 9.81,
+        "banker": 3.14,
+        "hot_money": 7.73,
+        "retail": 9.54,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1038,43 +1038,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 5.69,
-      "dt_hot": 8.51,
-      "dt_retail": 9.81
+      "dt_banker": 3.14,
+      "dt_hot": 7.73,
+      "dt_retail": 9.54
     },
     {
       "symbol": "VRE",
       "in_vn30": true,
-      "liquidity_20d": 83176600250.0,
+      "liquidity_20d": 83815879250.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 22.25,
-      "rs_63": 0.9396375287705293,
+      "close": 22.55,
+      "rs_63": 0.9541684925285446,
       "ma_stack": false,
-      "dist_ma20_pct": -6.669463087248307,
-      "vol_ratio": 0.01203895500781034,
-      "pct_from_52w_high": 0.5097365406643757,
-      "atr14_pct": 2.407704654895667,
+      "dist_ma20_pct": -5.470551247117994,
+      "vol_ratio": 0.16631189881830302,
+      "pct_from_52w_high": 0.5166093928980527,
+      "atr14_pct": 2.4390243902439046,
       "dinh_52t": 43.65,
       "day_52t": 20.9,
-      "pct_so_dinh_52t": -49.02634593356243,
-      "pct_so_day_52t": 6.459330143540676,
+      "pct_so_dinh_52t": -48.33906071019472,
+      "pct_so_day_52t": 7.8947368421052655,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 6.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 49.0%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 5.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 48.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 21.178571428571427,
-        "khoang_cach_pct": 4.815409309791334,
+        "gia": 21.45,
+        "khoang_cach_pct": 4.878048780487809,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 0.71,
-        "hot_money": 5.05,
-        "retail": 8.11,
+        "banker": 5.59,
+        "hot_money": 5.88,
+        "retail": 8.29,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1082,43 +1082,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 0.71,
-      "dt_hot": 5.05,
-      "dt_retail": 8.11
+      "dt_banker": 5.59,
+      "dt_hot": 5.88,
+      "dt_retail": 8.29
     },
     {
       "symbol": "LPB",
       "in_vn30": true,
-      "liquidity_20d": 79892539500.0,
+      "liquidity_20d": 80709100250.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 38.05,
-      "rs_63": 0.7738012939011867,
+      "close": 37.55,
+      "rs_63": 0.7651259268355386,
       "ma_stack": false,
-      "dist_ma20_pct": -11.686201694325183,
-      "vol_ratio": 0.014359195784622105,
-      "pct_from_52w_high": 0.6504273504273503,
-      "atr14_pct": 4.599211563731936,
+      "dist_ma20_pct": -12.796098467255002,
+      "vol_ratio": 0.23291017218483198,
+      "pct_from_52w_high": 0.6418803418803418,
+      "atr14_pct": 4.803119649990493,
       "dinh_52t": 58.5,
       "day_52t": 37.2,
-      "pct_so_dinh_52t": -34.95726495726497,
-      "pct_so_day_52t": 2.2849462365591267,
+      "pct_so_dinh_52t": -35.81196581196582,
+      "pct_so_day_52t": 0.9408602150537515,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 11.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.77), cách đỉnh 52 tuần 35.0%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 12.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.77), cách đỉnh 52 tuần 35.8%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 34.55,
-        "khoang_cach_pct": 9.198423127463872,
+        "gia": 33.942857142857136,
+        "khoang_cach_pct": 9.606239299980986,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 1.77,
-        "hot_money": 5.56,
-        "retail": 7.49,
+        "banker": 1.42,
+        "hot_money": 5.35,
+        "retail": 7.39,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1126,43 +1126,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 1.77,
-      "dt_hot": 5.56,
-      "dt_retail": 7.49
+      "dt_banker": 1.42,
+      "dt_hot": 5.35,
+      "dt_retail": 7.39
     },
     {
       "symbol": "VIB",
       "in_vn30": true,
-      "liquidity_20d": 67032672250.0,
+      "liquidity_20d": 67753352750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 13.95,
-      "rs_63": 1.0354501929572695,
+      "close": 13.85,
+      "rs_63": 1.0300373335691675,
       "ma_stack": false,
-      "dist_ma20_pct": 2.933038184836745,
-      "vol_ratio": 0.008183156015536416,
-      "pct_from_52w_high": 0.789920724801812,
-      "atr14_pct": 1.792114695340501,
+      "dist_ma20_pct": 2.232884295995552,
+      "vol_ratio": 0.20909507611396588,
+      "pct_from_52w_high": 0.7842582106455266,
+      "atr14_pct": 1.8824136152655995,
       "dinh_52t": 17.66,
       "day_52t": 12.83,
-      "pct_so_dinh_52t": -21.007927519818804,
-      "pct_so_day_52t": 8.729540140296166,
+      "pct_so_dinh_52t": -21.574178935447343,
+      "pct_so_day_52t": 7.950116913484018,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 2.9%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 21.0%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 2.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 21.6%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 13.45,
-        "khoang_cach_pct": 3.584229390681002,
+        "gia": 13.32857142857143,
+        "khoang_cach_pct": 3.764827230531199,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 16.3,
-        "hot_money": 12.42,
-        "retail": 10.34,
+        "banker": 11.67,
+        "hot_money": 11.66,
+        "retail": 10.15,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1170,43 +1170,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 16.3,
-      "dt_hot": 12.42,
-      "dt_retail": 10.34
+      "dt_banker": 11.67,
+      "dt_hot": 11.66,
+      "dt_retail": 10.15
     },
     {
       "symbol": "VPL",
       "in_vn30": true,
-      "liquidity_20d": 65568864500.0,
+      "liquidity_20d": 66160159500.0,
       "sessions": 358,
       "insufficient_history": false,
-      "close": 75.8,
-      "rs_63": 0.9705053224274015,
+      "close": 76.0,
+      "rs_63": 0.9749682990354501,
       "ma_stack": false,
-      "dist_ma20_pct": -4.353312302839118,
-      "vol_ratio": 0.0016916371100071613,
-      "pct_from_52w_high": 0.6828828828828829,
-      "atr14_pct": 2.4500565397663037,
+      "dist_ma20_pct": -4.113045672470362,
+      "vol_ratio": 0.1771707933214167,
+      "pct_from_52w_high": 0.6846846846846847,
+      "atr14_pct": 2.5751879699248126,
       "dinh_52t": 111.0,
       "day_52t": 67.0,
-      "pct_so_dinh_52t": -31.71171171171171,
-      "pct_so_day_52t": 13.134328358208958,
+      "pct_so_dinh_52t": -31.53153153153153,
+      "pct_so_day_52t": 13.432835820895516,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 4.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 31.7%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 4.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 31.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 72.08571428571427,
-        "khoang_cach_pct": 4.900113079532607,
+        "gia": 72.08571428571429,
+        "khoang_cach_pct": 5.150375939849625,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 2.69,
-        "hot_money": 7.67,
-        "retail": 8.97,
+        "banker": 2.86,
+        "hot_money": 7.76,
+        "retail": 9.01,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1214,17 +1214,17 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 2.69,
-      "dt_hot": 7.67,
-      "dt_retail": 8.97
+      "dt_banker": 2.86,
+      "dt_hot": 7.76,
+      "dt_retail": 9.01
     },
     {
       "symbol": "TCX",
       "in_vn30": true,
-      "liquidity_20d": 64555883500.0,
+      "liquidity_20d": 65143445000.0,
       "sessions": 245,
       "insufficient_history": true,
-      "close": 27.2,
+      "close": 27.25,
       "rs_63": null,
       "ma_stack": null,
       "dist_ma20_pct": null,
@@ -1248,9 +1248,9 @@
         "dien_giai": "Không tính được: thiếu ATR14 hoặc giá đóng cửa."
       },
       "dong_tien": {
-        "banker": 7.38,
-        "hot_money": 5.18,
-        "retail": 7.32,
+        "banker": 8.33,
+        "hot_money": 5.24,
+        "retail": 7.34,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1258,23 +1258,23 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 7.38,
-      "dt_hot": 5.18,
-      "dt_retail": 7.32
+      "dt_banker": 8.33,
+      "dt_hot": 5.24,
+      "dt_retail": 7.34
     },
     {
       "symbol": "SSB",
       "in_vn30": true,
-      "liquidity_20d": 56147925750.0,
+      "liquidity_20d": 56433346000.0,
       "sessions": 746,
       "insufficient_history": false,
       "close": 15.55,
-      "rs_63": 1.030754705148818,
+      "rs_63": 1.0327697590690392,
       "ma_stack": true,
       "dist_ma20_pct": -15.385661814719088,
-      "vol_ratio": 0.008814568719179058,
+      "vol_ratio": 0.12648104787592934,
       "pct_from_52w_high": 0.6270161290322581,
-      "atr14_pct": 5.351401010564995,
+      "atr14_pct": 5.39733578318787,
       "dinh_52t": 24.8,
       "day_52t": 13.23,
       "pct_so_dinh_52t": -37.298387096774185,
@@ -1287,8 +1287,8 @@
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 13.885714285714286,
-        "khoang_cach_pct": 10.70280202112999,
+        "gia": 13.871428571428574,
+        "khoang_cach_pct": 10.79467156637574,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
@@ -1309,36 +1309,36 @@
     {
       "symbol": "SAB",
       "in_vn30": true,
-      "liquidity_20d": 15324762000.0,
+      "liquidity_20d": 15364771000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 42.95,
-      "rs_63": 1.043923546635046,
+      "close": 42.8,
+      "rs_63": 1.0423113842676504,
       "ma_stack": false,
-      "dist_ma20_pct": -0.8197667705807432,
-      "vol_ratio": 0.0032243329661176346,
-      "pct_from_52w_high": 0.8040059902658181,
-      "atr14_pct": 1.38865790786629,
+      "dist_ma20_pct": -1.149027080085463,
+      "vol_ratio": 0.05347018835478411,
+      "pct_from_52w_high": 0.801198053163609,
+      "atr14_pct": 1.4018691588785044,
       "dinh_52t": 53.42,
       "day_52t": 39.34,
-      "pct_so_dinh_52t": -19.59940097341819,
-      "pct_so_day_52t": 9.176410777834265,
+      "pct_so_dinh_52t": -19.880194683639097,
+      "pct_so_day_52t": 8.795119471276047,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 0.8%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 19.6%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.1%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 19.9%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 41.75714285714286,
-        "khoang_cach_pct": 2.77731581573258,
+        "gia": 41.599999999999994,
+        "khoang_cach_pct": 2.8037383177570083,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 8.55,
-        "hot_money": 8.28,
-        "retail": 9.2,
+        "banker": 5.56,
+        "hot_money": 7.93,
+        "retail": 9.11,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1346,43 +1346,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 8.55,
-      "dt_hot": 8.28,
-      "dt_retail": 9.2
+      "dt_banker": 5.56,
+      "dt_hot": 7.93,
+      "dt_retail": 9.11
     },
     {
       "symbol": "VIX",
       "in_vn30": false,
-      "liquidity_20d": 293096707750.0,
+      "liquidity_20d": 298452649750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 11.45,
-      "rs_63": 0.9023240340195958,
+      "close": 11.5,
+      "rs_63": 0.9080359974878697,
       "ma_stack": false,
-      "dist_ma20_pct": -5.76131687242799,
-      "vol_ratio": 0.013116263281274956,
-      "pct_from_52w_high": 0.353831891223733,
-      "atr14_pct": 3.6182158452900812,
+      "dist_ma20_pct": -5.369265583213334,
+      "vol_ratio": 0.37155048626005993,
+      "pct_from_52w_high": 0.3553770086526576,
+      "atr14_pct": 3.7267080745341614,
       "dinh_52t": 32.36,
       "day_52t": 11.0,
-      "pct_so_dinh_52t": -64.61681087762669,
-      "pct_so_day_52t": 4.090909090909078,
+      "pct_so_dinh_52t": -64.46229913473425,
+      "pct_so_day_52t": 4.545454545454541,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 5.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 64.6%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 5.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.91), cách đỉnh 52 tuần 64.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 10.62142857142857,
-        "khoang_cach_pct": 7.2364316905801624,
+        "gia": 10.642857142857142,
+        "khoang_cach_pct": 7.453416149068323,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 5.7,
-        "hot_money": 6.68,
-        "retail": 8.04,
+        "banker": 6.77,
+        "hot_money": 6.81,
+        "retail": 8.08,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1390,43 +1390,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 5.7,
-      "dt_hot": 6.68,
-      "dt_retail": 8.04
+      "dt_banker": 6.77,
+      "dt_hot": 6.81,
+      "dt_retail": 8.08
     },
     {
       "symbol": "PNJ",
       "in_vn30": false,
-      "liquidity_20d": 293037389500.0,
+      "liquidity_20d": 294298889500.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 18.6,
-      "rs_63": 0.4462833821344658,
+      "close": 18.8,
+      "rs_63": 0.4519639624370521,
       "ma_stack": false,
-      "dist_ma20_pct": -28.157589803012726,
-      "vol_ratio": 0.00653618943175154,
-      "pct_from_52w_high": 0.2196763906932798,
-      "atr14_pct": 9.101382488479263,
+      "dist_ma20_pct": -27.413127413127402,
+      "vol_ratio": 0.10775655486964981,
+      "pct_from_52w_high": 0.22203850242116452,
+      "atr14_pct": 9.156534954407295,
       "dinh_52t": 84.67,
       "day_52t": 17.25,
-      "pct_so_dinh_52t": -78.03236093067201,
-      "pct_so_day_52t": 7.826086956521738,
+      "pct_so_dinh_52t": -77.79614975788355,
+      "pct_so_day_52t": 8.985507246376812,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 28.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.45), cách đỉnh 52 tuần 78.0%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 27.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.45), cách đỉnh 52 tuần 77.8%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 15.214285714285715,
-        "khoang_cach_pct": 18.202764976958527,
+        "gia": 15.357142857142858,
+        "khoang_cach_pct": 18.31306990881459,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 7.13,
-        "hot_money": 4.12,
-        "retail": 5.84,
+        "banker": 8.21,
+        "hot_money": 4.31,
+        "retail": 5.89,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1434,43 +1434,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 7.13,
-      "dt_hot": 4.12,
-      "dt_retail": 5.84
+      "dt_banker": 8.21,
+      "dt_hot": 4.31,
+      "dt_retail": 5.89
     },
     {
       "symbol": "NVL",
       "in_vn30": false,
-      "liquidity_20d": 284443691760.0,
+      "liquidity_20d": 286019210760.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 10.75,
-      "rs_63": 0.9573773796920552,
+      "close": 10.65,
+      "rs_63": 0.9503257396512633,
       "ma_stack": false,
-      "dist_ma20_pct": -3.288201160541593,
-      "vol_ratio": 0.009825085637902692,
-      "pct_from_52w_high": 0.55440948942754,
-      "atr14_pct": 4.764119601328905,
+      "dist_ma20_pct": -4.144727960037797,
+      "vol_ratio": 0.12002979620971121,
+      "pct_from_52w_high": 0.5492521918514698,
+      "atr14_pct": 4.875922199865862,
       "dinh_52t": 19.39,
       "day_52t": 9.23,
-      "pct_so_dinh_52t": -44.559051057246,
-      "pct_so_day_52t": 16.46803900325027,
+      "pct_so_dinh_52t": -45.07478081485302,
+      "pct_so_day_52t": 15.384615384615374,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 3.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 44.6%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 4.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 45.1%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 9.725714285714286,
-        "khoang_cach_pct": 9.52823920265781,
+        "gia": 9.611428571428572,
+        "khoang_cach_pct": 9.751844399731723,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 8.11,
-        "hot_money": 7.95,
-        "retail": 8.29,
+        "banker": 6.78,
+        "hot_money": 7.67,
+        "retail": 8.2,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1478,43 +1478,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 8.11,
-      "dt_hot": 7.95,
-      "dt_retail": 8.29
+      "dt_banker": 6.78,
+      "dt_hot": 7.67,
+      "dt_retail": 8.2
     },
     {
       "symbol": "PVT",
       "in_vn30": false,
-      "liquidity_20d": 184477839500.0,
+      "liquidity_20d": 188285358000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 24.55,
-      "rs_63": 1.374965842736644,
+      "close": 24.0,
+      "rs_63": 1.3467898710008412,
       "ma_stack": true,
-      "dist_ma20_pct": 1.9518272425249172,
-      "vol_ratio": 0.011773681465910462,
-      "pct_from_52w_high": 0.8257652203161789,
-      "atr14_pct": 3.9132964794879253,
+      "dist_ma20_pct": -0.2182725288431664,
+      "vol_ratio": 0.4069387556985987,
+      "pct_from_52w_high": 0.8072653884964682,
+      "atr14_pct": 4.211309523809524,
       "dinh_52t": 29.73,
       "day_52t": 14.95,
-      "pct_so_dinh_52t": -17.423477968382105,
-      "pct_so_day_52t": 64.21404682274247,
+      "pct_so_dinh_52t": -19.273461150353178,
+      "pct_so_day_52t": 60.535117056856194,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 2.0%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.37), cách đỉnh 52 tuần 17.4%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 0.2%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.35), cách đỉnh 52 tuần 19.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "pullback_ma20",
         "nen_mua": true,
-        "dien_giai": "Pullback về MA20 (cách 2.0%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+        "dien_giai": "Pullback về MA20 (cách -0.2%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
       },
       "stoploss": {
-        "gia": 22.62857142857143,
-        "khoang_cach_pct": 7.8265929589758505,
+        "gia": 21.978571428571428,
+        "khoang_cach_pct": 8.422619047619047,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 5.22,
-        "hot_money": 11.68,
-        "retail": 11.75,
+        "banker": 2.94,
+        "hot_money": 10.62,
+        "retail": 11.38,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1522,43 +1522,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 5.22,
-      "dt_hot": 11.68,
-      "dt_retail": 11.75
+      "dt_banker": 2.94,
+      "dt_hot": 10.62,
+      "dt_retail": 11.38
     },
     {
       "symbol": "MSB",
       "in_vn30": false,
-      "liquidity_20d": 163582868500.0,
+      "liquidity_20d": 165720591750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 14.6,
-      "rs_63": 1.1259914825742856,
+      "close": 14.55,
+      "rs_63": 1.1243290440944522,
       "ma_stack": true,
-      "dist_ma20_pct": 3.1437654539032023,
-      "vol_ratio": 0.028692569800276367,
-      "pct_from_52w_high": 0.9733333333333333,
-      "atr14_pct": 2.299412915851272,
+      "dist_ma20_pct": 2.8086910439851787,
+      "vol_ratio": 0.28099492751757343,
+      "pct_from_52w_high": 0.9700000000000001,
+      "atr14_pct": 2.356406480117821,
       "dinh_52t": 15.0,
       "day_52t": 9.0,
-      "pct_so_dinh_52t": -2.6666666666666727,
-      "pct_so_day_52t": 62.22222222222222,
+      "pct_so_dinh_52t": -2.9999999999999916,
+      "pct_so_day_52t": 61.66666666666667,
       "breakout_52t": "test_lai",
-      "boi_canh": "Giá trên MA20 3.1%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.13), cách đỉnh 52 tuần 2.7%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 2.8%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.12), cách đỉnh 52 tuần 3.0%, chế độ thị trường DOWNTREND.",
       "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách 2.8%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
       },
       "stoploss": {
-        "gia": 13.928571428571429,
-        "khoang_cach_pct": 4.598825831702544,
+        "gia": 13.864285714285714,
+        "khoang_cach_pct": 4.712812960235642,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 11.66,
-        "hot_money": 13.09,
-        "retail": 12.33,
+        "banker": 9.94,
+        "hot_money": 12.75,
+        "retail": 12.22,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1566,43 +1566,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 11.66,
-      "dt_hot": 13.09,
-      "dt_retail": 12.33
+      "dt_banker": 9.94,
+      "dt_hot": 12.75,
+      "dt_retail": 12.22
     },
     {
       "symbol": "PLX",
       "in_vn30": false,
-      "liquidity_20d": 154671702500.0,
+      "liquidity_20d": 157521591250.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 36.25,
-      "rs_63": 1.090964921044435,
+      "close": 35.55,
+      "rs_63": 1.0719895885935038,
       "ma_stack": false,
-      "dist_ma20_pct": 0.0413964399061717,
-      "vol_ratio": 0.01762210853119944,
-      "pct_from_52w_high": 0.5333235250845961,
-      "atr14_pct": 3.1625615763546793,
+      "dist_ma20_pct": -1.7955801104972524,
+      "vol_ratio": 0.3685119594210503,
+      "pct_from_52w_high": 0.5230248639105487,
+      "atr14_pct": 3.3855736387381943,
       "dinh_52t": 67.97,
       "day_52t": 30.8,
-      "pct_so_dinh_52t": -46.667647491540386,
-      "pct_so_day_52t": 17.6948051948052,
+      "pct_so_dinh_52t": -47.69751360894513,
+      "pct_so_day_52t": 15.422077922077904,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.0%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.09), cách đỉnh 52 tuần 46.7%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.8%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.07), cách đỉnh 52 tuần 47.7%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 33.957142857142856,
-        "khoang_cach_pct": 6.3251231527093585,
+        "gia": 33.14285714285714,
+        "khoang_cach_pct": 6.771147277476389,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 9.2,
-        "hot_money": 9.98,
-        "retail": 9.92,
+        "banker": 5.54,
+        "hot_money": 9.1,
+        "retail": 9.66,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1610,23 +1610,23 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 9.2,
-      "dt_hot": 9.98,
-      "dt_retail": 9.92
+      "dt_banker": 5.54,
+      "dt_hot": 9.1,
+      "dt_retail": 9.66
     },
     {
       "symbol": "GEX",
       "in_vn30": false,
-      "liquidity_20d": 146065975500.0,
+      "liquidity_20d": 147302467000.0,
       "sessions": 746,
       "insufficient_history": false,
       "close": 21.85,
-      "rs_63": 0.8991780032938337,
+      "rs_63": 0.9009358338925815,
       "ma_stack": false,
       "dist_ma20_pct": -5.869682283252542,
-      "vol_ratio": 0.010895464484204549,
+      "vol_ratio": 0.17912857094017604,
       "pct_from_52w_high": 0.48223350253807107,
-      "atr14_pct": 3.236351748937558,
+      "atr14_pct": 3.3507682249100985,
       "dinh_52t": 45.31,
       "day_52t": 19.7,
       "pct_so_dinh_52t": -51.776649746192895,
@@ -1639,8 +1639,8 @@
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 20.435714285714287,
-        "khoang_cach_pct": 6.472703497875116,
+        "gia": 20.38571428571429,
+        "khoang_cach_pct": 6.701536449820197,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
@@ -1661,36 +1661,36 @@
     {
       "symbol": "VCI",
       "in_vn30": false,
-      "liquidity_20d": 143575973250.0,
+      "liquidity_20d": 145753359500.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 18.6,
-      "rs_63": 0.8696548942039926,
+      "close": 18.65,
+      "rs_63": 0.8736973613483973,
       "ma_stack": false,
-      "dist_ma20_pct": -3.601969422130069,
-      "vol_ratio": 0.00890111474149529,
-      "pct_from_52w_high": 0.5682859761686527,
-      "atr14_pct": 3.2642089093701983,
+      "dist_ma20_pct": -3.355356911517038,
+      "vol_ratio": 0.28936430905246974,
+      "pct_from_52w_high": 0.5698136266422242,
+      "atr14_pct": 3.370356185369589,
       "dinh_52t": 32.73,
       "day_52t": 18.05,
-      "pct_so_dinh_52t": -43.171402383134726,
-      "pct_so_day_52t": 3.0470914127423754,
+      "pct_so_dinh_52t": -43.018637335777576,
+      "pct_so_day_52t": 3.32409972299168,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 3.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.87), cách đỉnh 52 tuần 43.2%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 3.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.87), cách đỉnh 52 tuần 43.0%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 17.385714285714286,
-        "khoang_cach_pct": 6.5284178187403965,
+        "gia": 17.392857142857142,
+        "khoang_cach_pct": 6.740712370739178,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 10.36,
-        "hot_money": 7.53,
-        "retail": 8.12,
+        "banker": 11.38,
+        "hot_money": 7.69,
+        "retail": 8.16,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1698,43 +1698,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 10.36,
-      "dt_hot": 7.53,
-      "dt_retail": 8.12
+      "dt_banker": 11.38,
+      "dt_hot": 7.69,
+      "dt_retail": 8.16
     },
     {
       "symbol": "VND",
       "in_vn30": false,
-      "liquidity_20d": 125703900500.0,
+      "liquidity_20d": 127754121000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 13.0,
-      "rs_63": 0.7892894037469304,
+      "close": 13.05,
+      "rs_63": 0.7938740728736482,
       "ma_stack": false,
-      "dist_ma20_pct": -5.882352941176472,
-      "vol_ratio": 0.00802689830001761,
-      "pct_from_52w_high": 0.5448449287510478,
-      "atr14_pct": 3.3516483516483517,
+      "dist_ma20_pct": -5.537459283387625,
+      "vol_ratio": 0.3296966569606723,
+      "pct_from_52w_high": 0.5469404861693211,
+      "atr14_pct": 3.4756431308155444,
       "dinh_52t": 23.86,
       "day_52t": 12.6,
-      "pct_so_dinh_52t": -45.515507124895215,
-      "pct_so_day_52t": 3.1746031746031855,
+      "pct_so_dinh_52t": -45.305951383067885,
+      "pct_so_day_52t": 3.571428571428581,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 5.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.79), cách đỉnh 52 tuần 45.5%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 5.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.79), cách đỉnh 52 tuần 45.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 12.128571428571428,
-        "khoang_cach_pct": 6.7032967032967035,
+        "gia": 12.142857142857144,
+        "khoang_cach_pct": 6.951286261631089,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 6.77,
-        "hot_money": 6.12,
-        "retail": 7.6,
+        "banker": 8.41,
+        "hot_money": 6.36,
+        "retail": 7.65,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1742,43 +1742,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 6.77,
-      "dt_hot": 6.12,
-      "dt_retail": 7.6
+      "dt_banker": 8.41,
+      "dt_hot": 6.36,
+      "dt_retail": 7.65
     },
     {
       "symbol": "TPB",
       "in_vn30": false,
-      "liquidity_20d": 106861501000.0,
+      "liquidity_20d": 108978424000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 11.7,
-      "rs_63": 0.9543394075678421,
+      "close": 11.8,
+      "rs_63": 0.9643777678317941,
       "ma_stack": false,
-      "dist_ma20_pct": -1.7673481381973999,
-      "vol_ratio": 0.0063843142967934885,
-      "pct_from_52w_high": 0.7377049180327868,
-      "atr14_pct": 2.2466422466422467,
+      "dist_ma20_pct": -0.969325668247234,
+      "vol_ratio": 0.39067504482945525,
+      "pct_from_52w_high": 0.7440100882723835,
+      "atr14_pct": 2.2881355932203395,
       "dinh_52t": 15.86,
       "day_52t": 11.25,
-      "pct_so_dinh_52t": -26.22950819672132,
-      "pct_so_day_52t": 4.0000000000000036,
+      "pct_so_dinh_52t": -25.598991172761654,
+      "pct_so_day_52t": 4.888888888888898,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 1.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 26.2%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 25.6%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 11.174285714285714,
-        "khoang_cach_pct": 4.493284493284493,
+        "gia": 11.26,
+        "khoang_cach_pct": 4.576271186440679,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 12.05,
-        "hot_money": 8.36,
-        "retail": 8.65,
+        "banker": 14.95,
+        "hot_money": 9.25,
+        "retail": 8.88,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1786,43 +1786,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 12.05,
-      "dt_hot": 8.36,
-      "dt_retail": 8.65
+      "dt_banker": 14.95,
+      "dt_hot": 9.25,
+      "dt_retail": 8.88
     },
     {
       "symbol": "GEE",
       "in_vn30": false,
-      "liquidity_20d": 106144026500.0,
+      "liquidity_20d": 106948071500.0,
       "sessions": 726,
       "insufficient_history": false,
-      "close": 64.5,
-      "rs_63": 0.8512165815407183,
+      "close": 63.9,
+      "rs_63": 0.8449468773915466,
       "ma_stack": false,
-      "dist_ma20_pct": -6.959971150378652,
-      "vol_ratio": 0.022975482327762566,
-      "pct_from_52w_high": 0.4720433255269321,
-      "atr14_pct": 5.59246954595792,
+      "dist_ma20_pct": -7.785554513312631,
+      "vol_ratio": 0.18160073017971234,
+      "pct_from_52w_high": 0.46765222482435603,
+      "atr14_pct": 5.723228258439528,
       "dinh_52t": 136.64,
       "day_52t": 56.55,
-      "pct_so_dinh_52t": -52.79566744730679,
-      "pct_so_day_52t": 14.058355437665782,
+      "pct_so_dinh_52t": -53.2347775175644,
+      "pct_so_day_52t": 12.997347480106104,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 7.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 52.8%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 7.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 53.2%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 57.285714285714285,
-        "khoang_cach_pct": 11.18493909191584,
+        "gia": 56.58571428571428,
+        "khoang_cach_pct": 11.446456516879056,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 3.03,
-        "hot_money": 8.44,
-        "retail": 8.93,
+        "banker": 2.72,
+        "hot_money": 8.24,
+        "retail": 8.87,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1830,43 +1830,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 3.03,
-      "dt_hot": 8.44,
-      "dt_retail": 8.93
+      "dt_banker": 2.72,
+      "dt_hot": 8.24,
+      "dt_retail": 8.87
     },
     {
       "symbol": "FRT",
       "in_vn30": false,
-      "liquidity_20d": 99008079500.0,
+      "liquidity_20d": 99216948500.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 141.0,
-      "rs_63": 1.3068408116157053,
+      "close": 140.7,
+      "rs_63": 1.3066096466414467,
       "ma_stack": true,
-      "dist_ma20_pct": -1.13588557004628,
-      "vol_ratio": 0.006631486864012191,
-      "pct_from_52w_high": 0.8179603202227637,
-      "atr14_pct": 3.601823708206687,
+      "dist_ma20_pct": -1.3358577889975853,
+      "vol_ratio": 0.048536840025961564,
+      "pct_from_52w_high": 0.8162199791159067,
+      "atr14_pct": 3.7211899685247243,
       "dinh_52t": 172.38,
       "day_52t": 100.2,
-      "pct_so_dinh_52t": -18.203967977723636,
-      "pct_so_day_52t": 40.71856287425148,
+      "pct_so_dinh_52t": -18.37800208840933,
+      "pct_so_day_52t": 40.419161676646695,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 1.1%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.31), cách đỉnh 52 tuần 18.2%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.3%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.31), cách đỉnh 52 tuần 18.4%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "pullback_ma20",
         "nen_mua": true,
-        "dien_giai": "Pullback về MA20 (cách -1.1%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+        "dien_giai": "Pullback về MA20 (cách -1.3%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
       },
       "stoploss": {
-        "gia": 130.84285714285716,
-        "khoang_cach_pct": 7.203647416413374,
+        "gia": 130.22857142857143,
+        "khoang_cach_pct": 7.442379937049449,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 3.73,
-        "hot_money": 9.51,
-        "retail": 10.48,
+        "banker": 2.93,
+        "hot_money": 9.41,
+        "retail": 10.45,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -1874,746 +1874,42 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 3.73,
-      "dt_hot": 9.51,
-      "dt_retail": 10.48
+      "dt_banker": 2.93,
+      "dt_hot": 9.41,
+      "dt_retail": 10.45
     },
     {
       "symbol": "VSC",
       "in_vn30": false,
-      "liquidity_20d": 91041744000.0,
+      "liquidity_20d": 92354235500.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 12.75,
-      "rs_63": 0.8902273755722588,
+      "close": 12.8,
+      "rs_63": 0.8954656208965595,
       "ma_stack": false,
-      "dist_ma20_pct": -2.949571836346332,
-      "vol_ratio": 0.005910693544285528,
-      "pct_from_52w_high": 0.43367346938775514,
-      "atr14_pct": 3.3893557422969214,
+      "dist_ma20_pct": -2.5875190258751846,
+      "vol_ratio": 0.2877820466120042,
+      "pct_from_52w_high": 0.435374149659864,
+      "atr14_pct": 3.4877232142857157,
       "dinh_52t": 29.4,
       "day_52t": 12.25,
-      "pct_so_dinh_52t": -56.63265306122449,
-      "pct_so_day_52t": 4.081632653061229,
+      "pct_so_dinh_52t": -56.4625850340136,
+      "pct_so_day_52t": 4.489795918367356,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.89), cách đỉnh 52 tuần 56.6%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 2.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 56.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 11.885714285714284,
-        "khoang_cach_pct": 6.778711484593843,
+        "gia": 11.907142857142858,
+        "khoang_cach_pct": 6.9754464285714315,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 4.22,
-        "hot_money": 8.01,
-        "retail": 8.02,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 4.22,
-      "dt_hot": 8.01,
-      "dt_retail": 8.02
-    },
-    {
-      "symbol": "DCM",
-      "in_vn30": false,
-      "liquidity_20d": 90595223250.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 34.0,
-      "rs_63": 1.0807009111651094,
-      "ma_stack": false,
-      "dist_ma20_pct": 0.287589410810396,
-      "vol_ratio": 0.024103130019628362,
-      "pct_from_52w_high": 0.6798640271945611,
-      "atr14_pct": 2.983193277310925,
-      "dinh_52t": 50.01,
-      "day_52t": 28.5,
-      "pct_so_dinh_52t": -32.01359728054389,
-      "pct_so_day_52t": 19.298245614035082,
-      "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 32.0%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 31.97142857142857,
-        "khoang_cach_pct": 5.96638655462185,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 10.86,
-        "hot_money": 10.66,
-        "retail": 10.22,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 10.86,
-      "dt_hot": 10.66,
-      "dt_retail": 10.22
-    },
-    {
-      "symbol": "VPI",
-      "in_vn30": false,
-      "liquidity_20d": 83889834500.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 49.8,
-      "rs_63": 0.9283882332732706,
-      "ma_stack": false,
-      "dist_ma20_pct": -13.997064156808559,
-      "vol_ratio": 0.2045642701884353,
-      "pct_from_52w_high": 0.7854889589905363,
-      "atr14_pct": 3.7794033275961008,
-      "dinh_52t": 63.4,
-      "day_52t": 46.27,
-      "pct_so_dinh_52t": -21.451104100946374,
-      "pct_so_day_52t": 7.629133347741512,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 14.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 21.5%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 46.03571428571428,
-        "khoang_cach_pct": 7.5588066551922015,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 0.31,
-        "hot_money": 4.39,
-        "retail": 7.86,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 0.31,
-      "dt_hot": 4.39,
-      "dt_retail": 7.86
-    },
-    {
-      "symbol": "DXG",
-      "in_vn30": false,
-      "liquidity_20d": 78310189250.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 9.98,
-      "rs_63": 0.8567472717657806,
-      "ma_stack": false,
-      "dist_ma20_pct": -1.2858555885261969,
-      "vol_ratio": 0.0017588592204358193,
-      "pct_from_52w_high": 0.4842309558466764,
-      "atr14_pct": 3.0346407099914106,
-      "dinh_52t": 20.61,
-      "day_52t": 9.3,
-      "pct_so_dinh_52t": -51.57690441533236,
-      "pct_so_day_52t": 7.311827956989236,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 1.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 51.6%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 9.374285714285715,
-        "khoang_cach_pct": 6.069281419982822,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 12.86,
-        "hot_money": 7.89,
-        "retail": 8.21,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 12.86,
-      "dt_hot": 7.89,
-      "dt_retail": 8.21
-    },
-    {
-      "symbol": "DGW",
-      "in_vn30": false,
-      "liquidity_20d": 76470152300.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 45.7,
-      "rs_63": 1.294639248473396,
-      "ma_stack": true,
-      "dist_ma20_pct": 0.4075624251612231,
-      "vol_ratio": 0.004355489223067832,
-      "pct_from_52w_high": 0.826550913365889,
-      "atr14_pct": 3.5683025945608007,
-      "dinh_52t": 55.29,
-      "day_52t": 30.76,
-      "pct_so_dinh_52t": -17.344908663411097,
-      "pct_so_day_52t": 48.56957087126137,
-      "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.4%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.29), cách đỉnh 52 tuần 17.3%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "pullback_ma20",
-        "nen_mua": true,
-        "dien_giai": "Pullback về MA20 (cách 0.4%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
-      },
-      "stoploss": {
-        "gia": 42.43857142857143,
-        "khoang_cach_pct": 7.136605189121601,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 5.96,
-        "hot_money": 10.81,
-        "retail": 11.18,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 5.96,
-      "dt_hot": 10.81,
-      "dt_retail": 11.18
-    },
-    {
-      "symbol": "CII",
-      "in_vn30": false,
-      "liquidity_20d": 72311058500.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 12.2,
-      "rs_63": 0.8086950098273683,
-      "ma_stack": false,
-      "dist_ma20_pct": -0.8935824532900205,
-      "vol_ratio": 0.007059188272843986,
-      "pct_from_52w_high": 0.3891547049441786,
-      "atr14_pct": 4.039812646370024,
-      "dinh_52t": 31.35,
-      "day_52t": 11.35,
-      "pct_so_dinh_52t": -61.08452950558214,
-      "pct_so_day_52t": 7.488986784140961,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 0.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.81), cách đỉnh 52 tuần 61.1%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 11.214285714285714,
-        "khoang_cach_pct": 8.079625292740047,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 11.82,
-        "hot_money": 8.6,
-        "retail": 8.2,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 11.82,
-      "dt_hot": 8.6,
-      "dt_retail": 8.2
-    },
-    {
-      "symbol": "PVD",
-      "in_vn30": false,
-      "liquidity_20d": 71064511250.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 18.0,
-      "rs_63": 0.959382892399381,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.2270505160238985,
-      "vol_ratio": 0.002872727736070456,
-      "pct_from_52w_high": 0.6603081438004401,
-      "atr14_pct": 3.2341269841269837,
-      "dinh_52t": 27.26,
-      "day_52t": 11.26,
-      "pct_so_dinh_52t": -33.96918561995599,
-      "pct_so_day_52t": 59.85790408525755,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 34.0%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 16.835714285714285,
-        "khoang_cach_pct": 6.4682539682539675,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 9.54,
-        "hot_money": 8.73,
-        "retail": 9.46,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 9.54,
-      "dt_hot": 8.73,
-      "dt_retail": 9.46
-    },
-    {
-      "symbol": "BVH",
-      "in_vn30": false,
-      "liquidity_20d": 70433656500.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 76.0,
-      "rs_63": 1.3490983159220673,
-      "ma_stack": false,
-      "dist_ma20_pct": 3.2889372111986948,
-      "vol_ratio": 0.004662999102124641,
-      "pct_from_52w_high": 0.8587570621468926,
-      "atr14_pct": 3.4304511278195533,
-      "dinh_52t": 88.5,
-      "day_52t": 46.21,
-      "pct_so_dinh_52t": -14.124293785310737,
-      "pct_so_day_52t": 64.46656567842457,
-      "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 3.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.35), cách đỉnh 52 tuần 14.1%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 70.78571428571428,
-        "khoang_cach_pct": 6.860902255639107,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 11.21,
-        "hot_money": 12.6,
-        "retail": 11.66,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 11.21,
-      "dt_hot": 12.6,
-      "dt_retail": 11.66
-    },
-    {
-      "symbol": "POW",
-      "in_vn30": false,
-      "liquidity_20d": 63317068500.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 12.3,
-      "rs_63": 0.9267707760929992,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.4583663758921404,
-      "vol_ratio": 0.04839305788687497,
-      "pct_from_52w_high": 0.7299703264094956,
-      "atr14_pct": 2.3228803716608586,
-      "dinh_52t": 16.85,
-      "day_52t": 10.66,
-      "pct_so_dinh_52t": -27.002967359050444,
-      "pct_so_day_52t": 15.384615384615397,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 27.0%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 11.72857142857143,
-        "khoang_cach_pct": 4.645760743321717,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 3.27,
-        "hot_money": 7.12,
-        "retail": 8.5,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 3.27,
-      "dt_hot": 7.12,
-      "dt_retail": 8.5
-    },
-    {
-      "symbol": "HCM",
-      "in_vn30": false,
-      "liquidity_20d": 61282621000.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 23.0,
-      "rs_63": 1.034729615835959,
-      "ma_stack": false,
-      "dist_ma20_pct": -3.9966607534175136,
-      "vol_ratio": 0.006606280370538926,
-      "pct_from_52w_high": 0.8409506398537476,
-      "atr14_pct": 3.1366459627329193,
-      "dinh_52t": 27.35,
-      "day_52t": 16.47,
-      "pct_so_dinh_52t": -15.904936014625237,
-      "pct_so_day_52t": 39.64784456587736,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 4.0%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 15.9%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 21.557142857142857,
-        "khoang_cach_pct": 6.273291925465839,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 6.63,
-        "hot_money": 7.12,
-        "retail": 8.9,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 6.63,
-      "dt_hot": 7.12,
-      "dt_retail": 8.9
-    },
-    {
-      "symbol": "DPM",
-      "in_vn30": false,
-      "liquidity_20d": 57905193750.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 21.5,
-      "rs_63": 1.0188921253555265,
-      "ma_stack": false,
-      "dist_ma20_pct": -3.1749605944607184,
-      "vol_ratio": 0.017858893354602407,
-      "pct_from_52w_high": 0.6414081145584725,
-      "atr14_pct": 2.3255813953488373,
-      "dinh_52t": 33.52,
-      "day_52t": 20.18,
-      "pct_so_dinh_52t": -35.85918854415275,
-      "pct_so_day_52t": 6.541129831516357,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 3.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.02), cách đỉnh 52 tuần 35.9%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 20.5,
-        "khoang_cach_pct": 4.651162790697675,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 9.6,
-        "hot_money": 8.2,
-        "retail": 9.2,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 9.6,
-      "dt_hot": 8.2,
-      "dt_retail": 9.2
-    },
-    {
-      "symbol": "GMD",
-      "in_vn30": false,
-      "liquidity_20d": 57383665200.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 52.8,
-      "rs_63": 1.0773198893025584,
-      "ma_stack": true,
-      "dist_ma20_pct": 0.8018327605956443,
-      "vol_ratio": 0.006620768635450637,
-      "pct_from_52w_high": 0.9106588478785789,
-      "atr14_pct": 2.6393398268398283,
-      "dinh_52t": 57.98,
-      "day_52t": 36.86,
-      "pct_so_dinh_52t": -8.934115212142114,
-      "pct_so_day_52t": 43.244709712425376,
-      "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.8%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 8.9%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "pullback_ma20",
-        "nen_mua": true,
-        "dien_giai": "Pullback về MA20 (cách 0.8%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
-      },
-      "stoploss": {
-        "gia": 50.012857142857136,
-        "khoang_cach_pct": 5.2786796536796565,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 7.46,
-        "hot_money": 10.56,
-        "retail": 10.64,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 7.46,
-      "dt_hot": 10.56,
-      "dt_retail": 10.64
-    },
-    {
-      "symbol": "EIB",
-      "in_vn30": false,
-      "liquidity_20d": 51172928500.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 16.35,
-      "rs_63": 0.8804002776716428,
-      "ma_stack": false,
-      "dist_ma20_pct": -0.6230056222458535,
-      "vol_ratio": 0.009432814924018379,
-      "pct_from_52w_high": 0.5967153284671534,
-      "atr14_pct": 1.9222367846221067,
-      "dinh_52t": 27.4,
-      "day_52t": 15.75,
-      "pct_so_dinh_52t": -40.32846715328466,
-      "pct_so_day_52t": 3.809523809523818,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 0.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.88), cách đỉnh 52 tuần 40.3%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 15.721428571428573,
-        "khoang_cach_pct": 3.8444735692442134,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 15.27,
-        "hot_money": 8.88,
-        "retail": 8.07,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 15.27,
-      "dt_hot": 8.88,
-      "dt_retail": 8.07
-    },
-    {
-      "symbol": "KDH",
-      "in_vn30": false,
-      "liquidity_20d": 48304387800.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 13.45,
-      "rs_63": 0.7945030490990267,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.912621359223311,
-      "vol_ratio": 0.002827480492348131,
-      "pct_from_52w_high": 0.40585395292697646,
-      "atr14_pct": 2.7031332979288383,
-      "dinh_52t": 33.14,
-      "day_52t": 13.0,
-      "pct_so_dinh_52t": -59.41460470730235,
-      "pct_so_day_52t": 3.4615384615384492,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.79), cách đỉnh 52 tuần 59.4%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 12.722857142857142,
-        "khoang_cach_pct": 5.4062665958576765,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 7.71,
-        "hot_money": 6.65,
-        "retail": 6.85,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 7.71,
-      "dt_hot": 6.65,
-      "dt_retail": 6.85
-    },
-    {
-      "symbol": "PDR",
-      "in_vn30": false,
-      "liquidity_20d": 43992558000.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 11.0,
-      "rs_63": 0.84091894644009,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.590214744299313,
-      "vol_ratio": 0.021104009639133704,
-      "pct_from_52w_high": 0.4074074074074074,
-      "atr14_pct": 3.0194805194805183,
-      "dinh_52t": 27.0,
-      "day_52t": 10.4,
-      "pct_so_dinh_52t": -59.25925925925925,
-      "pct_so_day_52t": 5.769230769230771,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 59.3%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 10.335714285714285,
-        "khoang_cach_pct": 6.038961038961037,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 3.4,
-        "hot_money": 6.0,
-        "retail": 7.17,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 3.4,
-      "dt_hot": 6.0,
-      "dt_retail": 7.17
-    },
-    {
-      "symbol": "TCH",
-      "in_vn30": false,
-      "liquidity_20d": 41520946750.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 10.9,
-      "rs_63": 0.9031532384342538,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.5044722719141377,
-      "vol_ratio": 0.007196156700700058,
-      "pct_from_52w_high": 0.47954245490541136,
-      "atr14_pct": 3.735255570117956,
-      "dinh_52t": 22.73,
-      "day_52t": 9.59,
-      "pct_so_dinh_52t": -52.04575450945887,
-      "pct_so_day_52t": 13.660062565172048,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 52.0%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 10.085714285714285,
-        "khoang_cach_pct": 7.470511140235912,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 12.6,
-        "hot_money": 8.59,
-        "retail": 8.85,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 12.6,
-      "dt_hot": 8.59,
-      "dt_retail": 8.85
-    },
-    {
-      "symbol": "VTP",
-      "in_vn30": false,
-      "liquidity_20d": 39335644250.0,
-      "sessions": 739,
-      "insufficient_history": false,
-      "close": 45.25,
-      "rs_63": 0.9131313327585792,
-      "ma_stack": false,
-      "dist_ma20_pct": -8.811527029069477,
-      "vol_ratio": 0.02568303591196918,
-      "pct_from_52w_high": 0.5490172288279543,
-      "atr14_pct": 4.191002367797949,
-      "dinh_52t": 82.42,
-      "day_52t": 43.4,
-      "pct_so_dinh_52t": -45.09827711720457,
-      "pct_so_day_52t": 4.26267281105992,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 8.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.91), cách đỉnh 52 tuần 45.1%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 41.457142857142856,
-        "khoang_cach_pct": 8.382004735595897,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 0.82,
-        "hot_money": 5.76,
+        "banker": 4.94,
+        "hot_money": 8.16,
         "retail": 8.05,
         "chu_ky": {
           "banker": 3,
@@ -2622,43 +1918,747 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 0.82,
-      "dt_hot": 5.76,
+      "dt_banker": 4.94,
+      "dt_hot": 8.16,
       "dt_retail": 8.05
+    },
+    {
+      "symbol": "DCM",
+      "in_vn30": false,
+      "liquidity_20d": 91147134250.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 33.4,
+      "rs_63": 1.0637051310441392,
+      "ma_stack": false,
+      "dist_ma20_pct": -1.3949368957118735,
+      "vol_ratio": 0.1423724824975977,
+      "pct_from_52w_high": 0.667866426714657,
+      "atr14_pct": 3.1544054747647565,
+      "dinh_52t": 50.01,
+      "day_52t": 28.5,
+      "pct_so_dinh_52t": -33.2133573285343,
+      "pct_so_day_52t": 17.19298245614034,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 1.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.06), cách đỉnh 52 tuần 33.2%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 31.29285714285714,
+        "khoang_cach_pct": 6.308810949529513,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 8.07,
+        "hot_money": 9.88,
+        "retail": 9.96,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 8.07,
+      "dt_hot": 9.88,
+      "dt_retail": 9.96
+    },
+    {
+      "symbol": "VPI",
+      "in_vn30": false,
+      "liquidity_20d": 86613284000.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 50.3,
+      "rs_63": 0.9395425570799968,
+      "ma_stack": false,
+      "dist_ma20_pct": -13.171068530985664,
+      "vol_ratio": 0.9168780365524225,
+      "pct_from_52w_high": 0.7933753943217665,
+      "atr14_pct": 3.7418347060494206,
+      "dinh_52t": 63.4,
+      "day_52t": 46.27,
+      "pct_so_dinh_52t": -20.66246056782335,
+      "pct_so_day_52t": 8.709747136373448,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 13.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 20.7%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 46.53571428571428,
+        "khoang_cach_pct": 7.483669412098841,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 0.36,
+        "hot_money": 4.56,
+        "retail": 7.97,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 0.36,
+      "dt_hot": 4.56,
+      "dt_retail": 7.97
+    },
+    {
+      "symbol": "DXG",
+      "in_vn30": false,
+      "liquidity_20d": 79154843400.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 10.05,
+      "rs_63": 0.8644431502955708,
+      "ma_stack": false,
+      "dist_ma20_pct": -0.6278736342512303,
+      "vol_ratio": 0.20016762282503484,
+      "pct_from_52w_high": 0.48762736535662304,
+      "atr14_pct": 3.1698649609097354,
+      "dinh_52t": 20.61,
+      "day_52t": 9.3,
+      "pct_so_dinh_52t": -51.2372634643377,
+      "pct_so_day_52t": 8.064516129032251,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 0.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.86), cách đỉnh 52 tuần 51.2%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 9.412857142857144,
+        "khoang_cach_pct": 6.339729921819471,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 15.74,
+        "hot_money": 8.41,
+        "retail": 8.33,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 15.74,
+      "dt_hot": 8.41,
+      "dt_retail": 8.33
+    },
+    {
+      "symbol": "DGW",
+      "in_vn30": false,
+      "liquidity_20d": 76768998800.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 45.4,
+      "rs_63": 1.2886548380244052,
+      "ma_stack": true,
+      "dist_ma20_pct": -0.21868372179913997,
+      "vol_ratio": 0.08083787998013897,
+      "pct_from_52w_high": 0.8211249773919335,
+      "atr14_pct": 3.6076148521082443,
+      "dinh_52t": 55.29,
+      "day_52t": 30.76,
+      "pct_so_dinh_52t": -17.887502260806652,
+      "pct_so_day_52t": 47.59427828348504,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 0.2%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.29), cách đỉnh 52 tuần 17.9%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách -0.2%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 42.12428571428571,
+        "khoang_cach_pct": 7.215229704216489,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 3.38,
+        "hot_money": 10.48,
+        "retail": 11.08,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 3.38,
+      "dt_hot": 10.48,
+      "dt_retail": 11.08
+    },
+    {
+      "symbol": "CII",
+      "in_vn30": false,
+      "liquidity_20d": 74406662000.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 12.5,
+      "rs_63": 0.8302007709558192,
+      "ma_stack": false,
+      "dist_ma20_pct": 1.4198782961460488,
+      "vol_ratio": 0.5399802056545052,
+      "pct_from_52w_high": 0.39872408293460926,
+      "atr14_pct": 4.257142857142857,
+      "dinh_52t": 31.35,
+      "day_52t": 11.35,
+      "pct_so_dinh_52t": -60.12759170653907,
+      "pct_so_day_52t": 10.132158590308382,
+      "breakout_52t": null,
+      "boi_canh": "Giá trên MA20 1.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.83), cách đỉnh 52 tuần 60.1%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.435714285714285,
+        "khoang_cach_pct": 8.514285714285714,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 15.43,
+        "hot_money": 9.71,
+        "retail": 8.53,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 15.43,
+      "dt_hot": 9.71,
+      "dt_retail": 8.53
+    },
+    {
+      "symbol": "PVD",
+      "in_vn30": false,
+      "liquidity_20d": 71816512500.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 17.75,
+      "rs_63": 0.9479076079982066,
+      "ma_stack": false,
+      "dist_ma20_pct": -3.5194999320559917,
+      "vol_ratio": 0.19921440163282136,
+      "pct_from_52w_high": 0.6511371973587674,
+      "atr14_pct": 3.3400402414486905,
+      "dinh_52t": 27.26,
+      "day_52t": 11.26,
+      "pct_so_dinh_52t": -34.88628026412326,
+      "pct_so_day_52t": 57.637655417406755,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 3.5%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.95), cách đỉnh 52 tuần 34.9%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 16.564285714285717,
+        "khoang_cach_pct": 6.680080482897381,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 5.79,
+        "hot_money": 8.11,
+        "retail": 9.27,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 5.79,
+      "dt_hot": 8.11,
+      "dt_retail": 9.27
+    },
+    {
+      "symbol": "BVH",
+      "in_vn30": false,
+      "liquidity_20d": 70896748500.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 76.1,
+      "rs_63": 1.353514309127943,
+      "ma_stack": false,
+      "dist_ma20_pct": 3.417816131004958,
+      "vol_ratio": 0.12540491202309673,
+      "pct_from_52w_high": 0.8598870056497174,
+      "atr14_pct": 3.4822601839684673,
+      "dinh_52t": 88.5,
+      "day_52t": 46.21,
+      "pct_so_dinh_52t": -14.011299435028256,
+      "pct_so_day_52t": 64.68296905431723,
+      "breakout_52t": null,
+      "boi_canh": "Giá trên MA20 3.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.35), cách đỉnh 52 tuần 14.0%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 70.79999999999998,
+        "khoang_cach_pct": 6.9645203679369345,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 11.56,
+        "hot_money": 12.66,
+        "retail": 11.67,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 11.56,
+      "dt_hot": 12.66,
+      "dt_retail": 11.67
+    },
+    {
+      "symbol": "POW",
+      "in_vn30": false,
+      "liquidity_20d": 66246505500.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 12.1,
+      "rs_63": 0.9134836454177467,
+      "ma_stack": false,
+      "dist_ma20_pct": -3.9682539682539653,
+      "vol_ratio": 0.981258758488997,
+      "pct_from_52w_high": 0.7181008902077151,
+      "atr14_pct": 2.479338842975206,
+      "dinh_52t": 16.85,
+      "day_52t": 10.66,
+      "pct_so_dinh_52t": -28.189910979228493,
+      "pct_so_day_52t": 13.508442776735464,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 4.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.91), cách đỉnh 52 tuần 28.2%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 11.5,
+        "khoang_cach_pct": 4.958677685950412,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 1.97,
+        "hot_money": 6.21,
+        "retail": 8.21,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 1.97,
+      "dt_hot": 6.21,
+      "dt_retail": 8.21
+    },
+    {
+      "symbol": "HCM",
+      "in_vn30": false,
+      "liquidity_20d": 61592251000.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 23.1,
+      "rs_63": 1.0412600597369586,
+      "ma_stack": false,
+      "dist_ma20_pct": -3.5993740219092185,
+      "vol_ratio": 0.10496645477634071,
+      "pct_from_52w_high": 0.8446069469835467,
+      "atr14_pct": 3.153988868274582,
+      "dinh_52t": 27.35,
+      "day_52t": 16.47,
+      "pct_so_dinh_52t": -15.539305301645335,
+      "pct_so_day_52t": 40.25500910746813,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 3.6%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 15.5%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 21.642857142857146,
+        "khoang_cach_pct": 6.307977736549164,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 8.22,
+        "hot_money": 7.31,
+        "retail": 8.96,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 8.22,
+      "dt_hot": 7.31,
+      "dt_retail": 8.96
+    },
+    {
+      "symbol": "DPM",
+      "in_vn30": false,
+      "liquidity_20d": 58283880000.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 21.25,
+      "rs_63": 1.0090132447001494,
+      "ma_stack": false,
+      "dist_ma20_pct": -4.246930269235117,
+      "vol_ratio": 0.14511687594129022,
+      "pct_from_52w_high": 0.6339498806682577,
+      "atr14_pct": 2.420168067226892,
+      "dinh_52t": 33.52,
+      "day_52t": 20.18,
+      "pct_so_dinh_52t": -36.605011933174225,
+      "pct_so_day_52t": 5.3022794846382615,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 4.2%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.01), cách đỉnh 52 tuần 36.6%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 20.22142857142857,
+        "khoang_cach_pct": 4.840336134453784,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 5.54,
+        "hot_money": 7.4,
+        "retail": 8.98,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 5.54,
+      "dt_hot": 7.4,
+      "dt_retail": 8.98
+    },
+    {
+      "symbol": "GMD",
+      "in_vn30": false,
+      "liquidity_20d": 57999987200.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 52.9,
+      "rs_63": 1.0814703423032033,
+      "ma_stack": true,
+      "dist_ma20_pct": 0.9831058509115032,
+      "vol_ratio": 0.2150855108057207,
+      "pct_from_52w_high": 0.9123835805450156,
+      "atr14_pct": 2.7153659195247117,
+      "dinh_52t": 57.98,
+      "day_52t": 36.86,
+      "pct_so_dinh_52t": -8.761641945498443,
+      "pct_so_day_52t": 43.51600651112317,
+      "breakout_52t": null,
+      "boi_canh": "Giá trên MA20 1.0%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.08), cách đỉnh 52 tuần 8.8%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "pullback_ma20",
+        "nen_mua": true,
+        "dien_giai": "Pullback về MA20 (cách 1.0%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+      },
+      "stoploss": {
+        "gia": 50.027142857142856,
+        "khoang_cach_pct": 5.4307318390494235,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 7.88,
+        "hot_money": 10.71,
+        "retail": 10.69,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 7.88,
+      "dt_hot": 10.71,
+      "dt_retail": 10.69
+    },
+    {
+      "symbol": "EIB",
+      "in_vn30": false,
+      "liquidity_20d": 51367850750.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 16.25,
+      "rs_63": 0.8767261612047572,
+      "ma_stack": false,
+      "dist_ma20_pct": -1.2007903936768427,
+      "vol_ratio": 0.0806535338943584,
+      "pct_from_52w_high": 0.593065693430657,
+      "atr14_pct": 1.9780219780219783,
+      "dinh_52t": 27.4,
+      "day_52t": 15.75,
+      "pct_so_dinh_52t": -40.693430656934304,
+      "pct_so_day_52t": 3.1746031746031855,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 1.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.88), cách đỉnh 52 tuần 40.7%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 15.607142857142858,
+        "khoang_cach_pct": 3.9560439560439566,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 10.94,
+        "hot_money": 8.25,
+        "retail": 7.93,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 10.94,
+      "dt_hot": 8.25,
+      "dt_retail": 7.93
+    },
+    {
+      "symbol": "KDH",
+      "in_vn30": false,
+      "liquidity_20d": 48694294800.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 13.5,
+      "rs_63": 0.7990155643310828,
+      "ma_stack": false,
+      "dist_ma20_pct": -2.5692840646651227,
+      "vol_ratio": 0.15404532608311483,
+      "pct_from_52w_high": 0.40736270368135186,
+      "atr14_pct": 2.825396825396825,
+      "dinh_52t": 33.14,
+      "day_52t": 13.0,
+      "pct_so_dinh_52t": -59.26372963186481,
+      "pct_so_day_52t": 3.8461538461538547,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 2.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.80), cách đỉnh 52 tuần 59.3%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 12.737142857142857,
+        "khoang_cach_pct": 5.65079365079365,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 9.14,
+        "hot_money": 6.82,
+        "retail": 6.89,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 9.14,
+      "dt_hot": 6.82,
+      "dt_retail": 6.89
+    },
+    {
+      "symbol": "PDR",
+      "in_vn30": false,
+      "liquidity_20d": 44753178750.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 11.05,
+      "rs_63": 0.8463927159192788,
+      "ma_stack": false,
+      "dist_ma20_pct": -2.1691013722886177,
+      "vol_ratio": 0.35884178250354903,
+      "pct_from_52w_high": 0.40925925925925927,
+      "atr14_pct": 3.102779573367808,
+      "dinh_52t": 27.0,
+      "day_52t": 10.4,
+      "pct_so_dinh_52t": -59.074074074074076,
+      "pct_so_day_52t": 6.25,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 2.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 59.1%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 10.364285714285716,
+        "khoang_cach_pct": 6.205559146735615,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 4.33,
+        "hot_money": 6.3,
+        "retail": 7.24,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 4.33,
+      "dt_hot": 6.3,
+      "dt_retail": 7.24
+    },
+    {
+      "symbol": "TCH",
+      "in_vn30": false,
+      "liquidity_20d": 42889808250.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 11.1,
+      "rs_63": 0.9215228557609593,
+      "ma_stack": false,
+      "dist_ma20_pct": -0.8042895442359366,
+      "vol_ratio": 0.62548893747618,
+      "pct_from_52w_high": 0.4883413990321161,
+      "atr14_pct": 3.8931788931788938,
+      "dinh_52t": 22.73,
+      "day_52t": 9.59,
+      "pct_so_dinh_52t": -51.165860096788386,
+      "pct_so_day_52t": 15.745568300312819,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 0.8%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.92), cách đỉnh 52 tuần 51.2%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 10.235714285714286,
+        "khoang_cach_pct": 7.7863577863577875,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 16.07,
+        "hot_money": 9.6,
+        "retail": 9.11,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 16.07,
+      "dt_hot": 9.6,
+      "dt_retail": 9.11
+    },
+    {
+      "symbol": "VTP",
+      "in_vn30": false,
+      "liquidity_20d": 39614998000.0,
+      "sessions": 739,
+      "insufficient_history": false,
+      "close": 45.75,
+      "rs_63": 0.9250260150834897,
+      "ma_stack": false,
+      "dist_ma20_pct": -7.850344931768971,
+      "vol_ratio": 0.17990776880206982,
+      "pct_from_52w_high": 0.5550837175442853,
+      "atr14_pct": 4.270101483216237,
+      "dinh_52t": 82.42,
+      "day_52t": 43.4,
+      "pct_so_dinh_52t": -44.49162824557147,
+      "pct_so_day_52t": 5.414746543778803,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 7.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 44.5%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 41.84285714285714,
+        "khoang_cach_pct": 8.540202966432474,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 5.36,
+        "hot_money": 6.41,
+        "retail": 8.23,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 5.36,
+      "dt_hot": 6.41,
+      "dt_retail": 8.23
     },
     {
       "symbol": "DIG",
       "in_vn30": false,
-      "liquidity_20d": 34344669650.0,
+      "liquidity_20d": 35007719750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 9.45,
-      "rs_63": 0.8743139367239499,
+      "close": 9.53,
+      "rs_63": 0.883439228875629,
       "ma_stack": false,
-      "dist_ma20_pct": -1.1351153423654448,
-      "vol_ratio": 0.0031845147661969065,
-      "pct_from_52w_high": 0.39907094594594594,
-      "atr14_pct": 3.8019652305366614,
+      "dist_ma20_pct": -0.3398692810457571,
+      "vol_ratio": 0.37242900190672823,
+      "pct_from_52w_high": 0.4024493243243243,
+      "atr14_pct": 3.8974666466796606,
       "dinh_52t": 23.68,
       "day_52t": 8.71,
-      "pct_so_dinh_52t": -60.0929054054054,
-      "pct_so_day_52t": 8.495981630309979,
+      "pct_so_dinh_52t": -59.755067567567565,
+      "pct_so_day_52t": 9.414466130884014,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 1.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.87), cách đỉnh 52 tuần 60.1%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 0.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.88), cách đỉnh 52 tuần 59.8%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 8.73142857142857,
-        "khoang_cach_pct": 7.603930461073323,
+        "gia": 8.787142857142856,
+        "khoang_cach_pct": 7.794933293359321,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 10.28,
-        "hot_money": 8.54,
-        "retail": 8.31,
+        "banker": 16.73,
+        "hot_money": 9.09,
+        "retail": 8.43,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -2666,43 +2666,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 10.28,
-      "dt_hot": 8.54,
-      "dt_retail": 8.31
+      "dt_banker": 16.73,
+      "dt_hot": 9.09,
+      "dt_retail": 8.43
     },
     {
       "symbol": "HAG",
       "in_vn30": false,
-      "liquidity_20d": 31195694000.0,
+      "liquidity_20d": 31578658750.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 14.35,
-      "rs_63": 1.0293926542676806,
+      "close": 14.5,
+      "rs_63": 1.0421862828820723,
       "ma_stack": false,
-      "dist_ma20_pct": 0.43744531933507247,
-      "vol_ratio": 0.005516301118284296,
-      "pct_from_52w_high": 0.7454545454545455,
-      "atr14_pct": 2.065704330512693,
+      "dist_ma20_pct": 1.4340678558936615,
+      "vol_ratio": 0.24235846539193767,
+      "pct_from_52w_high": 0.7532467532467533,
+      "atr14_pct": 2.1428571428571423,
       "dinh_52t": 19.25,
       "day_52t": 13.25,
-      "pct_so_dinh_52t": -25.454545454545453,
-      "pct_so_day_52t": 8.301886792452828,
+      "pct_so_dinh_52t": -24.675324675324674,
+      "pct_so_day_52t": 9.433962264150942,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.03), cách đỉnh 52 tuần 25.5%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 1.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.04), cách đỉnh 52 tuần 24.7%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 13.757142857142856,
-        "khoang_cach_pct": 4.131408661025386,
+        "gia": 13.878571428571428,
+        "khoang_cach_pct": 4.285714285714285,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 6.31,
-        "hot_money": 10.46,
-        "retail": 9.74,
+        "banker": 12.71,
+        "hot_money": 11.63,
+        "retail": 10.11,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -2710,23 +2710,23 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 6.31,
-      "dt_hot": 10.46,
-      "dt_retail": 9.74
+      "dt_banker": 12.71,
+      "dt_hot": 11.63,
+      "dt_retail": 10.11
     },
     {
       "symbol": "NLG",
       "in_vn30": false,
-      "liquidity_20d": 30101251000.0,
+      "liquidity_20d": 30234917000.0,
       "sessions": 746,
       "insufficient_history": false,
       "close": 21.2,
-      "rs_63": 0.8916995210078852,
+      "rs_63": 0.8934427316927268,
       "ma_stack": false,
       "dist_ma20_pct": -4.493749296091898,
-      "vol_ratio": 0.0004880429477794046,
+      "vol_ratio": 0.08840549396918357,
       "pct_from_52w_high": 0.5382076669205382,
-      "atr14_pct": 2.594339622641509,
+      "atr14_pct": 2.7291105121293806,
       "dinh_52t": 39.39,
       "day_52t": 19.15,
       "pct_so_dinh_52t": -46.17923330794618,
@@ -2739,8 +2739,8 @@
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 20.099999999999998,
-        "khoang_cach_pct": 5.188679245283018,
+        "gia": 20.04285714285714,
+        "khoang_cach_pct": 5.458221024258761,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
@@ -2761,16 +2761,16 @@
     {
       "symbol": "KBC",
       "in_vn30": false,
-      "liquidity_20d": 29196624250.0,
+      "liquidity_20d": 29267152250.0,
       "sessions": 746,
       "insufficient_history": false,
       "close": 25.6,
-      "rs_63": 0.9374669195660151,
+      "rs_63": 0.9392996023390483,
       "ma_stack": false,
       "dist_ma20_pct": 0.029305460584172494,
-      "vol_ratio": 0.0031213678162335767,
+      "vol_ratio": 0.048381201151620444,
       "pct_from_52w_high": 0.6701570680628273,
-      "atr14_pct": 2.0647321428571423,
+      "atr14_pct": 2.0786830357142856,
       "dinh_52t": 38.2,
       "day_52t": 24.15,
       "pct_so_dinh_52t": -32.98429319371727,
@@ -2783,8 +2783,8 @@
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 24.542857142857144,
-        "khoang_cach_pct": 4.129464285714285,
+        "gia": 24.53571428571429,
+        "khoang_cach_pct": 4.157366071428571,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
@@ -2805,36 +2805,36 @@
     {
       "symbol": "VGC",
       "in_vn30": false,
-      "liquidity_20d": 27210787000.0,
+      "liquidity_20d": 27302254250.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 43.35,
-      "rs_63": 1.162950721162531,
+      "close": 43.45,
+      "rs_63": 1.167912154239507,
       "ma_stack": false,
-      "dist_ma20_pct": 0.4344048653344812,
-      "vol_ratio": 0.0015779217193035054,
-      "pct_from_52w_high": 0.7863232359876655,
-      "atr14_pct": 3.22952710495963,
+      "dist_ma20_pct": 0.6544275207042372,
+      "vol_ratio": 0.06800842610198109,
+      "pct_from_52w_high": 0.7881371304190097,
+      "atr14_pct": 3.2220943613348667,
       "dinh_52t": 55.13,
       "day_52t": 34.0,
-      "pct_so_dinh_52t": -21.36767640123345,
-      "pct_so_day_52t": 27.500000000000014,
+      "pct_so_dinh_52t": -21.186286958099032,
+      "pct_so_day_52t": 27.794117647058837,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 0.4%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.16), cách đỉnh 52 tuần 21.4%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 0.7%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.17), cách đỉnh 52 tuần 21.2%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 40.550000000000004,
-        "khoang_cach_pct": 6.45905420991926,
+        "gia": 40.650000000000006,
+        "khoang_cach_pct": 6.444188722669733,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 7.62,
-        "hot_money": 10.75,
-        "retail": 10.85,
+        "banker": 8.22,
+        "hot_money": 10.89,
+        "retail": 10.9,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -2842,43 +2842,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 7.62,
-      "dt_hot": 10.75,
-      "dt_retail": 10.85
+      "dt_banker": 8.22,
+      "dt_hot": 10.89,
+      "dt_retail": 10.9
     },
     {
       "symbol": "PC1",
       "in_vn30": false,
-      "liquidity_20d": 26478080500.0,
+      "liquidity_20d": 26548652000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 18.2,
-      "rs_63": 0.8824694028003873,
+      "close": 18.3,
+      "rs_63": 0.8890527811635762,
       "ma_stack": false,
-      "dist_ma20_pct": -7.871424955707429,
-      "vol_ratio": 0.017130400579345735,
-      "pct_from_52w_high": 0.5652173913043478,
-      "atr14_pct": 3.0219780219780215,
+      "dist_ma20_pct": -7.38866396761132,
+      "vol_ratio": 0.07374159562696898,
+      "pct_from_52w_high": 0.5683229813664596,
+      "atr14_pct": 3.0835284933645584,
       "dinh_52t": 32.2,
       "day_52t": 16.65,
-      "pct_so_dinh_52t": -43.47826086956522,
-      "pct_so_day_52t": 9.30930930930931,
+      "pct_so_dinh_52t": -43.16770186335403,
+      "pct_so_day_52t": 9.90990990990992,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 7.9%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.88), cách đỉnh 52 tuần 43.5%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 7.4%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.89), cách đỉnh 52 tuần 43.2%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 17.1,
-        "khoang_cach_pct": 6.043956043956042,
+        "gia": 17.17142857142857,
+        "khoang_cach_pct": 6.167056986729117,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 1.14,
-        "hot_money": 5.52,
-        "retail": 8.11,
+        "banker": 2.82,
+        "hot_money": 5.82,
+        "retail": 8.19,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -2886,43 +2886,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 1.14,
-      "dt_hot": 5.52,
-      "dt_retail": 8.11
+      "dt_banker": 2.82,
+      "dt_hot": 5.82,
+      "dt_retail": 8.19
     },
     {
       "symbol": "SBT",
       "in_vn30": false,
-      "liquidity_20d": 25797587500.0,
+      "liquidity_20d": 26190795500.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 22.6,
-      "rs_63": 1.1271226155704792,
+      "close": 22.4,
+      "rs_63": 1.1193320261206992,
       "ma_stack": true,
-      "dist_ma20_pct": -0.5719313682357896,
-      "vol_ratio": 0.0020181804421496984,
-      "pct_from_52w_high": 0.8890637293469709,
-      "atr14_pct": 1.5170670037926688,
+      "dist_ma20_pct": -1.4084507042253502,
+      "vol_ratio": 0.29726116095829935,
+      "pct_from_52w_high": 0.8811959087332808,
+      "atr14_pct": 1.6422193877551026,
       "dinh_52t": 26.04,
       "day_52t": 19.15,
-      "pct_so_dinh_52t": -13.21044546850998,
-      "pct_so_day_52t": 18.01566579634466,
+      "pct_so_dinh_52t": -13.978494623655912,
+      "pct_so_day_52t": 16.971279373368155,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 0.6%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.13), cách đỉnh 52 tuần 13.2%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 1.4%, MA20>MA50>MA200 (xu hướng tăng cấu trúc), mạnh hơn thị trường 63 phiên (RS 1.12), cách đỉnh 52 tuần 14.0%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "pullback_ma20",
         "nen_mua": true,
-        "dien_giai": "Pullback về MA20 (cách -0.6%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
+        "dien_giai": "Pullback về MA20 (cách -1.4%) trong xu hướng tăng còn nguyên. Vào khi xuất hiện nến rút chân và volume bán cạn."
       },
       "stoploss": {
-        "gia": 21.914285714285715,
-        "khoang_cach_pct": 3.0341340075853376,
+        "gia": 21.66428571428571,
+        "khoang_cach_pct": 3.284438775510205,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 4.95,
-        "hot_money": 9.23,
-        "retail": 10.48,
+        "banker": 2.68,
+        "hot_money": 8.32,
+        "retail": 10.16,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -2930,43 +2930,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 4.95,
-      "dt_hot": 9.23,
-      "dt_retail": 10.48
+      "dt_banker": 2.68,
+      "dt_hot": 8.32,
+      "dt_retail": 10.16
     },
     {
       "symbol": "NAB",
       "in_vn30": false,
-      "liquidity_20d": 24023585000.0,
+      "liquidity_20d": 24306582500.0,
       "sessions": 740,
       "insufficient_history": false,
-      "close": 12.0,
-      "rs_63": 0.9667627608024532,
+      "close": 11.95,
+      "rs_63": 0.964616661933343,
       "ma_stack": false,
-      "dist_ma20_pct": -2.220411489101659,
-      "vol_ratio": 0.041816066982610284,
-      "pct_from_52w_high": 0.8888888888888888,
-      "atr14_pct": 2.976190476190477,
+      "dist_ma20_pct": -2.6079869600652006,
+      "vol_ratio": 0.2696415353706249,
+      "pct_from_52w_high": 0.8851851851851852,
+      "atr14_pct": 3.1081888822474606,
       "dinh_52t": 13.5,
       "day_52t": 10.08,
-      "pct_so_dinh_52t": -11.111111111111116,
-      "pct_so_day_52t": 19.047619047619047,
+      "pct_so_dinh_52t": -11.481481481481481,
+      "pct_so_day_52t": 18.551587301587304,
       "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.2%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.97), cách đỉnh 52 tuần 11.1%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá dưới MA20 2.6%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.96), cách đỉnh 52 tuần 11.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 11.285714285714285,
-        "khoang_cach_pct": 5.952380952380954,
+        "gia": 11.207142857142856,
+        "khoang_cach_pct": 6.216377764494921,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 5.45,
-        "hot_money": 9.24,
-        "retail": 9.86,
+        "banker": 4.84,
+        "hot_money": 9.01,
+        "retail": 9.77,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -2974,87 +2974,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 5.45,
-      "dt_hot": 9.24,
-      "dt_retail": 9.86
-    },
-    {
-      "symbol": "REE",
-      "in_vn30": false,
-      "liquidity_20d": 22794558500.0,
-      "sessions": 746,
-      "insufficient_history": false,
-      "close": 45.0,
-      "rs_63": 1.0201230430545365,
-      "ma_stack": false,
-      "dist_ma20_pct": -2.8392529418114987,
-      "vol_ratio": 0.04526014614840144,
-      "pct_from_52w_high": 0.6974581525108494,
-      "atr14_pct": 2.4365079365079367,
-      "dinh_52t": 64.52,
-      "day_52t": 42.5,
-      "pct_so_dinh_52t": -30.25418474891506,
-      "pct_so_day_52t": 5.882352941176472,
-      "breakout_52t": null,
-      "boi_canh": "Giá dưới MA20 2.8%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.02), cách đỉnh 52 tuần 30.3%, chế độ thị trường DOWNTREND.",
-      "trigger": {
-        "setup": "khong_nhan_dien",
-        "nen_mua": false,
-        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
-      },
-      "stoploss": {
-        "gia": 42.80714285714286,
-        "khoang_cach_pct": 4.8730158730158735,
-        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
-      },
-      "dong_tien": {
-        "banker": 5.78,
-        "hot_money": 8.16,
-        "retail": 8.81,
-        "chu_ky": {
-          "banker": 3,
-          "hot_money": 13,
-          "retail": 40
-        },
-        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
-      },
-      "dt_banker": 5.78,
-      "dt_hot": 8.16,
-      "dt_retail": 8.81
+      "dt_banker": 4.84,
+      "dt_hot": 9.01,
+      "dt_retail": 9.77
     },
     {
       "symbol": "HSG",
       "in_vn30": false,
-      "liquidity_20d": 22794279700.0,
+      "liquidity_20d": 23218384700.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 10.4,
-      "rs_63": 0.9349522550822008,
+      "close": 10.45,
+      "rs_63": 0.9412837719657703,
       "ma_stack": false,
-      "dist_ma20_pct": 3.266805679674323,
-      "vol_ratio": 0.016325872904139564,
-      "pct_from_52w_high": 0.7113543091655268,
-      "atr14_pct": 2.410714285714283,
+      "dist_ma20_pct": 3.737529160669073,
+      "vol_ratio": 0.3604413498316527,
+      "pct_from_52w_high": 0.7147742818057455,
+      "atr14_pct": 2.433356117566642,
       "dinh_52t": 14.62,
       "day_52t": 9.7,
-      "pct_so_dinh_52t": -28.86456908344732,
-      "pct_so_day_52t": 7.2164948453608435,
+      "pct_so_dinh_52t": -28.522571819425448,
+      "pct_so_day_52t": 7.731958762886593,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 3.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.93), cách đỉnh 52 tuần 28.9%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 3.7%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.94), cách đỉnh 52 tuần 28.5%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 9.89857142857143,
-        "khoang_cach_pct": 4.821428571428566,
+        "gia": 9.94142857142857,
+        "khoang_cach_pct": 4.866712235133284,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 13.31,
-        "hot_money": 11.49,
-        "retail": 9.42,
+        "banker": 14.5,
+        "hot_money": 11.88,
+        "retail": 9.52,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -3062,43 +3018,87 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 13.31,
-      "dt_hot": 11.49,
-      "dt_retail": 9.42
+      "dt_banker": 14.5,
+      "dt_hot": 11.88,
+      "dt_retail": 9.52
+    },
+    {
+      "symbol": "REE",
+      "in_vn30": false,
+      "liquidity_20d": 23003771500.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 44.8,
+      "rs_63": 1.0175745692006355,
+      "ma_stack": false,
+      "dist_ma20_pct": -3.2501889644746873,
+      "vol_ratio": 0.23168409614291838,
+      "pct_from_52w_high": 0.69435833849969,
+      "atr14_pct": 2.4713010204081636,
+      "dinh_52t": 64.52,
+      "day_52t": 42.5,
+      "pct_so_dinh_52t": -30.564166150031003,
+      "pct_so_day_52t": 5.411764705882338,
+      "breakout_52t": null,
+      "boi_canh": "Giá dưới MA20 3.3%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.02), cách đỉnh 52 tuần 30.6%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 42.58571428571428,
+        "khoang_cach_pct": 4.942602040816327,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 4.58,
+        "hot_money": 7.87,
+        "retail": 8.71,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 4.58,
+      "dt_hot": 7.87,
+      "dt_retail": 8.71
     },
     {
       "symbol": "VCG",
       "in_vn30": false,
-      "liquidity_20d": 22318331000.0,
+      "liquidity_20d": 22860987000.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 14.2,
-      "rs_63": 0.837861059362126,
+      "close": 14.3,
+      "rs_63": 0.8454109845172183,
       "ma_stack": false,
-      "dist_ma20_pct": 2.2870520439402187,
-      "vol_ratio": 0.004973014085331071,
-      "pct_from_52w_high": 0.5529595015576324,
-      "atr14_pct": 2.364185110663983,
+      "dist_ma20_pct": 2.970297029702973,
+      "vol_ratio": 0.44897541283330167,
+      "pct_from_52w_high": 0.5568535825545171,
+      "atr14_pct": 2.4975024975024964,
       "dinh_52t": 25.68,
       "day_52t": 13.15,
-      "pct_so_dinh_52t": -44.704049844236756,
-      "pct_so_day_52t": 7.984790874524705,
+      "pct_so_dinh_52t": -44.31464174454829,
+      "pct_so_day_52t": 8.745247148288971,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 2.3%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.84), cách đỉnh 52 tuần 44.7%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 3.0%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.85), cách đỉnh 52 tuần 44.3%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 13.528571428571428,
-        "khoang_cach_pct": 4.728370221327966,
+        "gia": 13.585714285714287,
+        "khoang_cach_pct": 4.995004995004993,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 16.13,
-        "hot_money": 10.14,
-        "retail": 8.17,
+        "banker": 16.86,
+        "hot_money": 10.65,
+        "retail": 8.33,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -3106,43 +3106,43 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 16.13,
-      "dt_hot": 10.14,
-      "dt_retail": 8.17
+      "dt_banker": 16.86,
+      "dt_hot": 10.65,
+      "dt_retail": 8.33
     },
     {
       "symbol": "NT2",
       "in_vn30": false,
-      "liquidity_20d": 20396534500.0,
+      "liquidity_20d": 20602652500.0,
       "sessions": 746,
       "insufficient_history": false,
-      "close": 22.9,
-      "rs_63": 1.1129360939322903,
+      "close": 22.8,
+      "rs_63": 1.110242322892341,
       "ma_stack": false,
-      "dist_ma20_pct": 4.578148190432696,
-      "vol_ratio": 0.023408924652523776,
-      "pct_from_52w_high": 0.7775891341256367,
-      "atr14_pct": 2.5265127885215195,
+      "dist_ma20_pct": 4.145255224391908,
+      "vol_ratio": 0.2194586686174104,
+      "pct_from_52w_high": 0.7741935483870969,
+      "atr14_pct": 2.584586466165411,
       "dinh_52t": 29.45,
       "day_52t": 20.2,
-      "pct_so_dinh_52t": -22.24108658743633,
-      "pct_so_day_52t": 13.366336633663355,
+      "pct_so_dinh_52t": -22.580645161290313,
+      "pct_so_day_52t": 12.871287128712883,
       "breakout_52t": null,
-      "boi_canh": "Giá trên MA20 4.6%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.11), cách đỉnh 52 tuần 22.2%, chế độ thị trường DOWNTREND.",
+      "boi_canh": "Giá trên MA20 4.1%, MA chưa xếp thứ tự tăng, mạnh hơn thị trường 63 phiên (RS 1.11), cách đỉnh 52 tuần 22.6%, chế độ thị trường DOWNTREND.",
       "trigger": {
         "setup": "khong_nhan_dien",
         "nen_mua": false,
         "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
       },
       "stoploss": {
-        "gia": 21.742857142857144,
-        "khoang_cach_pct": 5.053025577043039,
+        "gia": 21.621428571428574,
+        "khoang_cach_pct": 5.169172932330822,
         "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
       },
       "dong_tien": {
-        "banker": 9.39,
-        "hot_money": 12.83,
-        "retail": 11.05,
+        "banker": 8.25,
+        "hot_money": 12.47,
+        "retail": 10.94,
         "chu_ky": {
           "banker": 3,
           "hot_money": 13,
@@ -3150,9 +3150,53 @@
         },
         "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
       },
-      "dt_banker": 9.39,
-      "dt_hot": 12.83,
-      "dt_retail": 11.05
+      "dt_banker": 8.25,
+      "dt_hot": 12.47,
+      "dt_retail": 10.94
+    },
+    {
+      "symbol": "HHV",
+      "in_vn30": false,
+      "liquidity_20d": 20188154250.0,
+      "sessions": 746,
+      "insufficient_history": false,
+      "close": 9.05,
+      "rs_63": 0.904460253249315,
+      "ma_stack": false,
+      "dist_ma20_pct": 0.0718748272239722,
+      "vol_ratio": 0.37609022687153804,
+      "pct_from_52w_high": 0.5969656992084433,
+      "atr14_pct": 2.3046566692975516,
+      "dinh_52t": 15.16,
+      "day_52t": 8.56,
+      "pct_so_dinh_52t": -40.30343007915567,
+      "pct_so_day_52t": 5.724299065420557,
+      "breakout_52t": null,
+      "boi_canh": "Giá trên MA20 0.1%, MA chưa xếp thứ tự tăng, yếu hơn thị trường 63 phiên (RS 0.90), cách đỉnh 52 tuần 40.3%, chế độ thị trường DOWNTREND.",
+      "trigger": {
+        "setup": "khong_nhan_dien",
+        "nen_mua": false,
+        "dien_giai": "Không nhận diện được setup nào từ số liệu ngày. Các setup dạng VCP hay cup-with-handle cần đọc hình dạng nền giá qua nhiều tuần, không suy ra được ở đây."
+      },
+      "stoploss": {
+        "gia": 8.632857142857144,
+        "khoang_cach_pct": 4.609313338595103,
+        "dien_giai": "2×ATR14 dưới giá hiện tại. Cắt lỗ khi giá đóng cửa dưới mức này, không chờ hồi."
+      },
+      "dong_tien": {
+        "banker": 14.39,
+        "hot_money": 8.84,
+        "retail": 7.87,
+        "chu_ky": {
+          "banker": 3,
+          "hot_money": 13,
+          "retail": 40
+        },
+        "ghi_chu": "MCDX dạng RSI đa chu kỳ tính từ giá đóng cửa (thang 0–20). Bản phổ biến này KHÔNG dùng khối lượng, nên 'Banker cao' chỉ có nghĩa RSI ngắn kỳ đang cao, không phải bằng chứng có tổ chức đứng sau."
+      },
+      "dt_banker": 14.39,
+      "dt_hot": 8.84,
+      "dt_retail": 7.87
     }
   ]
 }
