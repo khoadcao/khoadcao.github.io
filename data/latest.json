@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T07:47:40",
+  "generated_at": "2026-10-27T08:15:38",
   "date": "2026-10-27",
   "session_status": "intraday",
   "market": {
@@ -15,8 +15,8 @@
     "ma50_slope_10": -0.454395679481856,
     "ma200_slope_20": 0.04598784523011101,
     "distribution_days_25": 9,
-    "vol_ratio": 0.7269247355059448,
-    "atr14_pct": 1.2555653125048163,
+    "vol_ratio": 0.9386828798011952,
+    "atr14_pct": 1.2534977041438946,
     "drawdown": -8.61385727771612,
     "regime": "DOWNTREND",
     "regime_score": 1,
@@ -27,7 +27,7 @@
       "ma50_slope_positive": false,
       "distribution_ok": false
     },
-    "data_source": "dnse+vndirect"
+    "data_source": "dnse"
   },
   "stocks": [
     {
